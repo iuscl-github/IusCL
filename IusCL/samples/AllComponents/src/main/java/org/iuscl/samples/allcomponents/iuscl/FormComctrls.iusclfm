@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <Caption>FormComctrls Caption</Caption>
+  <ClientHeight>598</ClientHeight>
+  <ClientWidth>868</ClientWidth>
+  <Height>636</Height>
+  <Left>198</Left>
+  <Name>formComctrls</Name>
+  <Position>poScreenCenter</Position>
+  <Top>163</Top>
+  <Width>884</Width>
+  <object name="pageControl1">
+    <ActivePageIndex>2</ActivePageIndex>
+    <Anchors.Bottom>true</Anchors.Bottom>
+    <Anchors.Right>true</Anchors.Right>
+    <Height>473</Height>
+    <Left>24</Left>
+    <Name>pageControl1</Name>
+    <TabOrder>0</TabOrder>
+    <Top>56</Top>
+    <Width>833</Width>
+    <object name="tabSheet1">
+      <Caption>ProgressBar, UpDown, TrackBar, ScrollBar</Caption>
+      <Name>tabSheet1</Name>
+      <object name="progressBar1">
+        <Left>88</Left>
+        <Name>progressBar1</Name>
+        <TabOrder>0</TabOrder>
+        <Top>48</Top>
+      </object>
+      <object name="progressBar2">
+        <Color>clRed</Color>
+        <Height>33</Height>
+        <Left>8</Left>
+        <Name>progressBar2</Name>
+        <ParentColor>false</ParentColor>
+        <Smooth>true</Smooth>
+        <TabOrder>1</TabOrder>
+        <Top>8</Top>
+        <Width>409</Width>
+      </object>
+      <object name="button1">
+        <Caption>Step</Caption>
+        <Left>8</Left>
+        <Name>button1</Name>
+        <OnClick>button1Click</OnClick>
+        <TabOrder>2</TabOrder>
+        <Top>48</Top>
+      </object>
+      <object name="upDown1">
+        <Color>clLime</Color>
+        <Font.Name>Traditional Arabic</Font.Name>
+        <Height>33</Height>
+        <Left>440</Left>
+        <Name>upDown1</Name>
+        <ParentColor>false</ParentColor>
+        <ParentFont>false</ParentFont>
+        <Position>51</Position>
+        <TabOrder>3</TabOrder>
+        <Top>8</Top>
+        <Width>177</Width>
+        <Wrap>true</Wrap>
+      </object>
+      <object name="trackBar1">
+        <Left>8</Left>
+        <Name>trackBar1</Name>
+        <OnClick>trackBar1Click</OnClick>
+        <PageSize>1</PageSize>
+        <Position>5</Position>
+        <TabOrder>4</TabOrder>
+        <Top>80</Top>
+      </object>
+      <object name="edit1">
+        <Left>272</Left>
+        <Name>edit1</Name>
+        <TabOrder>5</TabOrder>
+        <Text>edit1</Text>
+        <Top>88</Top>
+      </object>
+      <object name="button2">
+        <Caption>button2</Caption>
+        <Left>416</Left>
+        <Name>button2</Name>
+        <OnClick>button2Click</OnClick>
+        <TabOrder>6</TabOrder>
+        <Top>88</Top>
+      </object>
+      <object name="scrollBar1">
+        <Caption>scrollBar1</Caption>
+        <Left>8</Left>
+        <Name>scrollBar1</Name>
+        <OnScroll>scrollBar1Scroll</OnScroll>
+        <PageSize>50</PageSize>
+        <TabOrder>7</TabOrder>
+        <Top>136</Top>
+        <Width>265</Width>
+      </object>
+    </object>
+    <object name="tabSheet2">
+      <Caption>TreeView, ListView, ComboBox</Caption>
+      <Name>tabSheet2</Name>
+      <object name="treeView1">
+        <Caption>treeView1</Caption>
+        <Height>249</Height>
+        <Left>8</Left>
+        <MultiSelect>true</MultiSelect>
+        <Name>treeView1</Name>
+        <OnCollapsed>treeView1Collapsed</OnCollapsed>
+        <OnExpanded>treeView1Expanded</OnExpanded>
+        <OnMouseMove>treeView1MouseMove</OnMouseMove>
+        <TabOrder>0</TabOrder>
+        <Top>40</Top>
+        <Width>209</Width>
+      </object>
+      <object name="button3">
+        <Caption>Fill tree</Caption>
+        <Left>24</Left>
+        <Name>button3</Name>
+        <OnClick>button3Click</OnClick>
+        <TabOrder>1</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="button4">
+        <Caption>button4</Caption>
+        <Left>112</Left>
+        <Name>button4</Name>
+        <OnClick>button4Click</OnClick>
+        <TabOrder>2</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="button5">
+        <Caption>button5</Caption>
+        <Left>200</Left>
+        <Name>button5</Name>
+        <OnClick>button5Click</OnClick>
+        <TabOrder>3</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="listView1">
+        <Color>clGreen</Color>
+        <collection name="Columns">
+          <item>
+            <Alignment>caRightJustify</Alignment>
+            <AllowResize>false</AllowResize>
+            <Caption>Unu</Caption>
+            <ImageIndex>0</ImageIndex>
+            <Width>150</Width>
+          </item>
+          <item>
+            <Caption>Doi</Caption>
+            <ImageIndex>1</ImageIndex>
+            <Width>100</Width>
+          </item>
+          <item>
+            <Caption>Trei</Caption>
+            <ImageIndex>2</ImageIndex>
+            <Width>120</Width>
+          </item>
+        </collection>
+        <GridLines>true</GridLines>
+        <HeaderImages>imageList1</HeaderImages>
+        <Height>249</Height>
+        <Left>224</Left>
+        <Name>listView1</Name>
+        <OnClick>listView1Click</OnClick>
+        <ParentColor>false</ParentColor>
+        <SmallImages>imageList2</SmallImages>
+        <TabOrder>4</TabOrder>
+        <Top>40</Top>
+        <Width>409</Width>
+      </object>
+      <object name="button6">
+        <Caption>Fill list</Caption>
+        <Left>296</Left>
+        <Name>button6</Name>
+        <OnClick>button6Click</OnClick>
+        <TabOrder>5</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="comboBox1">
+        <DropDownCount>3</DropDownCount>
+        <Items>FormComctrls/comboBox1_Items.txt</Items>
+        <Left>640</Left>
+        <Name>comboBox1</Name>
+        <OnChange>comboBox1Change</OnChange>
+        <OnClick>comboBox1Click</OnClick>
+        <TabOrder>6</TabOrder>
+        <Top>40</Top>
+        <Width>177</Width>
+      </object>
+      <object name="button7">
+        <Caption>Sort</Caption>
+        <Left>640</Left>
+        <Name>button7</Name>
+        <OnClick>button7Click</OnClick>
+        <TabOrder>7</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="button8">
+        <Caption>Sel</Caption>
+        <Left>736</Left>
+        <Name>button8</Name>
+        <OnClick>button8Click</OnClick>
+        <TabOrder>8</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="edit2">
+        <Left>40</Left>
+        <Name>edit2</Name>
+        <OnChange>edit2Change</OnChange>
+        <TabOrder>9</TabOrder>
+        <Text>edit2</Text>
+        <Top>304</Top>
+      </object>
+      <object name="listBox1">
+        <Height>217</Height>
+        <Items>FormComctrls/listBox1_Items.txt</Items>
+        <Left>640</Left>
+        <Name>listBox1</Name>
+        <OnMouseHover>listBox1MouseHover</OnMouseHover>
+        <TabOrder>10</TabOrder>
+        <Top>72</Top>
+        <Width>177</Width>
+      </object>
+    </object>
+    <object name="tabSheet3">
+      <Caption>Edit, Memo, Label</Caption>
+      <Name>tabSheet3</Name>
+      <object name="edit3">
+        <Color>clYellow</Color>
+        <Left>48</Left>
+        <Name>edit3</Name>
+        <ParentColor>false</ParentColor>
+        <TabOrder>0</TabOrder>
+        <Text>varius posuere ipsum, sit amet eleifend magna pulvinar nec. Sed volutpat risus id tellus tincidunt quis tincidunt leo cursus. Nam molestie ante ac leo rutrum in malesuada felis eleifend. Phasellus volutpat massa at felis interdum sit amet tristique risus vi</Text>
+        <Top>40</Top>
+      </object>
+      <object name="memo1">
+        <Font.Size>11</Font.Size>
+        <Height>297</Height>
+        <Left>280</Left>
+        <Lines>FormComctrls/memo1_Lines.txt</Lines>
+        <Name>memo1</Name>
+        <OnChange>memo1Change</OnChange>
+        <OnMouseHover>memo1MouseHover</OnMouseHover>
+        <ParentFont>false</ParentFont>
+        <ScrollBars>ssVertical</ScrollBars>
+        <TabOrder>1</TabOrder>
+        <Top>24</Top>
+        <Width>457</Width>
+        <WordWrap>true</WordWrap>
+      </object>
+      <object name="button17">
+        <Caption>button17</Caption>
+        <Left>192</Left>
+        <Name>button17</Name>
+        <OnClick>button17Click</OnClick>
+        <TabOrder>2</TabOrder>
+        <Top>56</Top>
+      </object>
+      <object name="label1">
+        <Alignment>taCenter</Alignment>
+        <Caption>label1vsdvsd</Caption>
+        <Left>40</Left>
+        <Name>label1</Name>
+        <TabOrder>3</TabOrder>
+        <Top>120</Top>
+        <Width>67</Width>
+      </object>
+      <object name="passwordEdit1">
+        <Left>24</Left>
+        <Name>passwordEdit1</Name>
+        <TabOrder>4</TabOrder>
+        <Top>168</Top>
+      </object>
+      <object name="button22">
+        <Caption>Password</Caption>
+        <Left>24</Left>
+        <Name>button22</Name>
+        <OnClick>button22Click</OnClick>
+        <TabOrder>5</TabOrder>
+        <Top>200</Top>
+      </object>
+    </object>
+    <object name="tabSheet4">
+      <Caption>Buttons</Caption>
+      <Name>tabSheet4</Name>
+      <object name="button9">
+        <Caption>button9</Caption>
+        <Left>32</Left>
+        <Name>button9</Name>
+        <TabOrder>0</TabOrder>
+        <Top>40</Top>
+      </object>
+      <object name="checkBox1">
+        <Caption>checkBox1</Caption>
+        <Left>144</Left>
+        <Name>checkBox1</Name>
+        <OnClick>checkBox1Click</OnClick>
+        <TabOrder>1</TabOrder>
+        <Top>40</Top>
+      </object>
+      <object name="radioButton1">
+        <Caption>radioButton1</Caption>
+        <Left>288</Left>
+        <Name>radioButton1</Name>
+        <TabOrder>2</TabOrder>
+        <Top>40</Top>
+      </object>
+      <object name="bitButton1">
+        <Caption>bitButton1</Caption>
+        <Left>32</Left>
+        <Name>bitButton1</Name>
+        <TabOrder>3</TabOrder>
+        <Top>88</Top>
+      </object>
+      <object name="speedButton1">
+        <Caption>speedButton1</Caption>
+        <Font.Name>Segoe UI Semibold</Font.Name>
+        <Glyph.Clicked>FormComctrls/speedButton1_Glyph.Clicked.gif</Glyph.Clicked>
+        <Glyph.Disabled>FormComctrls/speedButton1_Glyph.Disabled.gif</Glyph.Disabled>
+        <Glyph.Down>FormComctrls/speedButton1_Glyph.Down.gif</Glyph.Down>
+        <Glyph.Up>FormComctrls/speedButton1_Glyph.Up.gif</Glyph.Up>
+        <Height>65</Height>
+        <Left>136</Left>
+        <Name>speedButton1</Name>
+        <ParentFont>false</ParentFont>
+        <TabOrder>4</TabOrder>
+        <Top>88</Top>
+        <Width>137</Width>
+      </object>
+      <object name="radioGroup1">
+        <Anchors.Bottom>true</Anchors.Bottom>
+        <Anchors.Right>true</Anchors.Right>
+        <Caption>radioGroup1</Caption>
+        <Columns>2</Columns>
+        <Constraints.MinHeight>100</Constraints.MinHeight>
+        <Constraints.MinWidth>100</Constraints.MinWidth>
+        <ItemIndex>0</ItemIndex>
+        <Items>FormComctrls/radioGroup1_Items.txt</Items>
+        <Left>48</Left>
+        <Name>radioGroup1</Name>
+        <OnClick>radioGroup1Click</OnClick>
+        <TabOrder>5</TabOrder>
+        <Top>240</Top>
+      </object>
+      <object name="checkBox2">
+        <Alignment>taRightJustify</Alignment>
+        <Caption>checkBox2</Caption>
+        <Left>32</Left>
+        <Name>checkBox2</Name>
+        <TabOrder>6</TabOrder>
+        <Top>160</Top>
+      </object>
+      <object name="radioButton2">
+        <Caption>radioButton2</Caption>
+        <Left>288</Left>
+        <Name>radioButton2</Name>
+        <OnClick>radioButton2Click</OnClick>
+        <TabOrder>7</TabOrder>
+        <Top>64</Top>
+      </object>
+      <object name="radioButton3">
+        <Caption>radioButton3</Caption>
+        <Left>288</Left>
+        <Name>radioButton3</Name>
+        <TabOrder>8</TabOrder>
+        <Top>88</Top>
+      </object>
+    </object>
+    <object name="tabSheet5">
+      <Caption>Dialogs</Caption>
+      <Name>tabSheet5</Name>
+      <object name="button10">
+        <Caption>Color</Caption>
+        <Left>8</Left>
+        <Name>button10</Name>
+        <OnClick>button10Click</OnClick>
+        <TabOrder>0</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="button11">
+        <Caption>Open</Caption>
+        <Left>96</Left>
+        <Name>button11</Name>
+        <OnClick>button11Click</OnClick>
+        <TabOrder>1</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="button12">
+        <Caption>OpenPic</Caption>
+        <Left>184</Left>
+        <Name>button12</Name>
+        <OnClick>button12Click</OnClick>
+        <TabOrder>2</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="button13">
+        <Caption>Save</Caption>
+        <Left>272</Left>
+        <Name>button13</Name>
+        <OnClick>button13Click</OnClick>
+        <TabOrder>3</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="button14">
+        <Caption>SavePic</Caption>
+        <Left>360</Left>
+        <Name>button14</Name>
+        <OnClick>button14Click</OnClick>
+        <TabOrder>4</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="button15">
+        <Caption>Folder</Caption>
+        <Left>448</Left>
+        <Name>button15</Name>
+        <OnClick>button15Click</OnClick>
+        <TabOrder>5</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="button16">
+        <Caption>Font</Caption>
+        <Left>536</Left>
+        <Name>button16</Name>
+        <OnClick>button16Click</OnClick>
+        <TabOrder>6</TabOrder>
+        <Top>8</Top>
+      </object>
+      <object name="panelColor">
+        <BevelOuter>bvNone</BevelOuter>
+        <BorderStyle>bsSingle</BorderStyle>
+        <Color>(135, 183, 128)</Color>
+        <Height>113</Height>
+        <Left>8</Left>
+        <Name>panelColor</Name>
+        <ParentColor>false</ParentColor>
+        <TabOrder>7</TabOrder>
+        <Top>40</Top>
+        <Width>73</Width>
+      </object>
+      <object name="memoOpen">
+        <Font.Color>clMaroon</Font.Color>
+        <Font.Name>Forte</Font.Name>
+        <Font.Size>14</Font.Size>
+        <Left>8</Left>
+        <Lines>FormComctrls/memoOpen_Lines.txt</Lines>
+        <Name>memoOpen</Name>
+        <ParentFont>false</ParentFont>
+        <ScrollBars>ssVertical</ScrollBars>
+        <TabOrder>8</TabOrder>
+        <Top>160</Top>
+        <Width>345</Width>
+      </object>
+      <object name="button18">
+        <Caption>Filter</Caption>
+        <Left>96</Left>
+        <Name>button18</Name>
+        <OnClick>button18Click</OnClick>
+        <TabOrder>9</TabOrder>
+        <Top>40</Top>
+      </object>
+      <object name="image1">
+        <Caption>image1</Caption>
+        <Color>clYellow</Color>
+        <Cursor>crHandPoint</Cursor>
+        <Height>177</Height>
+        <Left>408</Left>
+        <Name>image1</Name>
+        <ParentColor>false</ParentColor>
+        <Proportional>true</Proportional>
+        <Top>64</Top>
+        <Width>289</Width>
+      </object>
+      <object name="image2">
+        <Caption>image2</Caption>
+        <Center>true</Center>
+        <Color>clSkyBlue</Color>
+        <Height>177</Height>
+        <Left>408</Left>
+        <Name>image2</Name>
+        <ParentColor>false</ParentColor>
+        <Proportional>true</Proportional>
+        <Top>248</Top>
+        <Width>289</Width>
+      </object>
+      <object name="button19">
+        <Caption>Italic</Caption>
+        <Left>8</Left>
+        <Name>button19</Name>
+        <OnClick>button19Click</OnClick>
+        <TabOrder>10</TabOrder>
+        <Top>256</Top>
+      </object>
+      <object name="button20">
+        <Caption>Cursor</Caption>
+        <Left>320</Left>
+        <Name>button20</Name>
+        <OnClick>button20Click</OnClick>
+        <TabOrder>11</TabOrder>
+        <Top>64</Top>
+      </object>
+      <object name="button21">
+        <Caption>Dialogs</Caption>
+        <Left>640</Left>
+        <Name>button21</Name>
+        <OnClick>button21Click</OnClick>
+        <TabOrder>12</TabOrder>
+        <Top>8</Top>
+        <Width>145</Width>
+      </object>
+    </object>
+    <object name="tabSheet6">
+      <Caption>Pages</Caption>
+      <Name>tabSheet6</Name>
+      <object name="pageControl2">
+        <Color>clSkyBlue</Color>
+        <Height>361</Height>
+        <Images>imageList1</Images>
+        <Left>112</Left>
+        <Name>pageControl2</Name>
+        <OnChange>pageControl2Change</OnChange>
+        <ParentColor>false</ParentColor>
+        <TabOrder>0</TabOrder>
+        <Top>40</Top>
+        <Width>633</Width>
+        <object name="tabSheet7">
+          <Caption>First</Caption>
+          <ImageIndex>0</ImageIndex>
+          <Name>tabSheet7</Name>
+          <object name="panel1">
+            <Align>alTop</Align>
+            <BevelOuter>bvNone</BevelOuter>
+            <Height>33</Height>
+            <Name>panel1</Name>
+            <TabOrder>0</TabOrder>
+            <Width>625</Width>
+          </object>
+          <object name="panel2">
+            <Align>alBottom</Align>
+            <Anchors.Top>false</Anchors.Top>
+            <BevelOuter>bvNone</BevelOuter>
+            <Height>25</Height>
+            <Name>panel2</Name>
+            <TabOrder>1</TabOrder>
+            <Top>308</Top>
+            <Width>625</Width>
+          </object>
+          <object name="panel3">
+            <Align>alClient</Align>
+            <Height>275</Height>
+            <Name>panel3</Name>
+            <TabOrder>2</TabOrder>
+            <Top>33</Top>
+            <Width>625</Width>
+            <object name="memo2">
+              <Align>alClient</Align>
+              <Height>273</Height>
+              <Name>memo2</Name>
+              <TabOrder>0</TabOrder>
+              <Width>623</Width>
+            </object>
+          </object>
+        </object>
+        <object name="tabSheet8">
+          <Caption>tabSheet8</Caption>
+          <Color>clInfoBk</Color>
+          <ImageIndex>1</ImageIndex>
+          <Name>tabSheet8</Name>
+          <ParentColor>false</ParentColor>
+        </object>
+      </object>
+    </object>
+    <object name="tabSheet9">
+      <Caption>Events</Caption>
+      <Name>tabSheet9</Name>
+      <object name="memo3">
+        <Anchors.Bottom>true</Anchors.Bottom>
+        <Anchors.Right>true</Anchors.Right>
+        <Height>201</Height>
+        <Left>168</Left>
+        <Lines>FormComctrls/memo3_Lines.txt</Lines>
+        <Name>memo3</Name>
+        <OnCanResize>memo3CanResize</OnCanResize>
+        <OnChange>memo3Change</OnChange>
+        <OnClick>memo3Click</OnClick>
+        <OnConstrainedResize>memo3ConstrainedResize</OnConstrainedResize>
+        <OnContextPopup>memo3ContextPopup</OnContextPopup>
+        <OnDoubleClick>memo3DoubleClick</OnDoubleClick>
+        <OnEnter>memo3Enter</OnEnter>
+        <OnExit>memo3Exit</OnExit>
+        <OnKeyDown>memo3KeyDown</OnKeyDown>
+        <OnKeyPress>memo3KeyPress</OnKeyPress>
+        <OnKeyUp>memo3KeyUp</OnKeyUp>
+        <OnMouseDown>memo3MouseDown</OnMouseDown>
+        <OnMouseEnter>memo3MouseEnter</OnMouseEnter>
+        <OnMouseExit>memo3MouseExit</OnMouseExit>
+        <OnMouseHover>memo3MouseHover</OnMouseHover>
+        <OnMouseMove>memo3MouseMove</OnMouseMove>
+        <OnMouseUp>memo3MouseUp</OnMouseUp>
+        <OnMouseWheel>memo3MouseWheel</OnMouseWheel>
+        <OnMouseWheelDown>memo3MouseWheelDown</OnMouseWheelDown>
+        <OnMouseWheelUp>memo3MouseWheelUp</OnMouseWheelUp>
+        <OnResize>memo3Resize</OnResize>
+        <TabOrder>0</TabOrder>
+        <Top>56</Top>
+        <Width>337</Width>
+      </object>
+    </object>
+  </object>
+  <object name="windowsStatusBar1">
+    <Images>imageList1</Images>
+    <Name>windowsStatusBar1</Name>
+    <collection name="Panels">
+      <item>
+        <Text>First</Text>
+        <Width>150</Width>
+      </item>
+      <item>
+        <ImageIndex>2</ImageIndex>
+        <Text>Second</Text>
+        <Width>300</Width>
+      </item>
+    </collection>
+    <PopupMenu>popupMenu1</PopupMenu>
+    <TabOrder>1</TabOrder>
+    <Top>575</Top>
+    <Width>868</Width>
+  </object>
+  <object name="toolBar1">
+    <Align>alTop</Align>
+    <collection name="Buttons">
+      <item>
+        <Caption>One</Caption>
+        <OnClick>toolBar1Buttons0Click</OnClick>
+      </item>
+      <item>
+        <Caption>Two</Caption>
+        <DisabledImageIndex>3</DisabledImageIndex>
+        <DropDownMenu>popupMenu1</DropDownMenu>
+        <HotImageIndex>0</HotImageIndex>
+        <ImageIndex>1</ImageIndex>
+        <OnClick>toolBar1Buttons1Click</OnClick>
+        <Style>tbsDropDown</Style>
+      </item>
+      <item>
+        <Caption>Three</Caption>
+        <Down>true</Down>
+        <Style>tbsRadio</Style>
+      </item>
+      <item>
+        <Caption>3</Caption>
+        <Style>tbsSeparator</Style>
+      </item>
+      <item>
+        <Caption>4</Caption>
+        <Down>true</Down>
+        <OnClick>toolBar1Buttons4Click</OnClick>
+        <Style>tbsRadio</Style>
+      </item>
+      <item>
+        <Caption>5</Caption>
+        <Style>tbsRadio</Style>
+      </item>
+      <item>
+        <Caption>Last</Caption>
+        <Down>true</Down>
+        <Style>tbsCheck</Style>
+      </item>
+      <item>
+        <Caption>Separator</Caption>
+      </item>
+    </collection>
+    <DisabledImages>imageList1</DisabledImages>
+    <Height>46</Height>
+    <HotImages>imageList1</HotImages>
+    <Images>imageList1</Images>
+    <Name>toolBar1</Name>
+    <TabOrder>2</TabOrder>
+    <Width>868</Width>
+  </object>
+  <object name="imageList1">
+    <Images>FormComctrls/imageList1_Images.xml</Images>
+    <Name>imageList1</Name>
+  </object>
+  <object name="imageList2">
+    <Images>FormComctrls/imageList2_Images.xml</Images>
+    <Name>imageList2</Name>
+  </object>
+  <object name="popupMenu1">
+    <Images>imageList2</Images>
+    <Name>popupMenu1</Name>
+    <object name="menuItem1">
+      <Caption>menuItem1</Caption>
+      <Name>menuItem1</Name>
+    </object>
+    <object name="menuItem2">
+      <Caption>menuItem2</Caption>
+      <Name>menuItem2</Name>
+      <object name="menuItem4">
+        <Caption>menuItem4</Caption>
+        <ImageIndex>0</ImageIndex>
+        <Name>menuItem4</Name>
+        <OnClick>menuItem4Click</OnClick>
+      </object>
+      <object name="menuItem5">
+        <Caption>menuItem5</Caption>
+        <Name>menuItem5</Name>
+      </object>
+    </object>
+    <object name="menuItem3">
+      <Caption>menuItem3</Caption>
+      <Name>menuItem3</Name>
+    </object>
+  </object>
+  <object name="openDialog1">
+    <InitialDir>C:\Iustin\Programming\_IusCL\IusCLPlugin\test\resources\texts</InitialDir>
+    <Name>openDialog1</Name>
+    <Title>Open Text</Title>
+  </object>
+  <object name="saveDialog1">
+    <Name>saveDialog1</Name>
+  </object>
+  <object name="openPictureDialog1">
+    <InitialDir>C:\Iustin\Programming\_IusCL\IusCLPlugin\test\resources\images</InitialDir>
+    <Name>openPictureDialog1</Name>
+  </object>
+  <object name="savePictureDialog1">
+    <Name>savePictureDialog1</Name>
+  </object>
+  <object name="folderDialog1">
+    <FolderName>C:\</FolderName>
+    <Message>Message M</Message>
+    <Name>folderDialog1</Name>
+    <Title>Browse For Folder1</Title>
+  </object>
+  <object name="fontDialog1">
+    <Name>fontDialog1</Name>
+  </object>
+  <object name="colorDialog1">
+    <Color>clLtGray</Color>
+    <Name>colorDialog1</Name>
+    <Title>Culoarea</Title>
+  </object>
+  <object name="openDialogFilter">
+    <Filter>Filter DOC|*.doc; *.docx|Filter TXT|*.txt</Filter>
+    <Name>openDialogFilter</Name>
+  </object>
+</object>
+

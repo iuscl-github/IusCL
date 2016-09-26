@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <Caption>FormUtils Caption</Caption>
+  <ClientHeight>442</ClientHeight>
+  <ClientWidth>624</ClientWidth>
+  <FormStyle>fsModalDialog</FormStyle>
+  <Height>480</Height>
+  <Left>640</Left>
+  <Name>formUtils</Name>
+  <Position>poScreenCenter</Position>
+  <Top>360</Top>
+  <Width>640</Width>
+  <object name="button1">
+    <Caption>button1</Caption>
+    <Left>16</Left>
+    <Name>button1</Name>
+    <OnClick>button1Click</OnClick>
+    <TabOrder>0</TabOrder>
+    <Top>16</Top>
+  </object>
+  <object name="button2">
+    <Caption>Scheduler</Caption>
+    <Left>104</Left>
+    <Name>button2</Name>
+    <OnClick>button2Click</OnClick>
+    <TabOrder>1</TabOrder>
+    <Top>16</Top>
+  </object>
+  <object name="button3">
+    <Caption>File</Caption>
+    <Left>192</Left>
+    <Name>button3</Name>
+    <OnClick>button3Click</OnClick>
+    <TabOrder>2</TabOrder>
+    <Top>16</Top>
+  </object>
+  <object name="memo1">
+    <Height>193</Height>
+    <Left>16</Left>
+    <Lines>FormUtils/memo1_Lines.txt</Lines>
+    <Name>memo1</Name>
+    <TabOrder>3</TabOrder>
+    <Top>56</Top>
+    <Width>257</Width>
+    <WordWrap>true</WordWrap>
+  </object>
+  <object name="label1">
+    <Caption>label1</Caption>
+    <Color>clSkyBlue</Color>
+    <Font.Size>10</Font.Size>
+    <Font.Style.Bold>true</Font.Style.Bold>
+    <Height>17</Height>
+    <Left>16</Left>
+    <Name>label1</Name>
+    <ParentColor>false</ParentColor>
+    <ParentFont>false</ParentFont>
+    <TabOrder>4</TabOrder>
+    <Top>256</Top>
+    <Width>37</Width>
+  </object>
+  <object name="progressBar1">
+    <Left>16</Left>
+    <Name>progressBar1</Name>
+    <Smooth>true</Smooth>
+    <TabOrder>5</TabOrder>
+    <Top>280</Top>
+    <Width>353</Width>
+  </object>
+  <object name="panel1">
+    <Align>alRight</Align>
+    <Height>442</Height>
+    <Left>400</Left>
+    <Name>panel1</Name>
+    <TabOrder>6</TabOrder>
+    <Width>224</Width>
+    <object name="button4">
+      <Anchors.Bottom>true</Anchors.Bottom>
+      <Anchors.Left>false</Anchors.Left>
+      <Anchors.Right>true</Anchors.Right>
+      <Anchors.Top>false</Anchors.Top>
+      <Caption>button4</Caption>
+      <Height>97</Height>
+      <Left>16</Left>
+      <Name>button4</Name>
+      <TabOrder>0</TabOrder>
+      <Top>16</Top>
+      <Width>105</Width>
+    </object>
+  </object>
+  <object name="trayIcon1">
+    <BalloonIcon>tbiWarning</BalloonIcon>
+    <BalloonMessage>Balloon Message</BalloonMessage>
+    <BalloonText>Balloon Text</BalloonText>
+    <Hint>Tray hint</Hint>
+    <Name>trayIcon1</Name>
+    <Picture>FormUtils/trayIcon1_Picture.ico</Picture>
+  </object>
+  <object name="timer1">
+    <Name>timer1</Name>
+    <OnTimer>timer1Timer</OnTimer>
+  </object>
+  <object name="scheduler1">
+    <Interval>2000</Interval>
+    <Name>scheduler1</Name>
+    <OnTimer>scheduler1Timer</OnTimer>
+    <StartDelay>5000</StartDelay>
+  </object>
+  <object name="zip1">
+    <Name>zip1</Name>
+  </object>
+  <object name="unzip1">
+    <Name>unzip1</Name>
+  </object>
+</object>
+

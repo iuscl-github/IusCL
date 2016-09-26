@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <BorderStyle>bsNone</BorderStyle>
+  <Caption>FormSplash Caption</Caption>
+  <ClientHeight>300</ClientHeight>
+  <ClientWidth>480</ClientWidth>
+  <FormStyle>fsStayOnTopDialog</FormStyle>
+  <Height>300</Height>
+  <Left>400</Left>
+  <Name>formSplash</Name>
+  <OnShow>formShow</OnShow>
+  <Position>poScreenCenter</Position>
+  <Top>362</Top>
+  <Width>480</Width>
+  <object name="panel1">
+    <Align>alClient</Align>
+    <BevelOuter>bvNone</BevelOuter>
+    <BorderStyle>bsSingle</BorderStyle>
+    <BorderWidth>8</BorderWidth>
+    <Color>clWhite</Color>
+    <Height>300</Height>
+    <Name>panel1</Name>
+    <ParentColor>false</ParentColor>
+    <TabOrder>0</TabOrder>
+    <Width>480</Width>
+    <object name="imageSplash">
+      <Align>alTop</Align>
+      <Caption>image1</Caption>
+      <Center>true</Center>
+      <Height>217</Height>
+      <Name>imageSplash</Name>
+      <ParentFont>false</ParentFont>
+      <Picture>FormSplash/imageSplash_Picture.png</Picture>
+      <Width>460</Width>
+    </object>
+    <object name="labelIusCL">
+      <Align>alBottom</Align>
+      <Alignment>taCenter</Alignment>
+      <AutoSize>false</AutoSize>
+      <Caption>IusCL</Caption>
+      <Font.Size>24</Font.Size>
+      <Font.Style.Bold>true</Font.Style.Bold>
+      <Height>40</Height>
+      <Name>labelIusCL</Name>
+      <ParentFont>false</ParentFont>
+      <TabOrder>0</TabOrder>
+      <Top>240</Top>
+      <Width>460</Width>
+    </object>
+  </object>
+  <object name="timerClose">
+    <Interval>2000</Interval>
+    <Name>timerClose</Name>
+    <OnTimer>timerCloseTimer</OnTimer>
+  </object>
+</object>
+

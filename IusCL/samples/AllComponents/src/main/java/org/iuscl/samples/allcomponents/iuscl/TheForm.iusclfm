@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <BorderIcons.Maximize>false</BorderIcons.Maximize>
+  <BorderIcons.Minimize>false</BorderIcons.Minimize>
+  <BorderStyle>bsSingle</BorderStyle>
+  <Caption>TheForm Caption</Caption>
+  <ClientHeight>442</ClientHeight>
+  <ClientWidth>624</ClientWidth>
+  <FormStyle>fsModalDialog</FormStyle>
+  <Height>480</Height>
+  <Left>640</Left>
+  <Name>theForm</Name>
+  <OnClose>theFormClose</OnClose>
+  <Position>poMainFormCenter</Position>
+  <Top>345</Top>
+  <Width>640</Width>
+  <object name="panel1">
+    <Align>alTop</Align>
+    <BevelOuter>bvLowered</BevelOuter>
+    <Name>panel1</Name>
+    <TabOrder>0</TabOrder>
+    <Width>624</Width>
+    <object name="bitButton3">
+      <Caption>Close</Caption>
+      <Kind>bkClose</Kind>
+      <Left>544</Left>
+      <Name>bitButton3</Name>
+      <OnClick>bitButton3Click</OnClick>
+      <TabOrder>0</TabOrder>
+      <Top>8</Top>
+    </object>
+  </object>
+  <object name="panel2">
+    <Align>alBottom</Align>
+    <Anchors.Top>false</Anchors.Top>
+    <BevelInner>bvLowered</BevelInner>
+    <Height>34</Height>
+    <Name>panel2</Name>
+    <TabOrder>1</TabOrder>
+    <Top>408</Top>
+    <Width>624</Width>
+  </object>
+  <object name="scrollBox1">
+    <Align>alClient</Align>
+    <Caption>scrollBox1</Caption>
+    <Height>367</Height>
+    <Name>scrollBox1</Name>
+    <OnMouseWheel>scrollBox1MouseWheel</OnMouseWheel>
+    <TabOrder>2</TabOrder>
+    <Top>41</Top>
+    <Width>624</Width>
+    <object name="bitButton1">
+      <Caption>OK</Caption>
+      <Kind>bkOK</Kind>
+      <Left>504</Left>
+      <Name>bitButton1</Name>
+      <TabOrder>0</TabOrder>
+      <Top>56</Top>
+      <Width>225</Width>
+    </object>
+    <object name="bitButton2">
+      <Caption>No</Caption>
+      <Height>97</Height>
+      <Kind>bkNo</Kind>
+      <Left>472</Left>
+      <Name>bitButton2</Name>
+      <TabOrder>1</TabOrder>
+      <Top>136</Top>
+      <Width>249</Width>
+    </object>
+  </object>
+</object>
+

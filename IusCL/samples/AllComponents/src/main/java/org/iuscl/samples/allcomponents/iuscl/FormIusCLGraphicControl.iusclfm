@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <Caption>FormIusCLGraphicControl Caption</Caption>
+  <ClientHeight>597</ClientHeight>
+  <ClientWidth>776</ClientWidth>
+  <FormStyle>fsModalDialog</FormStyle>
+  <Height>633</Height>
+  <Left>100</Left>
+  <Name>formIusCLGraphicControl</Name>
+  <Top>100</Top>
+  <Width>792</Width>
+  <object name="label4">
+    <Caption>label4</Caption>
+    <Left>8</Left>
+    <Name>label4</Name>
+    <TabOrder>3</TabOrder>
+    <Top>8</Top>
+    <Width>31</Width>
+  </object>
+  <object name="pageControlGr">
+    <ActivePageIndex>4</ActivePageIndex>
+    <Anchors.Bottom>true</Anchors.Bottom>
+    <Anchors.Right>true</Anchors.Right>
+    <Height>497</Height>
+    <Left>32</Left>
+    <Name>pageControlGr</Name>
+    <TabOrder>4</TabOrder>
+    <Top>72</Top>
+    <Width>697</Width>
+    <object name="tabSheetBevel">
+      <Caption>IusCLBevel</Caption>
+      <Name>tabSheetBevel</Name>
+      <object name="bevel2">
+        <Height>105</Height>
+        <Left>48</Left>
+        <Name>bevel2</Name>
+        <OnMouseEnter>bevel2MouseEnter</OnMouseEnter>
+        <Shape>bsFrame</Shape>
+        <Top>40</Top>
+        <Width>177</Width>
+      </object>
+    </object>
+    <object name="tabSheet2">
+      <Caption>IusCLImage</Caption>
+      <Name>tabSheet2</Name>
+      <object name="image1">
+        <Anchors.Bottom>true</Anchors.Bottom>
+        <Anchors.Right>true</Anchors.Right>
+        <Caption>image1</Caption>
+        <Center>true</Center>
+        <Color>clGreen</Color>
+        <Height>257</Height>
+        <Left>16</Left>
+        <Name>image1</Name>
+        <ParentColor>false</ParentColor>
+        <Picture>FormIusCLGraphicControl/image1_Picture.jpg</Picture>
+        <Top>16</Top>
+        <Width>177</Width>
+      </object>
+      <object name="image2">
+        <Anchors.Bottom>true</Anchors.Bottom>
+        <Anchors.Right>true</Anchors.Right>
+        <Caption>image2</Caption>
+        <Center>true</Center>
+        <Height>217</Height>
+        <Left>360</Left>
+        <Name>image2</Name>
+        <Picture>FormIusCLGraphicControl/image2_Picture.jpg</Picture>
+        <Proportional>true</Proportional>
+        <Top>32</Top>
+        <Width>257</Width>
+      </object>
+    </object>
+    <object name="tabSheet1">
+      <Caption>IusCLPaintBox</Caption>
+      <Name>tabSheet1</Name>
+      <object name="paintBox1">
+        <Anchors.Bottom>true</Anchors.Bottom>
+        <Anchors.Right>true</Anchors.Right>
+        <Color>clMaroon</Color>
+        <Height>145</Height>
+        <Left>32</Left>
+        <Name>paintBox1</Name>
+        <OnPaint>paintBox1Paint</OnPaint>
+        <ParentColor>false</ParentColor>
+        <Top>32</Top>
+        <Width>209</Width>
+      </object>
+      <object name="paintBox2">
+        <Height>161</Height>
+        <Left>360</Left>
+        <Name>paintBox2</Name>
+        <OnPaint>paintBox2Paint</OnPaint>
+        <Top>56</Top>
+        <Width>185</Width>
+      </object>
+    </object>
+    <object name="tabSheet3">
+      <Caption>IusCLShape</Caption>
+      <Name>tabSheet3</Name>
+      <object name="shape1">
+        <Anchors.Right>true</Anchors.Right>
+        <Brush.Color>clRed</Brush.Color>
+        <Height>185</Height>
+        <Left>112</Left>
+        <Name>shape1</Name>
+        <OnContextPopup>shape1ContextPopup</OnContextPopup>
+        <OnMouseDown>shape1MouseDown</OnMouseDown>
+        <OnMouseHover>shape1MouseHover</OnMouseHover>
+        <Pen.Color>clAqua</Pen.Color>
+        <Pen.Style>psDashDotDot</Pen.Style>
+        <Pen.Width>3</Pen.Width>
+        <Shape>stEllipse</Shape>
+        <Top>112</Top>
+        <Width>481</Width>
+      </object>
+    </object>
+    <object name="tabSheet4">
+      <Caption>IusCLGif</Caption>
+      <Name>tabSheet4</Name>
+      <object name="button1">
+        <Caption>button1</Caption>
+        <Left>16</Left>
+        <Name>button1</Name>
+        <OnClick>button1Click</OnClick>
+        <TabOrder>0</TabOrder>
+        <Top>24</Top>
+      </object>
+      <object name="image3">
+        <Caption>image3</Caption>
+        <Height>145</Height>
+        <Left>8</Left>
+        <Name>image3</Name>
+        <Top>56</Top>
+        <Width>153</Width>
+      </object>
+      <object name="image4">
+        <Caption>image4</Caption>
+        <Height>145</Height>
+        <Left>168</Left>
+        <Name>image4</Name>
+        <Top>56</Top>
+        <Width>153</Width>
+      </object>
+      <object name="image5">
+        <Caption>image5</Caption>
+        <Height>145</Height>
+        <Left>328</Left>
+        <Name>image5</Name>
+        <Top>56</Top>
+        <Width>153</Width>
+      </object>
+    </object>
+  </object>
+  <object name="bevel1">
+    <Height>41</Height>
+    <Left>80</Left>
+    <Name>bevel1</Name>
+    <Top>8</Top>
+    <Width>113</Width>
+  </object>
+  <object name="openPictureDialog1">
+    <InitialDir>C:\Users\Iustin\Desktop</InitialDir>
+    <Name>openPictureDialog1</Name>
+  </object>
+</object>
+

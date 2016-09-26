@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <Caption>FormMain Caption</Caption>
+  <ClientHeight>564</ClientHeight>
+  <ClientWidth>776</ClientWidth>
+  <Height>622</Height>
+  <Left>244</Left>
+  <Menu>mainMenu</Menu>
+  <Name>formMain</Name>
+  <PopupMenu>popupMenu</PopupMenu>
+  <Position>poScreenCenter</Position>
+  <Top>170</Top>
+  <Width>792</Width>
+  <object name="panel1">
+    <Align>alLeft</Align>
+    <Height>564</Height>
+    <Name>panel1</Name>
+    <TabOrder>0</TabOrder>
+    <Width>776</Width>
+    <object name="button1">
+      <Anchors.Bottom>true</Anchors.Bottom>
+      <Anchors.Left>false</Anchors.Left>
+      <Anchors.Right>true</Anchors.Right>
+      <Anchors.Top>false</Anchors.Top>
+      <Caption>button1</Caption>
+      <Height>117</Height>
+      <Left>16</Left>
+      <Name>button1</Name>
+      <TabOrder>0</TabOrder>
+      <Top>16</Top>
+      <Width>137</Width>
+    </object>
+    <object name="btnApplicationEvents">
+      <Caption>Application Events</Caption>
+      <Left>168</Left>
+      <Name>btnApplicationEvents</Name>
+      <OnClick>btnApplicationEventsClick</OnClick>
+      <TabOrder>1</TabOrder>
+      <Top>16</Top>
+      <Width>225</Width>
+    </object>
+  </object>
+  <object name="mainMenu">
+    <Images>imageListMenu</Images>
+    <Name>mainMenu</Name>
+    <object name="menuItem1">
+      <Caption>Packages</Caption>
+      <Name>menuItem1</Name>
+      <object name="menuItem2">
+        <Caption>org.iuscl.extctrls</Caption>
+        <Name>menuItem2</Name>
+        <object name="menuItem3">
+          <Caption>IusCLGraphicControl descendants</Caption>
+          <Name>menuItem3</Name>
+          <OnClick>menuItem3Click</OnClick>
+        </object>
+      </object>
+      <object name="menuItem5">
+        <Caption>Utils</Caption>
+        <Name>menuItem5</Name>
+        <OnClick>menuItem5Click</OnClick>
+      </object>
+      <object name="menuItem4">
+        <Caption>org.iuscl.comctrls</Caption>
+        <ImageIndex>3</ImageIndex>
+        <Name>menuItem4</Name>
+        <OnClick>menuItem4Click</OnClick>
+      </object>
+      <object name="menuItem6">
+        <Caption>Resizes</Caption>
+        <Name>menuItem6</Name>
+        <OnClick>menuItem6Click</OnClick>
+      </object>
+      <object name="menuItem7">
+        <Caption>And the Form</Caption>
+        <Name>menuItem7</Name>
+        <OnClick>menuItem7Click</OnClick>
+      </object>
+    </object>
+    <object name="menuItem">
+      <Caption>menuItem</Caption>
+      <ImageIndex>1</ImageIndex>
+      <Name>menuItem</Name>
+      <object name="menuItem13">
+        <Caption>menuItem13</Caption>
+        <ImageIndex>0</ImageIndex>
+        <Name>menuItem13</Name>
+        <Type>itRadio</Type>
+      </object>
+      <object name="menuItem14">
+        <Caption>menuItem14</Caption>
+        <ImageIndex>1</ImageIndex>
+        <Name>menuItem14</Name>
+        <Type>itRadio</Type>
+      </object>
+      <object name="menuItem15">
+        <Caption>menuItem15</Caption>
+        <ImageIndex>2</ImageIndex>
+        <Name>menuItem15</Name>
+        <Type>itSeparator</Type>
+      </object>
+      <object name="menuItem16">
+        <Caption>menuItem16</Caption>
+        <ImageIndex>3</ImageIndex>
+        <Name>menuItem16</Name>
+        <Type>itCheck</Type>
+      </object>
+    </object>
+  </object>
+  <object name="imageListMenu">
+    <Images>FormMain/imageListMenu_Images.xml</Images>
+    <Name>imageListMenu</Name>
+  </object>
+  <object name="popupMenu">
+    <Images>imageListMenu</Images>
+    <Name>popupMenu</Name>
+    <object name="menuItem9">
+      <Caption>menuItem9</Caption>
+      <Name>menuItem9</Name>
+      <object name="menuItem10">
+        <Caption>menuItem10</Caption>
+        <Name>menuItem10</Name>
+        <object name="menuItem11">
+          <Caption>menuItem11</Caption>
+          <Name>menuItem11</Name>
+        </object>
+      </object>
+      <object name="menuItem12">
+        <Caption>menuItem12</Caption>
+        <ImageIndex>1</ImageIndex>
+        <Name>menuItem12</Name>
+      </object>
+    </object>
+  </object>
+  <object name="applicationEventss">
+    <Name>applicationEventss</Name>
+    <OnMessage>applicationEventssMessage</OnMessage>
+  </object>
+</object>
+
