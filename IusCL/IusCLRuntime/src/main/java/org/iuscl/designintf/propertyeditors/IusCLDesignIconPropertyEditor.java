@@ -1,0 +1,467 @@
+/* ****************************************************************************************************
+IusCL - http://iuscl.org
+
+This software is distributed under the terms of:
+Eclipse Public License v1.0 - http://www.eclipse.org/org/documents/epl-v10.html
+**************************************************************************************************** */
+package org.iuscl.designintf.propertyeditors;
+
+import java.io.InputStream;
+
+import org.eclipse.swt.SWT;
+import org.eclipse.swt.events.PaintEvent;
+import org.eclipse.swt.events.PaintListener;
+import org.eclipse.swt.events.SelectionAdapter;
+import org.eclipse.swt.events.SelectionEvent;
+import org.eclipse.swt.graphics.GC;
+import org.eclipse.swt.graphics.Image;
+import org.eclipse.swt.graphics.Rectangle;
+import org.eclipse.swt.layout.GridData;
+import org.eclipse.swt.layout.GridLayout;
+import org.eclipse.swt.widgets.Button;
+import org.eclipse.swt.widgets.Composite;
+import org.eclipse.swt.widgets.Display;
+import org.eclipse.swt.widgets.FileDialog;
+import org.eclipse.swt.widgets.Label;
+import org.eclipse.swt.widgets.Monitor;
+import org.eclipse.swt.widgets.Shell;
+import org.eclipse.swt.widgets.Text;
+import org.eclipse.swt.widgets.TreeItem;
+import org.iuscl.classes.IusCLPersistent;
+import org.iuscl.forms.IusCLApplication;
+import org.iuscl.graphics.formats.IusCLIcon;
+import org.iuscl.sysutils.IusCLFileUtils;
+import org.iuscl.sysutils.IusCLStrUtils;
+
+/* **************************************************************************************************** */
+public class IusCLDesignIconPropertyEditor extends IusCLDesignPropertyEditor {
+
+	private Composite pictureComposite;
+	private Button pictureButton;
+	private Text pictureText;
+
+	private String propertyValue;
+
+	private IusCLIcon icon = null;
+	private String pictureFileName = null;
+
+	/* **************************************************************************************************** */
+	public IusCLDesignIconPropertyEditor(final TreeItem swtTreeItem, IusCLPersistent persistent) {
+		
+		super(swtTreeItem, persistent);
+		
+		propertyValue = swtTreeItem.getText(1);
+		
+		/* Editor cell */
+		pictureComposite = new Composite(swtTreeItem.getParent(), SWT.NONE);
+		GridLayout stringsCompositeGridLayout = new GridLayout();
+		stringsCompositeGridLayout.numColumns = 2;
+		stringsCompositeGridLayout.marginTop = 0;
+		stringsCompositeGridLayout.marginBottom = 0;
+		stringsCompositeGridLayout.marginLeft = 0;
+		stringsCompositeGridLayout.marginRight = 0;
+		stringsCompositeGridLayout.verticalSpacing = 0;
+		stringsCompositeGridLayout.horizontalSpacing = 0;
+		stringsCompositeGridLayout.marginWidth = 0;
+		stringsCompositeGridLayout.marginHeight = 0;
+
+		pictureComposite.setLayout(stringsCompositeGridLayout);
+		swtEditorFocusControl = pictureComposite;
+		
+		pictureText = new Text(pictureComposite, SWT.READ_ONLY | SWT.BORDER);
+		GridData gridDataText = new GridData();
+		gridDataText.heightHint = 10;
+		gridDataText.horizontalAlignment = GridData.FILL;
+		gridDataText.verticalAlignment = GridData.FILL;
+		gridDataText.grabExcessHorizontalSpace = true;
+		gridDataText.grabExcessVerticalSpace = true;
+		pictureText.setLayoutData(gridDataText);
+		pictureText.setText("(IusCLPicture)");
+		//pictureText.setEnabled(false);
+		
+		pictureButton = new Button(pictureComposite, SWT.PUSH);
+		pictureButton.setText("...");
+		GridData gridDataButton = new GridData();
+		gridDataButton.heightHint = 10;
+		gridDataButton.horizontalAlignment = GridData.END;
+		gridDataButton.verticalAlignment = GridData.FILL;
+		pictureButton.setLayoutData(gridDataButton);
+		
+		
+		swtEditorFocusControl.setData(IusCLDesignIconPropertyEditor.this);
+
+		pictureComposite.addKeyListener(swtKeyListener);
+		pictureText.addKeyListener(swtKeyListener);
+		pictureButton.addKeyListener(swtKeyListener);
+		
+		pictureButton.addFocusListener(swtFocusListener);
+		pictureText.addFocusListener(swtFocusListener);
+
+		/* **************************************************************************************************** */
+		pictureButton.addSelectionListener(new SelectionAdapter() {
+			/* **************************************************************************************************** */
+			@Override
+			public void widgetSelected(SelectionEvent selectionEvent) {
+				
+				clickButton();
+			}
+		});
+        
+		pictureButton.setFocus();
+	}
+
+	/* **************************************************************************************************** */
+	private void clickButton() {
+		/* Picture shell */
+		final Shell pictureShell = new Shell(SWT.CLOSE | SWT.BORDER | SWT.RESIZE | SWT.APPLICATION_MODAL);
+		pictureShell.setText("Icon Editor");
+
+		InputStream inputStream = IusCLDesignPicturePropertyEditor.class.getResourceAsStream("/resources/images/IusCLPerspective.gif");
+		Image imageIusCL = new Image(Display.getCurrent(), inputStream);
+		pictureShell.setImage(imageIusCL);
+		
+	    Monitor primary = Display.getDefault().getPrimaryMonitor();
+	    Rectangle bounds = primary.getBounds();
+	    pictureShell.setSize(640, 640);
+	    Rectangle rect = pictureShell.getBounds();
+	    
+	    int x = bounds.x + (bounds.width - rect.width) / 2;
+	    int y = bounds.y + (bounds.height - rect.height) / 2;
+	    
+	    pictureShell.setLocation(x, y);
+	    pictureShell.setMinimumSize(600, 600);
+
+		GridLayout pictureShellGridLayout = new GridLayout();
+		pictureShellGridLayout.numColumns = 2;
+		pictureShellGridLayout.marginTop = 8;
+		pictureShellGridLayout.marginBottom = 8;
+		pictureShellGridLayout.marginLeft = 8;
+		pictureShellGridLayout.marginRight = 8;
+		pictureShellGridLayout.verticalSpacing = 0;
+		pictureShellGridLayout.horizontalSpacing = 8;
+		pictureShellGridLayout.marginWidth = 0;
+		pictureShellGridLayout.marginHeight = 0;
+		pictureShell.setLayout(pictureShellGridLayout);
+	    
+		/* Left */
+	    Composite leftComposite = new Composite(pictureShell, SWT.BORDER);
+	    //upComposite.setBackground(Display.getDefault().getSystemColor(SWT.COLOR_BLUE));
+	    GridData gridDataLeftComposite = new GridData();
+		gridDataLeftComposite.horizontalAlignment = GridData.FILL;
+		gridDataLeftComposite.verticalAlignment = GridData.FILL;
+		gridDataLeftComposite.grabExcessHorizontalSpace = true;
+		gridDataLeftComposite.grabExcessVerticalSpace = true;
+		leftComposite.setLayoutData(gridDataLeftComposite);
+
+		GridLayout leftCompositeGridLayout = new GridLayout();
+		leftCompositeGridLayout.numColumns = 1;
+		leftCompositeGridLayout.marginTop = 8;
+		leftCompositeGridLayout.marginBottom = 8;
+		leftCompositeGridLayout.marginLeft = 8;
+		leftCompositeGridLayout.marginRight = 8;
+		leftCompositeGridLayout.verticalSpacing = 8;
+		leftCompositeGridLayout.horizontalSpacing = 0;
+		leftCompositeGridLayout.marginWidth = 0;
+		leftCompositeGridLayout.marginHeight = 0;
+
+		leftComposite.setLayout(leftCompositeGridLayout);
+
+		/* Info */
+		final Label infoLabel = new Label(leftComposite, SWT.NONE);
+	    GridData gridDataInfoLabel = new GridData();
+	    gridDataInfoLabel.horizontalAlignment = GridData.FILL;
+	    gridDataInfoLabel.grabExcessHorizontalSpace = true;
+	    infoLabel.setLayoutData(gridDataInfoLabel);
+
+		/* Picture */
+	    final Composite pictureComposite = new Composite(leftComposite, SWT.BORDER);
+	    pictureComposite.setBackground(Display.getDefault().getSystemColor(SWT.COLOR_WHITE));
+	    GridData gridDataPictureComposite = new GridData();
+	    gridDataPictureComposite.horizontalAlignment = GridData.FILL;
+	    gridDataPictureComposite.verticalAlignment = GridData.FILL;
+	    gridDataPictureComposite.grabExcessHorizontalSpace = true;
+	    gridDataPictureComposite.grabExcessVerticalSpace = true;
+	    pictureComposite.setLayoutData(gridDataPictureComposite);
+	    
+		if (IusCLStrUtils.isNotNullNotEmpty(propertyValue)) {
+			
+			icon = new IusCLIcon();
+			icon.loadFromFile(IusCLApplication.getFormsResFolder(persistent.getPersistentForm().getClass()) + propertyValue);
+		}
+
+		/* **************************************************************************************************** */
+		pictureComposite.addPaintListener(new PaintListener() {
+			
+			@Override
+			public void paintControl(PaintEvent paintEvent) {
+				
+				infoLabel.setText(imageInfo());
+
+				GC gc = new GC(pictureComposite);
+
+				if (icon != null) {
+					
+					Image swtImage = icon.getSwtImage();
+					int pictureWidth = swtImage.getBounds().width;
+					int pictureHeight = swtImage.getBounds().height;
+
+					int canvasWidth = paintEvent.width; 
+					int canvasHeight = paintEvent.height;
+					
+					if ((pictureWidth > canvasWidth) || (pictureHeight > canvasHeight)) {
+						
+						double imageProportion = (double)((double)pictureWidth / (double)pictureHeight);
+						double canvasProportion = (double)((double)canvasWidth / (double)canvasHeight);
+
+						int newLeft = 0;
+						int newTop = 0;
+						int newWidth = canvasWidth;
+						int newHeight = canvasHeight;
+
+						if (imageProportion > canvasProportion) {
+							double reduceProportion = (double)((double)canvasWidth / (double)pictureWidth);
+							newHeight = (int)(pictureHeight * reduceProportion);
+							newTop = (canvasHeight - newHeight) / 2;
+						}
+						else {
+							double reduceProportion = (double)((double)canvasHeight / (double)pictureHeight);
+							newWidth = (int)(pictureWidth * reduceProportion);
+							newLeft = (canvasWidth - newWidth) / 2;
+						}
+						
+						gc.drawImage(swtImage, 0, 0, pictureWidth, pictureHeight,
+								newLeft, newTop, newWidth, newHeight);
+					}
+					else {
+						gc.drawImage(swtImage, (canvasWidth - pictureWidth) / 2, (canvasHeight - pictureHeight) / 2);
+					}
+				}
+			}
+		});
+		
+	    /* Down */
+	    Composite downComposite = new Composite(leftComposite, SWT.NONE);
+	    GridData gridDataDownComposite = new GridData();
+	    gridDataDownComposite.minimumWidth = 286;
+	    gridDataDownComposite.horizontalAlignment = GridData.FILL;
+	    gridDataDownComposite.grabExcessHorizontalSpace = true;
+	    downComposite.setLayoutData(gridDataDownComposite);
+		
+		GridLayout downCompositeGridLayout = new GridLayout();
+		downCompositeGridLayout.numColumns = 4;
+		downCompositeGridLayout.marginTop = 0;
+		downCompositeGridLayout.marginBottom = 0;
+		downCompositeGridLayout.marginLeft = 0;
+		downCompositeGridLayout.marginRight = 0;
+		downCompositeGridLayout.verticalSpacing = 0;
+		downCompositeGridLayout.horizontalSpacing = 8;
+		downCompositeGridLayout.marginWidth = 0;
+		downCompositeGridLayout.marginHeight = 0;
+
+		downComposite.setLayout(downCompositeGridLayout);
+
+	    /* Down left */
+	    Composite downLeftComposite = new Composite(downComposite, SWT.NONE);
+	    GridData gridDataDownLeftComposite = new GridData();
+	    gridDataDownLeftComposite.heightHint = 10;
+	    gridDataDownLeftComposite.horizontalAlignment = GridData.FILL;
+	    gridDataDownLeftComposite.grabExcessHorizontalSpace = true;
+	    downLeftComposite.setLayoutData(gridDataDownLeftComposite);
+	    
+	    Button loadButton = new Button(downComposite, SWT.PUSH);
+	    GridData gridDataLoadButton = new GridData();
+	    gridDataLoadButton.widthHint = 90;
+	    loadButton.setLayoutData(gridDataLoadButton);
+	    loadButton.setText("Load...");
+
+		/* **************************************************************************************************** */
+	    loadButton.addSelectionListener(new SelectionAdapter() {
+	    	
+			@Override
+			public void widgetSelected(SelectionEvent selectionEvent) {
+				
+				FileDialog swtFileDialog = new FileDialog(pictureShell, SWT.OPEN);
+				
+				swtFileDialog.setText("Load Icon");
+				swtFileDialog.setFileName("");
+				swtFileDialog.setFilterPath("C:\\Iustin");
+
+				swtFileDialog.setOverwrite(true);
+				
+				swtFileDialog.setFilterIndex(0);
+
+				String imageFilter = "Icons (*.ico)|*.ico|All files (*.*)|*.*|";
+				
+				String[] filters = imageFilter.split("\\|");
+				String[] filterNames = new String[filters.length / 2];
+				String[] filterExtensions = new String[filters.length / 2];
+				
+				for (int index = 0; index < filters.length / 2; index++) {
+					filterNames[index] = filters[index * 2];
+					filterExtensions[index] = filters[index * 2 + 1];
+				}
+				swtFileDialog.setFilterNames(filterNames);
+				swtFileDialog.setFilterExtensions(filterExtensions);
+				
+				String resultString = swtFileDialog.open();
+				if (resultString != null) {
+					
+					String filePath = IusCLFileUtils.includeTrailingPathDelimiter(swtFileDialog.getFilterPath());
+					pictureFileName = filePath + swtFileDialog.getFileName();
+					
+					if (icon == null) {
+						
+						icon = new IusCLIcon();
+					}
+					icon.loadFromFile(pictureFileName);
+					
+					pictureComposite.redraw();
+				}
+			}
+		});
+
+	    Button saveButton = new Button(downComposite, SWT.PUSH);
+	    GridData gridDataSaveButton = new GridData();
+	    gridDataSaveButton.widthHint = 90;
+	    saveButton.setLayoutData(gridDataSaveButton);
+	    saveButton.setText("Save...");
+		
+	    Button clearButton = new Button(downComposite, SWT.PUSH);
+	    GridData gridDataClearButton = new GridData();
+	    gridDataClearButton.widthHint = 90;
+	    clearButton.setLayoutData(gridDataClearButton);
+	    clearButton.setText("Clear");
+
+		/* **************************************************************************************************** */
+	    clearButton.addSelectionListener(new SelectionAdapter() {
+	    	
+			@Override
+			public void widgetSelected(SelectionEvent selectionEvent) {
+				
+				if (icon != null) {
+					
+					icon = null;
+				}
+				if (IusCLStrUtils.isNotNullNotEmpty(pictureFileName)) {
+					
+					pictureFileName = null;
+				}
+				
+				pictureComposite.redraw();
+			}
+		});
+		
+		/* Right */
+	    Composite rightComposite = new Composite(pictureShell, SWT.NONE);
+	    GridData gridDataRightComposite = new GridData();
+	    gridDataRightComposite.verticalAlignment = GridData.FILL;
+	    gridDataRightComposite.grabExcessVerticalSpace = true;
+	    rightComposite.setLayoutData(gridDataRightComposite);
+
+		GridLayout rightCompositeGridLayout = new GridLayout();
+		rightCompositeGridLayout.numColumns = 1;
+		rightCompositeGridLayout.marginTop = 0;
+		rightCompositeGridLayout.marginBottom = 0;
+		rightCompositeGridLayout.marginLeft = 0;
+		rightCompositeGridLayout.marginRight = 0;
+		rightCompositeGridLayout.verticalSpacing = 8;
+		rightCompositeGridLayout.horizontalSpacing = 0;
+		rightCompositeGridLayout.marginWidth = 0;
+		rightCompositeGridLayout.marginHeight = 0;
+
+		rightComposite.setLayout(rightCompositeGridLayout);
+	    
+	    
+	    
+	    Button okButton = new Button(rightComposite, SWT.PUSH);
+	    GridData gridDataOkButton = new GridData();
+	    gridDataOkButton.widthHint = 90;
+	    okButton.setLayoutData(gridDataOkButton);
+	    okButton.setText("OK");
+
+		/* **************************************************************************************************** */
+	    okButton.addSelectionListener(new SelectionAdapter() {
+	    	
+			@Override
+			public void widgetSelected(SelectionEvent selectionEvent) {
+				
+				if (pictureFileName != null) {
+					
+					if (IusCLStrUtils.isNotNullNotEmpty(propertyValue)) {
+						
+						IusCLFileUtils.deleteFile(IusCLApplication.getFormsResFolder(
+								persistent.getPersistentForm().getClass()) + propertyValue);
+					}
+				
+					String picFile = persistent.getPersistentFormAndResName(propertyName) + 
+						"." + IusCLFileUtils.extractFileExt(pictureFileName, true);
+					String destFileName = IusCLApplication.getFormsResFolder(
+							persistent.getPersistentForm().getClass()) + 
+							picFile.replace("/", IusCLFileUtils.getPathDelimiter());
+					IusCLFileUtils.copyFile(pictureFileName, destFileName);
+					
+					propertyValue = "*" + picFile;
+				}
+				else {
+					/* Delete resource */
+					propertyValue = "";
+				}
+				
+				pictureButton.addFocusListener(swtFocusListener);
+				pictureShell.dispose();
+			}
+		});
+	    
+	    Button cancelButton = new Button(rightComposite, SWT.PUSH);
+	    GridData gridDataCancelButton = new GridData();
+	    gridDataCancelButton.widthHint = 90;
+	    cancelButton.setLayoutData(gridDataCancelButton);
+	    cancelButton.setText("Cancel");
+
+		/* **************************************************************************************************** */
+	    cancelButton.addSelectionListener(new SelectionAdapter() {
+			@Override
+			public void widgetSelected(SelectionEvent selectionEvent) {
+				
+				pictureButton.addFocusListener(swtFocusListener);
+				pictureShell.dispose();
+			}
+		});
+	    
+	    pictureButton.removeFocusListener(swtFocusListener);
+	    pictureShell.open();
+	}
+
+	/* **************************************************************************************************** */
+	private String imageInfo() {
+		
+		if (icon != null) {
+			
+			if (icon != null) {
+				
+				String inf = "(" + icon.getWidth() + " x " + icon.getHeight() + ")";
+				return inf;
+			}
+			return "(none)";
+		}
+		return "(none)";
+	}
+
+	/* **************************************************************************************************** */
+	@Override
+	public String getEditorValue() {
+		
+		return propertyValue; 
+	}
+	
+	/* **************************************************************************************************** */
+	@Override
+	public void closeEditor() {
+		
+		pictureText.dispose();
+		pictureButton.dispose();
+		pictureComposite.dispose();
+		
+		super.closeEditor();
+	}
+}
