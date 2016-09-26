@@ -1,0 +1,30 @@
+/* ****************************************************************************************************
+IusCL - http://iuscl.org
+
+This software is distributed under the terms of:
+Eclipse Public License v1.0 - http://www.eclipse.org/org/documents/epl-v10.html
+**************************************************************************************************** */
+
+begin IusCLWebBrowserNavigateEvent
+	/** ${component}.${event} event implementation */
+	public Boolean ${implementation}(IusCLObject sender, String location, Boolean thePage) {
+
+		${caret}
+		return true;
+	}
+end IusCLWebBrowserNavigateEvent
+
+/* **************************************************************************************************** */
+
+begin IusCLWebBrowserOpenWindowEvent
+	/** ${component}.${event} event implementation */
+	public IusCLWebBrowser ${implementation}(IusCLObject sender, IusCLPoint location, IusCLSize size,
+			Boolean menuBar, Boolean toolBar, Boolean addressBar, Boolean statusBar) {
+
+		${caret}
+		return null;
+	}
+end IusCLWebBrowserOpenWindowEvent
+
+/* **************************************************************************************************** */
+
