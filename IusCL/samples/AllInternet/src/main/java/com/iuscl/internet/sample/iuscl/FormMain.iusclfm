@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <Caption>All Internet</Caption>
+  <ClientHeight>608</ClientHeight>
+  <ClientWidth>792</ClientWidth>
+  <Height>647</Height>
+  <Left>100</Left>
+  <Name>formMain</Name>
+  <Top>100</Top>
+  <Width>808</Width>
+  <object name="panel1">
+    <Align>alTop</Align>
+    <BevelOuter>bvNone</BevelOuter>
+    <Height>21</Height>
+    <Name>panel1</Name>
+    <TabOrder>0</TabOrder>
+    <Width>792</Width>
+    <object name="toolBar1">
+      <Align>alLeft</Align>
+      <collection name="Buttons">
+        <item>
+          <Caption>Web</Caption>
+        </item>
+      </collection>
+      <Height>21</Height>
+      <Name>toolBar1</Name>
+      <TabOrder>0</TabOrder>
+      <Width>35</Width>
+    </object>
+    <object name="toolBar2">
+      <Align>alRight</Align>
+      <Anchors.Left>false</Anchors.Left>
+      <collection name="Buttons">
+        <item>
+          <Caption>Top</Caption>
+        </item>
+      </collection>
+      <Height>21</Height>
+      <Left>761</Left>
+      <Name>toolBar2</Name>
+      <TabOrder>1</TabOrder>
+      <Width>31</Width>
+    </object>
+  </object>
+  <object name="bevel1">
+    <Align>alTop</Align>
+    <Height>1</Height>
+    <Name>bevel1</Name>
+    <Shape>bsBottomLine</Shape>
+    <Top>21</Top>
+    <Width>792</Width>
+  </object>
+  <object name="panel2">
+    <Align>alTop</Align>
+    <BevelOuter>bvLowered</BevelOuter>
+    <Color>clHighlight</Color>
+    <Height>24</Height>
+    <Name>panel2</Name>
+    <ParentColor>false</ParentColor>
+    <TabOrder>1</TabOrder>
+    <Top>22</Top>
+    <Width>792</Width>
+    <object name="label1">
+      <Align>alBottom</Align>
+      <Alignment>taCenter</Alignment>
+      <Caption>My Computer</Caption>
+      <Font.Color>clHighlightText</Font.Color>
+      <Font.Size>10</Font.Size>
+      <Font.Style.Bold>true</Font.Style.Bold>
+      <Height>20</Height>
+      <Name>label1</Name>
+      <ParentColor>false</ParentColor>
+      <ParentFont>false</ParentFont>
+      <TabOrder>0</TabOrder>
+      <Top>2</Top>
+      <Width>790</Width>
+    </object>
+  </object>
+  <object name="panel3">
+    <Align>alBottom</Align>
+    <Anchors.Top>false</Anchors.Top>
+    <BevelOuter>bvLowered</BevelOuter>
+    <Height>24</Height>
+    <Name>panel3</Name>
+    <TabOrder>2</TabOrder>
+    <Top>584</Top>
+    <Width>792</Width>
+  </object>
+  <object name="panel4">
+    <Align>alClient</Align>
+    <BevelOuter>bvNone</BevelOuter>
+    <Height>538</Height>
+    <Name>panel4</Name>
+    <TabOrder>3</TabOrder>
+    <Top>46</Top>
+    <Width>792</Width>
+    <object name="button1">
+      <Caption>button1</Caption>
+      <Left>16</Left>
+      <Name>button1</Name>
+      <OnClick>button1Click</OnClick>
+      <TabOrder>0</TabOrder>
+      <Top>8</Top>
+    </object>
+    <object name="edit1">
+      <Font.Size>10</Font.Size>
+      <Height>22</Height>
+      <Left>112</Left>
+      <Name>edit1</Name>
+      <ParentFont>false</ParentFont>
+      <TabOrder>1</TabOrder>
+      <Text>google.com/ncr</Text>
+      <Top>8</Top>
+      <Width>185</Width>
+    </object>
+    <object name="edit2">
+      <Left>304</Left>
+      <Name>edit2</Name>
+      <TabOrder>2</TabOrder>
+      <Text>about:blank</Text>
+      <Top>8</Top>
+      <Width>409</Width>
+    </object>
+    <object name="edit3">
+      <Left>16</Left>
+      <Name>edit3</Name>
+      <TabOrder>3</TabOrder>
+      <Text>edit3</Text>
+      <Top>40</Top>
+      <Width>201</Width>
+    </object>
+    <object name="internetExplorer1">
+      <Align>alBottom</Align>
+      <Caption>internetExplorer1</Caption>
+      <Height>458</Height>
+      <Name>internetExplorer1</Name>
+      <OnBeforeNavigate>internetExplorer1BeforeNavigate</OnBeforeNavigate>
+      <OnNavigateComplete>internetExplorer1NavigateComplete</OnNavigateComplete>
+      <OnOpenWindow>internetExplorer1OpenWindow</OnOpenWindow>
+      <OnProgressChange>internetExplorer1ProgressChange</OnProgressChange>
+      <OnTitleChange>internetExplorer1TitleChange</OnTitleChange>
+      <TabOrder>4</TabOrder>
+      <Top>80</Top>
+      <Width>792</Width>
+    </object>
+  </object>
+</object>
+
