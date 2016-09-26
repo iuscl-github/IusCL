@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.iuscl.ide"
+      label="IusCL IDE"
+      version="1.0.3.qualifier"
+      provider-name="IusCL - http://iuscl.org"
+      plugin="org.iuscl.ide">
+
+   <description url="http://iuscl.org">
+      IusCL IDE - http://iuscl.org
+Delphi7 style, Windows Java SWT based Component Library and Eclipse Development Plug-in
+   </description>
+
+   <copyright url="http://iuscl.org">
+      Copyright 2012-2016 IusCL - http://iuscl.org
+   </copyright>
+
+   <license url="http://iuscl.org/help/userguide/license.html">
+      This software is distributed under the terms of:
+Eclipse Public License v1.0 - http://www.eclipse.org/org/documents/epl-v10.html
+http://www.eclipse.org/legal/eplfaq.php
+
+Two small things to keep in mind:
+1/ This software is provided &quot;AS IS&quot; without warranty of any kind
+2/ You CANNOT modify this software and then distribute the modified version without making available the modified source
+   </license>
+
+   <url>
+      <update label="IusCL Update Site" url="http://iuscl.org/update"/>
+      <discovery label="IusCL.org" url="http://iuscl.org"/>
+   </url>
+
+   <plugin
+         id="org.iuscl.ide"
+         download-size="0"
+         install-size="0"
+         version="1.0.3.qualifier"/>
+
+</feature>
