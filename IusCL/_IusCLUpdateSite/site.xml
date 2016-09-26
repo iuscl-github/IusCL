@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="IusCL Update Site" url="http://iuscl.org/update">
+      IusCL Update Site - http://iuscl.org/update; Delphi7 style, Windows Java SWT based Component Library and Eclipse Development Plug-in
+   </description>
+   <feature url="features/org.iuscl.ide_1.0.3.201609261702.jar" id="org.iuscl.ide" version="1.0.3.201609261702">
+      <category name="org.iuscl.ide.updatesite.category"/>
+   </feature>
+   <category-def name="org.iuscl.ide.updatesite.category" label="IusCL Distribution">
+      <description>
+         IusCL Distribution - http://iuscl.org/update; Delphi7 style, Windows Java SWT based Component Library and Eclipse Development Plug-in; This software is distributed under the terms of: Eclipse Public License v1.0 - http://www.eclipse.org/org/documents/epl-v10.html
+      </description>
+   </category-def>
+</site>
