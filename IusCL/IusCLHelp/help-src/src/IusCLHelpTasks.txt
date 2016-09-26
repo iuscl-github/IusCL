@@ -1,0 +1,19 @@
+-
+Begin tasksTopic.$shortDescription
+
+<i>tasksTopic.$shortDescription - not found.</i>
+
+End tasksTopic.$shortDescription
+-
+Begin installverifyTopic.$shortDescription
+
+<i>installverifyTopic.$shortDescription - not found.</i>
+
+End installverifyTopic.$shortDescription
+-
+Begin bugreportTopic.$bugreportingprocedure
+
+Use Github<br>
+Please put a detailed description if possible. Also a screenshot of the problem would be highly appreciated
+
+End bugreportTopic.$bugreportingprocedure

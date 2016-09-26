@@ -1,0 +1,6354 @@
+-
+Begin referenceTopic.$shortDescription
+
+<i>referenceTopic.$shortDescription - not found.</i>
+
+End referenceTopic.$shortDescription
+-
+Begin hierarchyTopic.$shortDescription
+
+<i>hierarchyTopic.$shortDescription - not found.</i>
+
+End hierarchyTopic.$shortDescription
+-
+Begin hierarchyUsrPdf.$shortDescription
+
+<i>hierarchyUsrPdf.$shortDescription - not found.</i>
+
+End hierarchyUsrPdf.$shortDescription
+-
+Begin packagesTopic.$shortDescription
+
+<i>packagesTopic.$shortDescription - not found.</i>
+
+End packagesTopic.$shortDescription
+-
+Begin org.eclipse.swt.internal.image.$shortDescription
+
+<i>org.eclipse.swt.internal.image.$shortDescription - not found.</i>
+
+End org.eclipse.swt.internal.image.$shortDescription
+-
+Begin IusCLSwtJpegSave.$shortDescription
+
+<i>IusCLSwtJpegSave.$shortDescription - not found.</i>
+
+End IusCLSwtJpegSave.$shortDescription
+-
+Begin IusCLSwtJpegSave.$longDescription
+
+<i>IusCLSwtJpegSave.$longDescription - not found.</i>
+
+End IusCLSwtJpegSave.$longDescription
+-
+Begin org.iuscl.buttons.$shortDescription
+
+<i>org.iuscl.buttons.$shortDescription - not found.</i>
+
+End org.iuscl.buttons.$shortDescription
+-
+Begin IusCLBitBtn.$shortDescription
+
+<i>IusCLBitBtn.$shortDescription - not found.</i>
+
+End IusCLBitBtn.$shortDescription
+-
+Begin IusCLBitBtn.IusCLBitBtnKind.$shortDescription
+
+<i>IusCLBitBtn.IusCLBitBtnKind.$shortDescription - not found.</i>
+
+End IusCLBitBtn.IusCLBitBtnKind.$shortDescription
+-
+Begin IusCLBitBtn.IusCLBitBtnKind.$bkCustom
+
+<i>IusCLBitBtn.IusCLBitBtnKind.$bkCustom - not found.</i>
+
+End IusCLBitBtn.IusCLBitBtnKind.$bkCustom
+-
+Begin IusCLBitBtn.IusCLBitBtnKind.$bkOK
+
+<i>IusCLBitBtn.IusCLBitBtnKind.$bkOK - not found.</i>
+
+End IusCLBitBtn.IusCLBitBtnKind.$bkOK
+-
+Begin IusCLBitBtn.IusCLBitBtnKind.$bkCancel
+
+<i>IusCLBitBtn.IusCLBitBtnKind.$bkCancel - not found.</i>
+
+End IusCLBitBtn.IusCLBitBtnKind.$bkCancel
+-
+Begin IusCLBitBtn.IusCLBitBtnKind.$bkHelp
+
+<i>IusCLBitBtn.IusCLBitBtnKind.$bkHelp - not found.</i>
+
+End IusCLBitBtn.IusCLBitBtnKind.$bkHelp
+-
+Begin IusCLBitBtn.IusCLBitBtnKind.$bkYes
+
+<i>IusCLBitBtn.IusCLBitBtnKind.$bkYes - not found.</i>
+
+End IusCLBitBtn.IusCLBitBtnKind.$bkYes
+-
+Begin IusCLBitBtn.IusCLBitBtnKind.$bkNo
+
+<i>IusCLBitBtn.IusCLBitBtnKind.$bkNo - not found.</i>
+
+End IusCLBitBtn.IusCLBitBtnKind.$bkNo
+-
+Begin IusCLBitBtn.IusCLBitBtnKind.$bkClose
+
+<i>IusCLBitBtn.IusCLBitBtnKind.$bkClose - not found.</i>
+
+End IusCLBitBtn.IusCLBitBtnKind.$bkClose
+-
+Begin IusCLBitBtn.IusCLBitBtnKind.$bkAbort
+
+<i>IusCLBitBtn.IusCLBitBtnKind.$bkAbort - not found.</i>
+
+End IusCLBitBtn.IusCLBitBtnKind.$bkAbort
+-
+Begin IusCLBitBtn.IusCLBitBtnKind.$bkRetry
+
+<i>IusCLBitBtn.IusCLBitBtnKind.$bkRetry - not found.</i>
+
+End IusCLBitBtn.IusCLBitBtnKind.$bkRetry
+-
+Begin IusCLBitBtn.IusCLBitBtnKind.$bkIgnore
+
+<i>IusCLBitBtn.IusCLBitBtnKind.$bkIgnore - not found.</i>
+
+End IusCLBitBtn.IusCLBitBtnKind.$bkIgnore
+-
+Begin IusCLBitBtn.IusCLBitBtnKind.$bkAll
+
+<i>IusCLBitBtn.IusCLBitBtnKind.$bkAll - not found.</i>
+
+End IusCLBitBtn.IusCLBitBtnKind.$bkAll
+-
+Begin IusCLBitBtn.$longDescription
+
+<i>IusCLBitBtn.$longDescription - not found.</i>
+
+End IusCLBitBtn.$longDescription
+-
+Begin IusCLButtonGlyph.$shortDescription
+
+<i>IusCLButtonGlyph.$shortDescription - not found.</i>
+
+End IusCLButtonGlyph.$shortDescription
+-
+Begin IusCLButtonGlyph.$longDescription
+
+<i>IusCLButtonGlyph.$longDescription - not found.</i>
+
+End IusCLButtonGlyph.$longDescription
+-
+Begin IusCLCustomButton.$shortDescription
+
+<i>IusCLCustomButton.$shortDescription - not found.</i>
+
+End IusCLCustomButton.$shortDescription
+-
+Begin IusCLCustomButton.IusCLButtonLayout.$shortDescription
+
+<i>IusCLCustomButton.IusCLButtonLayout.$shortDescription - not found.</i>
+
+End IusCLCustomButton.IusCLButtonLayout.$shortDescription
+-
+Begin IusCLCustomButton.IusCLButtonLayout.$blGlyphLeft
+
+<i>IusCLCustomButton.IusCLButtonLayout.$blGlyphLeft - not found.</i>
+
+End IusCLCustomButton.IusCLButtonLayout.$blGlyphLeft
+-
+Begin IusCLCustomButton.IusCLButtonLayout.$blGlyphRight
+
+<i>IusCLCustomButton.IusCLButtonLayout.$blGlyphRight - not found.</i>
+
+End IusCLCustomButton.IusCLButtonLayout.$blGlyphRight
+-
+Begin IusCLCustomButton.IusCLButtonLayout.$blGlyphTop
+
+<i>IusCLCustomButton.IusCLButtonLayout.$blGlyphTop - not found.</i>
+
+End IusCLCustomButton.IusCLButtonLayout.$blGlyphTop
+-
+Begin IusCLCustomButton.IusCLButtonLayout.$blGlyphBottom
+
+<i>IusCLCustomButton.IusCLButtonLayout.$blGlyphBottom - not found.</i>
+
+End IusCLCustomButton.IusCLButtonLayout.$blGlyphBottom
+-
+Begin IusCLCustomButton.$longDescription
+
+<i>IusCLCustomButton.$longDescription - not found.</i>
+
+End IusCLCustomButton.$longDescription
+-
+Begin IusCLSpeedButton.$shortDescription
+
+<i>IusCLSpeedButton.$shortDescription - not found.</i>
+
+End IusCLSpeedButton.$shortDescription
+-
+Begin IusCLSpeedButton.$longDescription
+
+<i>IusCLSpeedButton.$longDescription - not found.</i>
+
+End IusCLSpeedButton.$longDescription
+-
+Begin org.iuscl.classes.$shortDescription
+
+<i>org.iuscl.classes.$shortDescription - not found.</i>
+
+End org.iuscl.classes.$shortDescription
+-
+Begin IusCLClasses.$shortDescription
+
+<i>IusCLClasses.$shortDescription - not found.</i>
+
+End IusCLClasses.$shortDescription
+-
+Begin IusCLClasses.IusCLBorderStyle.$shortDescription
+
+<i>IusCLClasses.IusCLBorderStyle.$shortDescription - not found.</i>
+
+End IusCLClasses.IusCLBorderStyle.$shortDescription
+-
+Begin IusCLClasses.IusCLBorderStyle.$bsNone
+
+<i>IusCLClasses.IusCLBorderStyle.$bsNone - not found.</i>
+
+End IusCLClasses.IusCLBorderStyle.$bsNone
+-
+Begin IusCLClasses.IusCLBorderStyle.$bsSingle
+
+<i>IusCLClasses.IusCLBorderStyle.$bsSingle - not found.</i>
+
+End IusCLClasses.IusCLBorderStyle.$bsSingle
+-
+Begin IusCLClasses.IusCLAlignment.$shortDescription
+
+<i>IusCLClasses.IusCLAlignment.$shortDescription - not found.</i>
+
+End IusCLClasses.IusCLAlignment.$shortDescription
+-
+Begin IusCLClasses.IusCLAlignment.$taLeftJustify
+
+<i>IusCLClasses.IusCLAlignment.$taLeftJustify - not found.</i>
+
+End IusCLClasses.IusCLAlignment.$taLeftJustify
+-
+Begin IusCLClasses.IusCLAlignment.$taRightJustify
+
+<i>IusCLClasses.IusCLAlignment.$taRightJustify - not found.</i>
+
+End IusCLClasses.IusCLAlignment.$taRightJustify
+-
+Begin IusCLClasses.IusCLAlignment.$taCenter
+
+<i>IusCLClasses.IusCLAlignment.$taCenter - not found.</i>
+
+End IusCLClasses.IusCLAlignment.$taCenter
+-
+Begin IusCLClasses.IusCLLeftRight.$shortDescription
+
+<i>IusCLClasses.IusCLLeftRight.$shortDescription - not found.</i>
+
+End IusCLClasses.IusCLLeftRight.$shortDescription
+-
+Begin IusCLClasses.IusCLLeftRight.$taLeftJustify
+
+<i>IusCLClasses.IusCLLeftRight.$taLeftJustify - not found.</i>
+
+End IusCLClasses.IusCLLeftRight.$taLeftJustify
+-
+Begin IusCLClasses.IusCLLeftRight.$taRightJustify
+
+<i>IusCLClasses.IusCLLeftRight.$taRightJustify - not found.</i>
+
+End IusCLClasses.IusCLLeftRight.$taRightJustify
+-
+Begin IusCLClasses.IusCLMouseButton.$shortDescription
+
+<i>IusCLClasses.IusCLMouseButton.$shortDescription - not found.</i>
+
+End IusCLClasses.IusCLMouseButton.$shortDescription
+-
+Begin IusCLClasses.IusCLMouseButton.$mbLeft
+
+<i>IusCLClasses.IusCLMouseButton.$mbLeft - not found.</i>
+
+End IusCLClasses.IusCLMouseButton.$mbLeft
+-
+Begin IusCLClasses.IusCLMouseButton.$mbRight
+
+<i>IusCLClasses.IusCLMouseButton.$mbRight - not found.</i>
+
+End IusCLClasses.IusCLMouseButton.$mbRight
+-
+Begin IusCLClasses.IusCLMouseButton.$mbMiddle
+
+<i>IusCLClasses.IusCLMouseButton.$mbMiddle - not found.</i>
+
+End IusCLClasses.IusCLMouseButton.$mbMiddle
+-
+Begin IusCLClasses.IusCLShiftState.$shortDescription
+
+<i>IusCLClasses.IusCLShiftState.$shortDescription - not found.</i>
+
+End IusCLClasses.IusCLShiftState.$shortDescription
+-
+Begin IusCLClasses.IusCLShiftState.$ssShift
+
+<i>IusCLClasses.IusCLShiftState.$ssShift - not found.</i>
+
+End IusCLClasses.IusCLShiftState.$ssShift
+-
+Begin IusCLClasses.IusCLShiftState.$ssAlt
+
+<i>IusCLClasses.IusCLShiftState.$ssAlt - not found.</i>
+
+End IusCLClasses.IusCLShiftState.$ssAlt
+-
+Begin IusCLClasses.IusCLShiftState.$ssAltGr
+
+<i>IusCLClasses.IusCLShiftState.$ssAltGr - not found.</i>
+
+End IusCLClasses.IusCLShiftState.$ssAltGr
+-
+Begin IusCLClasses.IusCLShiftState.$ssCtrl
+
+<i>IusCLClasses.IusCLShiftState.$ssCtrl - not found.</i>
+
+End IusCLClasses.IusCLShiftState.$ssCtrl
+-
+Begin IusCLClasses.$longDescription
+
+<i>IusCLClasses.$longDescription - not found.</i>
+
+End IusCLClasses.$longDescription
+-
+Begin IusCLCollection.$shortDescription
+
+<i>IusCLCollection.$shortDescription - not found.</i>
+
+End IusCLCollection.$shortDescription
+-
+Begin IusCLCollection.IusCLCollectionNotification.$shortDescription
+
+<i>IusCLCollection.IusCLCollectionNotification.$shortDescription - not found.</i>
+
+End IusCLCollection.IusCLCollectionNotification.$shortDescription
+-
+Begin IusCLCollection.IusCLCollectionNotification.$cnAdded
+
+<i>IusCLCollection.IusCLCollectionNotification.$cnAdded - not found.</i>
+
+End IusCLCollection.IusCLCollectionNotification.$cnAdded
+-
+Begin IusCLCollection.IusCLCollectionNotification.$cnExtracted
+
+<i>IusCLCollection.IusCLCollectionNotification.$cnExtracted - not found.</i>
+
+End IusCLCollection.IusCLCollectionNotification.$cnExtracted
+-
+Begin IusCLCollection.IusCLCollectionNotification.$cnDeleted
+
+<i>IusCLCollection.IusCLCollectionNotification.$cnDeleted - not found.</i>
+
+End IusCLCollection.IusCLCollectionNotification.$cnDeleted
+-
+Begin IusCLCollection.$longDescription
+
+<i>IusCLCollection.$longDescription - not found.</i>
+
+End IusCLCollection.$longDescription
+-
+Begin IusCLCollectionItem.$shortDescription
+
+<i>IusCLCollectionItem.$shortDescription - not found.</i>
+
+End IusCLCollectionItem.$shortDescription
+-
+Begin IusCLCollectionItem.$longDescription
+
+<i>IusCLCollectionItem.$longDescription - not found.</i>
+
+End IusCLCollectionItem.$longDescription
+-
+Begin IusCLComponent.$shortDescription
+
+<i>IusCLComponent.$shortDescription - not found.</i>
+
+End IusCLComponent.$shortDescription
+-
+Begin IusCLComponent.$longDescription
+
+<i>IusCLComponent.$longDescription - not found.</i>
+
+End IusCLComponent.$longDescription
+-
+Begin IusCLFiler.$shortDescription
+
+<i>IusCLFiler.$shortDescription - not found.</i>
+
+End IusCLFiler.$shortDescription
+-
+Begin IusCLFiler.$longDescription
+
+<i>IusCLFiler.$longDescription - not found.</i>
+
+End IusCLFiler.$longDescription
+-
+Begin IusCLInterfacedPersistent.$shortDescription
+
+<i>IusCLInterfacedPersistent.$shortDescription - not found.</i>
+
+End IusCLInterfacedPersistent.$shortDescription
+-
+Begin IusCLInterfacedPersistent.$longDescription
+
+<i>IusCLInterfacedPersistent.$longDescription - not found.</i>
+
+End IusCLInterfacedPersistent.$longDescription
+-
+Begin IusCLOS.$shortDescription
+
+<i>IusCLOS.$shortDescription - not found.</i>
+
+End IusCLOS.$shortDescription
+-
+Begin IusCLOS.IusCLOSType.$shortDescription
+
+<i>IusCLOS.IusCLOSType.$shortDescription - not found.</i>
+
+End IusCLOS.IusCLOSType.$shortDescription
+-
+Begin IusCLOS.IusCLOSType.$ostWindows
+
+<i>IusCLOS.IusCLOSType.$ostWindows - not found.</i>
+
+End IusCLOS.IusCLOSType.$ostWindows
+-
+Begin IusCLOS.IusCLOSType.$ostLinux
+
+<i>IusCLOS.IusCLOSType.$ostLinux - not found.</i>
+
+End IusCLOS.IusCLOSType.$ostLinux
+-
+Begin IusCLOS.IusCLOSType.$ostMac
+
+<i>IusCLOS.IusCLOSType.$ostMac - not found.</i>
+
+End IusCLOS.IusCLOSType.$ostMac
+-
+Begin IusCLOS.$longDescription
+
+<i>IusCLOS.$longDescription - not found.</i>
+
+End IusCLOS.$longDescription
+-
+Begin IusCLPersistent.$shortDescription
+
+<i>IusCLPersistent.$shortDescription - not found.</i>
+
+End IusCLPersistent.$shortDescription
+-
+Begin IusCLPersistent.IusCLPropertyType.$shortDescription
+
+<i>IusCLPersistent.IusCLPropertyType.$shortDescription - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$shortDescription
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptInteger
+
+<i>IusCLPersistent.IusCLPropertyType.$ptInteger - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptInteger
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptString
+
+<i>IusCLPersistent.IusCLPropertyType.$ptString - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptString
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptBoolean
+
+<i>IusCLPersistent.IusCLPropertyType.$ptBoolean - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptBoolean
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptEnum
+
+<i>IusCLPersistent.IusCLPropertyType.$ptEnum - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptEnum
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptEvent
+
+<i>IusCLPersistent.IusCLPropertyType.$ptEvent - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptEvent
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptColor
+
+<i>IusCLPersistent.IusCLPropertyType.$ptColor - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptColor
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptCursor
+
+<i>IusCLPersistent.IusCLPropertyType.$ptCursor - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptCursor
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptStrings
+
+<i>IusCLPersistent.IusCLPropertyType.$ptStrings - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptStrings
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptPicture
+
+<i>IusCLPersistent.IusCLPropertyType.$ptPicture - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptPicture
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptIcon
+
+<i>IusCLPersistent.IusCLPropertyType.$ptIcon - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptIcon
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptFilter
+
+<i>IusCLPersistent.IusCLPropertyType.$ptFilter - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptFilter
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptComponent
+
+<i>IusCLPersistent.IusCLPropertyType.$ptComponent - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptComponent
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptCollection
+
+<i>IusCLPersistent.IusCLPropertyType.$ptCollection - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptCollection
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptFont
+
+<i>IusCLPersistent.IusCLPropertyType.$ptFont - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptFont
+-
+Begin IusCLPersistent.IusCLPropertyType.$ptFontName
+
+<i>IusCLPersistent.IusCLPropertyType.$ptFontName - not found.</i>
+
+End IusCLPersistent.IusCLPropertyType.$ptFontName
+-
+Begin IusCLPersistent.$longDescription
+
+<i>IusCLPersistent.$longDescription - not found.</i>
+
+End IusCLPersistent.$longDescription
+-
+Begin IusCLProperty.$shortDescription
+
+<i>IusCLProperty.$shortDescription - not found.</i>
+
+End IusCLProperty.$shortDescription
+-
+Begin IusCLProperty.$longDescription
+
+<i>IusCLProperty.$longDescription - not found.</i>
+
+End IusCLProperty.$longDescription
+-
+Begin IusCLStrings.$shortDescription
+
+<i>IusCLStrings.$shortDescription - not found.</i>
+
+End IusCLStrings.$shortDescription
+-
+Begin IusCLStrings.$longDescription
+
+<i>IusCLStrings.$longDescription - not found.</i>
+
+End IusCLStrings.$longDescription
+-
+Begin org.iuscl.comctrls.$shortDescription
+
+<i>org.iuscl.comctrls.$shortDescription - not found.</i>
+
+End org.iuscl.comctrls.$shortDescription
+-
+Begin IusCLCommonCalendar.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLCommonCalendar.$shortDescription
+-
+Begin IusCLCommonCalendar.$longDescription
+
+<i>IusCLCommonCalendar.$longDescription - not found.</i>
+
+End IusCLCommonCalendar.$longDescription
+-
+Begin IusCLCoolBand.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLCoolBand.$shortDescription
+-
+Begin IusCLCoolBand.$longDescription
+
+<i>IusCLCoolBand.$longDescription - not found.</i>
+
+End IusCLCoolBand.$longDescription
+-
+Begin IusCLCoolBar.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLCoolBar.$shortDescription
+-
+Begin IusCLCoolBar.$longDescription
+
+<i>IusCLCoolBar.$longDescription - not found.</i>
+
+End IusCLCoolBar.$longDescription
+-
+Begin IusCLDateTimePicker.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLDateTimePicker.$shortDescription
+-
+Begin IusCLDateTimePicker.$longDescription
+
+<i>IusCLDateTimePicker.$longDescription - not found.</i>
+
+End IusCLDateTimePicker.$longDescription
+-
+Begin IusCLImageList.$shortDescription
+
+<i>IusCLImageList.$shortDescription - not found.</i>
+
+End IusCLImageList.$shortDescription
+-
+Begin IusCLImageList.$longDescription
+
+<i>IusCLImageList.$longDescription - not found.</i>
+
+End IusCLImageList.$longDescription
+-
+Begin IusCLListColumn.$shortDescription
+
+<i>IusCLListColumn.$shortDescription - not found.</i>
+
+End IusCLListColumn.$shortDescription
+-
+Begin IusCLListColumn.$longDescription
+
+<i>IusCLListColumn.$longDescription - not found.</i>
+
+End IusCLListColumn.$longDescription
+-
+Begin IusCLListColumns.$shortDescription
+
+<i>IusCLListColumns.$shortDescription - not found.</i>
+
+End IusCLListColumns.$shortDescription
+-
+Begin IusCLListColumns.$longDescription
+
+<i>IusCLListColumns.$longDescription - not found.</i>
+
+End IusCLListColumns.$longDescription
+-
+Begin IusCLListItem.$shortDescription
+
+<i>IusCLListItem.$shortDescription - not found.</i>
+
+End IusCLListItem.$shortDescription
+-
+Begin IusCLListItem.$longDescription
+
+<i>IusCLListItem.$longDescription - not found.</i>
+
+End IusCLListItem.$longDescription
+-
+Begin IusCLListItems.$shortDescription
+
+<i>IusCLListItems.$shortDescription - not found.</i>
+
+End IusCLListItems.$shortDescription
+-
+Begin IusCLListItems.$longDescription
+
+<i>IusCLListItems.$longDescription - not found.</i>
+
+End IusCLListItems.$longDescription
+-
+Begin IusCLListSubItems.$shortDescription
+
+<i>IusCLListSubItems.$shortDescription - not found.</i>
+
+End IusCLListSubItems.$shortDescription
+-
+Begin IusCLListSubItems.$longDescription
+
+<i>IusCLListSubItems.$longDescription - not found.</i>
+
+End IusCLListSubItems.$longDescription
+-
+Begin IusCLListView.$shortDescription
+
+<i>IusCLListView.$shortDescription - not found.</i>
+
+End IusCLListView.$shortDescription
+-
+Begin IusCLListView.$longDescription
+
+<i>IusCLListView.$longDescription - not found.</i>
+
+End IusCLListView.$longDescription
+-
+Begin IusCLMonthCalendar.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLMonthCalendar.$shortDescription
+-
+Begin IusCLMonthCalendar.$longDescription
+
+<i>IusCLMonthCalendar.$longDescription - not found.</i>
+
+End IusCLMonthCalendar.$longDescription
+-
+Begin IusCLPageControl.$shortDescription
+
+<i>IusCLPageControl.$shortDescription - not found.</i>
+
+End IusCLPageControl.$shortDescription
+-
+Begin IusCLPageControl.$longDescription
+
+<i>IusCLPageControl.$longDescription - not found.</i>
+
+End IusCLPageControl.$longDescription
+-
+Begin IusCLParagraphAttributes.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLParagraphAttributes.$shortDescription
+-
+Begin IusCLParagraphAttributes.IusCLParagraphAlignment.$shortDescription
+
+<i>IusCLParagraphAttributes.IusCLParagraphAlignment.$shortDescription - not found.</i>
+
+End IusCLParagraphAttributes.IusCLParagraphAlignment.$shortDescription
+-
+Begin IusCLParagraphAttributes.IusCLParagraphAlignment.$paLeftJustify
+
+<i>IusCLParagraphAttributes.IusCLParagraphAlignment.$paLeftJustify - not found.</i>
+
+End IusCLParagraphAttributes.IusCLParagraphAlignment.$paLeftJustify
+-
+Begin IusCLParagraphAttributes.IusCLParagraphAlignment.$paRightJustify
+
+<i>IusCLParagraphAttributes.IusCLParagraphAlignment.$paRightJustify - not found.</i>
+
+End IusCLParagraphAttributes.IusCLParagraphAlignment.$paRightJustify
+-
+Begin IusCLParagraphAttributes.IusCLParagraphAlignment.$paCenter
+
+<i>IusCLParagraphAttributes.IusCLParagraphAlignment.$paCenter - not found.</i>
+
+End IusCLParagraphAttributes.IusCLParagraphAlignment.$paCenter
+-
+Begin IusCLParagraphAttributes.IusCLNumberingStyle.$shortDescription
+
+<i>IusCLParagraphAttributes.IusCLNumberingStyle.$shortDescription - not found.</i>
+
+End IusCLParagraphAttributes.IusCLNumberingStyle.$shortDescription
+-
+Begin IusCLParagraphAttributes.IusCLNumberingStyle.$nsNone
+
+<i>IusCLParagraphAttributes.IusCLNumberingStyle.$nsNone - not found.</i>
+
+End IusCLParagraphAttributes.IusCLNumberingStyle.$nsNone
+-
+Begin IusCLParagraphAttributes.IusCLNumberingStyle.$nsBullet
+
+<i>IusCLParagraphAttributes.IusCLNumberingStyle.$nsBullet - not found.</i>
+
+End IusCLParagraphAttributes.IusCLNumberingStyle.$nsBullet
+-
+Begin IusCLParagraphAttributes.$longDescription
+
+<i>IusCLParagraphAttributes.$longDescription - not found.</i>
+
+End IusCLParagraphAttributes.$longDescription
+-
+Begin IusCLProgressBar.$shortDescription
+
+<i>IusCLProgressBar.$shortDescription - not found.</i>
+
+End IusCLProgressBar.$shortDescription
+-
+Begin IusCLProgressBar.$longDescription
+
+<i>IusCLProgressBar.$longDescription - not found.</i>
+
+End IusCLProgressBar.$longDescription
+-
+Begin IusCLRichEdit.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLRichEdit.$shortDescription
+-
+Begin IusCLRichEdit.$longDescription
+
+<i>IusCLRichEdit.$longDescription - not found.</i>
+
+End IusCLRichEdit.$longDescription
+-
+Begin IusCLTabSheet.$shortDescription
+
+<i>IusCLTabSheet.$shortDescription - not found.</i>
+
+End IusCLTabSheet.$shortDescription
+-
+Begin IusCLTabSheet.$longDescription
+
+<i>IusCLTabSheet.$longDescription - not found.</i>
+
+End IusCLTabSheet.$longDescription
+-
+Begin IusCLTextAttributes.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLTextAttributes.$shortDescription
+-
+Begin IusCLTextAttributes.IusCLUnderlineStyle.$shortDescription
+
+<i>IusCLTextAttributes.IusCLUnderlineStyle.$shortDescription - not found.</i>
+
+End IusCLTextAttributes.IusCLUnderlineStyle.$shortDescription
+-
+Begin IusCLTextAttributes.IusCLUnderlineStyle.$usSingle
+
+<i>IusCLTextAttributes.IusCLUnderlineStyle.$usSingle - not found.</i>
+
+End IusCLTextAttributes.IusCLUnderlineStyle.$usSingle
+-
+Begin IusCLTextAttributes.IusCLUnderlineStyle.$usDouble
+
+<i>IusCLTextAttributes.IusCLUnderlineStyle.$usDouble - not found.</i>
+
+End IusCLTextAttributes.IusCLUnderlineStyle.$usDouble
+-
+Begin IusCLTextAttributes.IusCLUnderlineStyle.$usError
+
+<i>IusCLTextAttributes.IusCLUnderlineStyle.$usError - not found.</i>
+
+End IusCLTextAttributes.IusCLUnderlineStyle.$usError
+-
+Begin IusCLTextAttributes.IusCLUnderlineStyle.$usSquiggle
+
+<i>IusCLTextAttributes.IusCLUnderlineStyle.$usSquiggle - not found.</i>
+
+End IusCLTextAttributes.IusCLUnderlineStyle.$usSquiggle
+-
+Begin IusCLTextAttributes.IusCLUnderlineStyle.$usLink
+
+<i>IusCLTextAttributes.IusCLUnderlineStyle.$usLink - not found.</i>
+
+End IusCLTextAttributes.IusCLUnderlineStyle.$usLink
+-
+Begin IusCLTextAttributes.$longDescription
+
+<i>IusCLTextAttributes.$longDescription - not found.</i>
+
+End IusCLTextAttributes.$longDescription
+-
+Begin IusCLToolBar.$shortDescription
+
+<i>IusCLToolBar.$shortDescription - not found.</i>
+
+End IusCLToolBar.$shortDescription
+-
+Begin IusCLToolBar.$longDescription
+
+<i>IusCLToolBar.$longDescription - not found.</i>
+
+End IusCLToolBar.$longDescription
+-
+Begin IusCLToolButton.$shortDescription
+
+<i>IusCLToolButton.$shortDescription - not found.</i>
+
+End IusCLToolButton.$shortDescription
+-
+Begin IusCLToolButton.IusCLToolButtonStyle.$shortDescription
+
+<i>IusCLToolButton.IusCLToolButtonStyle.$shortDescription - not found.</i>
+
+End IusCLToolButton.IusCLToolButtonStyle.$shortDescription
+-
+Begin IusCLToolButton.IusCLToolButtonStyle.$tbsButton
+
+<i>IusCLToolButton.IusCLToolButtonStyle.$tbsButton - not found.</i>
+
+End IusCLToolButton.IusCLToolButtonStyle.$tbsButton
+-
+Begin IusCLToolButton.IusCLToolButtonStyle.$tbsCheck
+
+<i>IusCLToolButton.IusCLToolButtonStyle.$tbsCheck - not found.</i>
+
+End IusCLToolButton.IusCLToolButtonStyle.$tbsCheck
+-
+Begin IusCLToolButton.IusCLToolButtonStyle.$tbsDropDown
+
+<i>IusCLToolButton.IusCLToolButtonStyle.$tbsDropDown - not found.</i>
+
+End IusCLToolButton.IusCLToolButtonStyle.$tbsDropDown
+-
+Begin IusCLToolButton.IusCLToolButtonStyle.$tbsSeparator
+
+<i>IusCLToolButton.IusCLToolButtonStyle.$tbsSeparator - not found.</i>
+
+End IusCLToolButton.IusCLToolButtonStyle.$tbsSeparator
+-
+Begin IusCLToolButton.IusCLToolButtonStyle.$tbsDivider
+
+<i>IusCLToolButton.IusCLToolButtonStyle.$tbsDivider - not found.</i>
+
+End IusCLToolButton.IusCLToolButtonStyle.$tbsDivider
+-
+Begin IusCLToolButton.$longDescription
+
+<i>IusCLToolButton.$longDescription - not found.</i>
+
+End IusCLToolButton.$longDescription
+-
+Begin IusCLToolButtons.$shortDescription
+
+<i>IusCLToolButtons.$shortDescription - not found.</i>
+
+End IusCLToolButtons.$shortDescription
+-
+Begin IusCLToolButtons.$longDescription
+
+<i>IusCLToolButtons.$longDescription - not found.</i>
+
+End IusCLToolButtons.$longDescription
+-
+Begin IusCLToolWindow.$shortDescription
+
+<i>IusCLToolWindow.$shortDescription - not found.</i>
+
+End IusCLToolWindow.$shortDescription
+-
+Begin IusCLToolWindow.IusCLEdgeBorder.$shortDescription
+
+<i>IusCLToolWindow.IusCLEdgeBorder.$shortDescription - not found.</i>
+
+End IusCLToolWindow.IusCLEdgeBorder.$shortDescription
+-
+Begin IusCLToolWindow.IusCLEdgeBorder.$ebLeft
+
+<i>IusCLToolWindow.IusCLEdgeBorder.$ebLeft - not found.</i>
+
+End IusCLToolWindow.IusCLEdgeBorder.$ebLeft
+-
+Begin IusCLToolWindow.IusCLEdgeBorder.$ebTop
+
+<i>IusCLToolWindow.IusCLEdgeBorder.$ebTop - not found.</i>
+
+End IusCLToolWindow.IusCLEdgeBorder.$ebTop
+-
+Begin IusCLToolWindow.IusCLEdgeBorder.$ebRight
+
+<i>IusCLToolWindow.IusCLEdgeBorder.$ebRight - not found.</i>
+
+End IusCLToolWindow.IusCLEdgeBorder.$ebRight
+-
+Begin IusCLToolWindow.IusCLEdgeBorder.$ebBottom
+
+<i>IusCLToolWindow.IusCLEdgeBorder.$ebBottom - not found.</i>
+
+End IusCLToolWindow.IusCLEdgeBorder.$ebBottom
+-
+Begin IusCLToolWindow.IusCLEdgeStyle.$shortDescription
+
+<i>IusCLToolWindow.IusCLEdgeStyle.$shortDescription - not found.</i>
+
+End IusCLToolWindow.IusCLEdgeStyle.$shortDescription
+-
+Begin IusCLToolWindow.IusCLEdgeStyle.$esNone
+
+<i>IusCLToolWindow.IusCLEdgeStyle.$esNone - not found.</i>
+
+End IusCLToolWindow.IusCLEdgeStyle.$esNone
+-
+Begin IusCLToolWindow.IusCLEdgeStyle.$esRaised
+
+<i>IusCLToolWindow.IusCLEdgeStyle.$esRaised - not found.</i>
+
+End IusCLToolWindow.IusCLEdgeStyle.$esRaised
+-
+Begin IusCLToolWindow.IusCLEdgeStyle.$esLowered
+
+<i>IusCLToolWindow.IusCLEdgeStyle.$esLowered - not found.</i>
+
+End IusCLToolWindow.IusCLEdgeStyle.$esLowered
+-
+Begin IusCLToolWindow.$longDescription
+
+<i>IusCLToolWindow.$longDescription - not found.</i>
+
+End IusCLToolWindow.$longDescription
+-
+Begin IusCLTrackBar.$shortDescription
+
+<i>IusCLTrackBar.$shortDescription - not found.</i>
+
+End IusCLTrackBar.$shortDescription
+-
+Begin IusCLTrackBar.$longDescription
+
+<i>IusCLTrackBar.$longDescription - not found.</i>
+
+End IusCLTrackBar.$longDescription
+-
+Begin IusCLTreeNode.$shortDescription
+
+<i>IusCLTreeNode.$shortDescription - not found.</i>
+
+End IusCLTreeNode.$shortDescription
+-
+Begin IusCLTreeNode.$longDescription
+
+<i>IusCLTreeNode.$longDescription - not found.</i>
+
+End IusCLTreeNode.$longDescription
+-
+Begin IusCLTreeNodes.$shortDescription
+
+<i>IusCLTreeNodes.$shortDescription - not found.</i>
+
+End IusCLTreeNodes.$shortDescription
+-
+Begin IusCLTreeNodes.$longDescription
+
+<i>IusCLTreeNodes.$longDescription - not found.</i>
+
+End IusCLTreeNodes.$longDescription
+-
+Begin IusCLTreeView.$shortDescription
+
+<i>IusCLTreeView.$shortDescription - not found.</i>
+
+End IusCLTreeView.$shortDescription
+-
+Begin IusCLTreeView.$longDescription
+
+<i>IusCLTreeView.$longDescription - not found.</i>
+
+End IusCLTreeView.$longDescription
+-
+Begin IusCLUpDown.$shortDescription
+
+<i>IusCLUpDown.$shortDescription - not found.</i>
+
+End IusCLUpDown.$shortDescription
+-
+Begin IusCLUpDown.$longDescription
+
+<i>IusCLUpDown.$longDescription - not found.</i>
+
+End IusCLUpDown.$longDescription
+-
+Begin IusCLWindowsStatusBar.$shortDescription
+
+<i>IusCLWindowsStatusBar.$shortDescription - not found.</i>
+
+End IusCLWindowsStatusBar.$shortDescription
+-
+Begin IusCLWindowsStatusBar.$longDescription
+
+<i>IusCLWindowsStatusBar.$longDescription - not found.</i>
+
+End IusCLWindowsStatusBar.$longDescription
+-
+Begin IusCLWindowsStatusPanel.$shortDescription
+
+<i>IusCLWindowsStatusPanel.$shortDescription - not found.</i>
+
+End IusCLWindowsStatusPanel.$shortDescription
+-
+Begin IusCLWindowsStatusPanel.$longDescription
+
+<i>IusCLWindowsStatusPanel.$longDescription - not found.</i>
+
+End IusCLWindowsStatusPanel.$longDescription
+-
+Begin IusCLWindowsStatusPanels.$shortDescription
+
+<i>IusCLWindowsStatusPanels.$shortDescription - not found.</i>
+
+End IusCLWindowsStatusPanels.$shortDescription
+-
+Begin IusCLWindowsStatusPanels.$longDescription
+
+<i>IusCLWindowsStatusPanels.$longDescription - not found.</i>
+
+End IusCLWindowsStatusPanels.$longDescription
+-
+Begin org.iuscl.controls.$shortDescription
+
+<i>org.iuscl.controls.$shortDescription - not found.</i>
+
+End org.iuscl.controls.$shortDescription
+-
+Begin IusCLAnchors.$shortDescription
+
+<i>IusCLAnchors.$shortDescription - not found.</i>
+
+End IusCLAnchors.$shortDescription
+-
+Begin IusCLAnchors.$longDescription
+
+<i>IusCLAnchors.$longDescription - not found.</i>
+
+End IusCLAnchors.$longDescription
+-
+Begin IusCLContainerControl.$shortDescription
+
+<i>IusCLContainerControl.$shortDescription - not found.</i>
+
+End IusCLContainerControl.$shortDescription
+-
+Begin IusCLContainerControl.$longDescription
+
+<i>IusCLContainerControl.$longDescription - not found.</i>
+
+End IusCLContainerControl.$longDescription
+-
+Begin IusCLControl.$shortDescription
+
+<i>IusCLControl.$shortDescription - not found.</i>
+
+End IusCLControl.$shortDescription
+-
+Begin IusCLControl.IusCLAlign.$shortDescription
+
+<i>IusCLControl.IusCLAlign.$shortDescription - not found.</i>
+
+End IusCLControl.IusCLAlign.$shortDescription
+-
+Begin IusCLControl.IusCLAlign.$alNone
+
+<i>IusCLControl.IusCLAlign.$alNone - not found.</i>
+
+End IusCLControl.IusCLAlign.$alNone
+-
+Begin IusCLControl.IusCLAlign.$alTop
+
+<i>IusCLControl.IusCLAlign.$alTop - not found.</i>
+
+End IusCLControl.IusCLAlign.$alTop
+-
+Begin IusCLControl.IusCLAlign.$alBottom
+
+<i>IusCLControl.IusCLAlign.$alBottom - not found.</i>
+
+End IusCLControl.IusCLAlign.$alBottom
+-
+Begin IusCLControl.IusCLAlign.$alLeft
+
+<i>IusCLControl.IusCLAlign.$alLeft - not found.</i>
+
+End IusCLControl.IusCLAlign.$alLeft
+-
+Begin IusCLControl.IusCLAlign.$alRight
+
+<i>IusCLControl.IusCLAlign.$alRight - not found.</i>
+
+End IusCLControl.IusCLAlign.$alRight
+-
+Begin IusCLControl.IusCLAlign.$alClient
+
+<i>IusCLControl.IusCLAlign.$alClient - not found.</i>
+
+End IusCLControl.IusCLAlign.$alClient
+-
+Begin IusCLControl.IusCLAlign.$alCustom
+
+<i>IusCLControl.IusCLAlign.$alCustom - not found.</i>
+
+End IusCLControl.IusCLAlign.$alCustom
+-
+Begin IusCLControl.$longDescription
+
+<i>IusCLControl.$longDescription - not found.</i>
+
+End IusCLControl.$longDescription
+-
+Begin IusCLCustomControl.$shortDescription
+
+<i>IusCLCustomControl.$shortDescription - not found.</i>
+
+End IusCLCustomControl.$shortDescription
+-
+Begin IusCLCustomControl.$longDescription
+
+<i>IusCLCustomControl.$longDescription - not found.</i>
+
+End IusCLCustomControl.$longDescription
+-
+Begin IusCLCustomListControl.$shortDescription
+
+<i>IusCLCustomListControl.$shortDescription - not found.</i>
+
+End IusCLCustomListControl.$shortDescription
+-
+Begin IusCLCustomListControl.$longDescription
+
+<i>IusCLCustomListControl.$longDescription - not found.</i>
+
+End IusCLCustomListControl.$longDescription
+-
+Begin IusCLCustomMultiSelectListControl.$shortDescription
+
+<i>IusCLCustomMultiSelectListControl.$shortDescription - not found.</i>
+
+End IusCLCustomMultiSelectListControl.$shortDescription
+-
+Begin IusCLCustomMultiSelectListControl.$longDescription
+
+<i>IusCLCustomMultiSelectListControl.$longDescription - not found.</i>
+
+End IusCLCustomMultiSelectListControl.$longDescription
+-
+Begin IusCLGraphicControl.$shortDescription
+
+<i>IusCLGraphicControl.$shortDescription - not found.</i>
+
+End IusCLGraphicControl.$shortDescription
+-
+Begin IusCLGraphicControl.$longDescription
+
+<i>IusCLGraphicControl.$longDescription - not found.</i>
+
+End IusCLGraphicControl.$longDescription
+-
+Begin IusCLParentControl.$shortDescription
+
+<i>IusCLParentControl.$shortDescription - not found.</i>
+
+End IusCLParentControl.$shortDescription
+-
+Begin IusCLParentControl.$longDescription
+
+<i>IusCLParentControl.$longDescription - not found.</i>
+
+End IusCLParentControl.$longDescription
+-
+Begin IusCLSizeConstraints.$shortDescription
+
+<i>IusCLSizeConstraints.$shortDescription - not found.</i>
+
+End IusCLSizeConstraints.$shortDescription
+-
+Begin IusCLSizeConstraints.$longDescription
+
+<i>IusCLSizeConstraints.$longDescription - not found.</i>
+
+End IusCLSizeConstraints.$longDescription
+-
+Begin IusCLWinControl.$shortDescription
+
+<i>IusCLWinControl.$shortDescription - not found.</i>
+
+End IusCLWinControl.$shortDescription
+-
+Begin IusCLWinControl.$longDescription
+
+<i>IusCLWinControl.$longDescription - not found.</i>
+
+End IusCLWinControl.$longDescription
+-
+Begin org.iuscl.designintf.componenteditors.$shortDescription
+
+<i>org.iuscl.designintf.componenteditors.$shortDescription - not found.</i>
+
+End org.iuscl.designintf.componenteditors.$shortDescription
+-
+Begin IusCLDesignComponentEditor.$shortDescription
+
+<i>IusCLDesignComponentEditor.$shortDescription - not found.</i>
+
+End IusCLDesignComponentEditor.$shortDescription
+-
+Begin IusCLDesignComponentEditor.$longDescription
+
+<i>IusCLDesignComponentEditor.$longDescription - not found.</i>
+
+End IusCLDesignComponentEditor.$longDescription
+-
+Begin IusCLDesignComponentEditorVerb.$shortDescription
+
+<i>IusCLDesignComponentEditorVerb.$shortDescription - not found.</i>
+
+End IusCLDesignComponentEditorVerb.$shortDescription
+-
+Begin IusCLDesignComponentEditorVerb.$longDescription
+
+<i>IusCLDesignComponentEditorVerb.$longDescription - not found.</i>
+
+End IusCLDesignComponentEditorVerb.$longDescription
+-
+Begin IusCLDesignCoolBarComponentEditor.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLDesignCoolBarComponentEditor.$shortDescription
+-
+Begin IusCLDesignCoolBarComponentEditor.$longDescription
+
+<i>IusCLDesignCoolBarComponentEditor.$longDescription - not found.</i>
+
+End IusCLDesignCoolBarComponentEditor.$longDescription
+-
+Begin IusCLDesignDefaultComponentEditor.$shortDescription
+
+<i>IusCLDesignDefaultComponentEditor.$shortDescription - not found.</i>
+
+End IusCLDesignDefaultComponentEditor.$shortDescription
+-
+Begin IusCLDesignDefaultComponentEditor.$longDescription
+
+<i>IusCLDesignDefaultComponentEditor.$longDescription - not found.</i>
+
+End IusCLDesignDefaultComponentEditor.$longDescription
+-
+Begin IusCLDesignImageListComponentEditor.$shortDescription
+
+<i>IusCLDesignImageListComponentEditor.$shortDescription - not found.</i>
+
+End IusCLDesignImageListComponentEditor.$shortDescription
+-
+Begin IusCLDesignImageListComponentEditor.$longDescription
+
+<i>IusCLDesignImageListComponentEditor.$longDescription - not found.</i>
+
+End IusCLDesignImageListComponentEditor.$longDescription
+-
+Begin IusCLDesignListViewComponentEditor.$shortDescription
+
+<i>IusCLDesignListViewComponentEditor.$shortDescription - not found.</i>
+
+End IusCLDesignListViewComponentEditor.$shortDescription
+-
+Begin IusCLDesignListViewComponentEditor.$longDescription
+
+<i>IusCLDesignListViewComponentEditor.$longDescription - not found.</i>
+
+End IusCLDesignListViewComponentEditor.$longDescription
+-
+Begin IusCLDesignMenuComponentEditor.$shortDescription
+
+<i>IusCLDesignMenuComponentEditor.$shortDescription - not found.</i>
+
+End IusCLDesignMenuComponentEditor.$shortDescription
+-
+Begin IusCLDesignMenuComponentEditor.$longDescription
+
+<i>IusCLDesignMenuComponentEditor.$longDescription - not found.</i>
+
+End IusCLDesignMenuComponentEditor.$longDescription
+-
+Begin IusCLDesignMenuItemComponentEditor.$shortDescription
+
+<i>IusCLDesignMenuItemComponentEditor.$shortDescription - not found.</i>
+
+End IusCLDesignMenuItemComponentEditor.$shortDescription
+-
+Begin IusCLDesignMenuItemComponentEditor.$longDescription
+
+<i>IusCLDesignMenuItemComponentEditor.$longDescription - not found.</i>
+
+End IusCLDesignMenuItemComponentEditor.$longDescription
+-
+Begin IusCLDesignPageControlComponentEditor.$shortDescription
+
+<i>IusCLDesignPageControlComponentEditor.$shortDescription - not found.</i>
+
+End IusCLDesignPageControlComponentEditor.$shortDescription
+-
+Begin IusCLDesignPageControlComponentEditor.$longDescription
+
+<i>IusCLDesignPageControlComponentEditor.$longDescription - not found.</i>
+
+End IusCLDesignPageControlComponentEditor.$longDescription
+-
+Begin IusCLDesignSelection.$shortDescription
+
+<i>IusCLDesignSelection.$shortDescription - not found.</i>
+
+End IusCLDesignSelection.$shortDescription
+-
+Begin IusCLDesignSelection.$longDescription
+
+<i>IusCLDesignSelection.$longDescription - not found.</i>
+
+End IusCLDesignSelection.$longDescription
+-
+Begin IusCLDesignStatusBarComponentEditor.$shortDescription
+
+<i>IusCLDesignStatusBarComponentEditor.$shortDescription - not found.</i>
+
+End IusCLDesignStatusBarComponentEditor.$shortDescription
+-
+Begin IusCLDesignStatusBarComponentEditor.$longDescription
+
+<i>IusCLDesignStatusBarComponentEditor.$longDescription - not found.</i>
+
+End IusCLDesignStatusBarComponentEditor.$longDescription
+-
+Begin IusCLDesignToolbarComponentEditor.$shortDescription
+
+<i>IusCLDesignToolbarComponentEditor.$shortDescription - not found.</i>
+
+End IusCLDesignToolbarComponentEditor.$shortDescription
+-
+Begin IusCLDesignToolbarComponentEditor.$longDescription
+
+<i>IusCLDesignToolbarComponentEditor.$longDescription - not found.</i>
+
+End IusCLDesignToolbarComponentEditor.$longDescription
+-
+Begin org.iuscl.designintf.packages.$shortDescription
+
+<i>org.iuscl.designintf.packages.$shortDescription - not found.</i>
+
+End org.iuscl.designintf.packages.$shortDescription
+-
+Begin IusCLDesignComponentInfo.$shortDescription
+
+<i>IusCLDesignComponentInfo.$shortDescription - not found.</i>
+
+End IusCLDesignComponentInfo.$shortDescription
+-
+Begin IusCLDesignComponentInfo.$longDescription
+
+<i>IusCLDesignComponentInfo.$longDescription - not found.</i>
+
+End IusCLDesignComponentInfo.$longDescription
+-
+Begin IusCLDesignEventInfo.$shortDescription
+
+<i>IusCLDesignEventInfo.$shortDescription - not found.</i>
+
+End IusCLDesignEventInfo.$shortDescription
+-
+Begin IusCLDesignEventInfo.$longDescription
+
+<i>IusCLDesignEventInfo.$longDescription - not found.</i>
+
+End IusCLDesignEventInfo.$longDescription
+-
+Begin IusCLDesignPackage.$shortDescription
+
+<i>IusCLDesignPackage.$shortDescription - not found.</i>
+
+End IusCLDesignPackage.$shortDescription
+-
+Begin IusCLDesignPackage.$longDescription
+
+<i>IusCLDesignPackage.$longDescription - not found.</i>
+
+End IusCLDesignPackage.$longDescription
+-
+Begin IusCLDesignPackagePdf.$shortDescription
+
+<i>IusCLDesignPackagePdf.$shortDescription - not found.</i>
+
+End IusCLDesignPackagePdf.$shortDescription
+-
+Begin IusCLDesignPackagePdf.$longDescription
+
+<i>IusCLDesignPackagePdf.$longDescription - not found.</i>
+
+End IusCLDesignPackagePdf.$longDescription
+-
+Begin IusCLDesignPackageUsr.$shortDescription
+
+<i>IusCLDesignPackageUsr.$shortDescription - not found.</i>
+
+End IusCLDesignPackageUsr.$shortDescription
+-
+Begin IusCLDesignPackageUsr.$longDescription
+
+<i>IusCLDesignPackageUsr.$longDescription - not found.</i>
+
+End IusCLDesignPackageUsr.$longDescription
+-
+Begin IusCLDesignPropertyInfo.$shortDescription
+
+<i>IusCLDesignPropertyInfo.$shortDescription - not found.</i>
+
+End IusCLDesignPropertyInfo.$shortDescription
+-
+Begin IusCLDesignPropertyInfo.$longDescription
+
+<i>IusCLDesignPropertyInfo.$longDescription - not found.</i>
+
+End IusCLDesignPropertyInfo.$longDescription
+-
+Begin org.iuscl.designintf.propertyeditors.$shortDescription
+
+<i>org.iuscl.designintf.propertyeditors.$shortDescription - not found.</i>
+
+End org.iuscl.designintf.propertyeditors.$shortDescription
+-
+Begin IusCLDesignBooleanPropertyEditor.$shortDescription
+
+<i>IusCLDesignBooleanPropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignBooleanPropertyEditor.$shortDescription
+-
+Begin IusCLDesignBooleanPropertyEditor.$longDescription
+
+<i>IusCLDesignBooleanPropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignBooleanPropertyEditor.$longDescription
+-
+Begin IusCLDesignColorPropertyEditor.$shortDescription
+
+<i>IusCLDesignColorPropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignColorPropertyEditor.$shortDescription
+-
+Begin IusCLDesignColorPropertyEditor.$longDescription
+
+<i>IusCLDesignColorPropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignColorPropertyEditor.$longDescription
+-
+Begin IusCLDesignEnumPropertyEditor.$shortDescription
+
+<i>IusCLDesignEnumPropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignEnumPropertyEditor.$shortDescription
+-
+Begin IusCLDesignEnumPropertyEditor.$longDescription
+
+<i>IusCLDesignEnumPropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignEnumPropertyEditor.$longDescription
+-
+Begin IusCLDesignEventPropertyEditor.$shortDescription
+
+<i>IusCLDesignEventPropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignEventPropertyEditor.$shortDescription
+-
+Begin IusCLDesignEventPropertyEditor.$longDescription
+
+<i>IusCLDesignEventPropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignEventPropertyEditor.$longDescription
+-
+Begin IusCLDesignFilterPropertyEditor.$shortDescription
+
+<i>IusCLDesignFilterPropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignFilterPropertyEditor.$shortDescription
+-
+Begin IusCLDesignFilterPropertyEditor.$longDescription
+
+<i>IusCLDesignFilterPropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignFilterPropertyEditor.$longDescription
+-
+Begin IusCLDesignFontNamePropertyEditor.$shortDescription
+
+<i>IusCLDesignFontNamePropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignFontNamePropertyEditor.$shortDescription
+-
+Begin IusCLDesignFontNamePropertyEditor.$longDescription
+
+<i>IusCLDesignFontNamePropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignFontNamePropertyEditor.$longDescription
+-
+Begin IusCLDesignFontPropertyEditor.$shortDescription
+
+<i>IusCLDesignFontPropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignFontPropertyEditor.$shortDescription
+-
+Begin IusCLDesignFontPropertyEditor.$longDescription
+
+<i>IusCLDesignFontPropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignFontPropertyEditor.$longDescription
+-
+Begin IusCLDesignIconPropertyEditor.$shortDescription
+
+<i>IusCLDesignIconPropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignIconPropertyEditor.$shortDescription
+-
+Begin IusCLDesignIconPropertyEditor.$longDescription
+
+<i>IusCLDesignIconPropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignIconPropertyEditor.$longDescription
+-
+Begin IusCLDesignIntegerPropertyEditor.$shortDescription
+
+<i>IusCLDesignIntegerPropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignIntegerPropertyEditor.$shortDescription
+-
+Begin IusCLDesignIntegerPropertyEditor.$longDescription
+
+<i>IusCLDesignIntegerPropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignIntegerPropertyEditor.$longDescription
+-
+Begin IusCLDesignPicturePropertyEditor.$shortDescription
+
+<i>IusCLDesignPicturePropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignPicturePropertyEditor.$shortDescription
+-
+Begin IusCLDesignPicturePropertyEditor.$longDescription
+
+<i>IusCLDesignPicturePropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignPicturePropertyEditor.$longDescription
+-
+Begin IusCLDesignPropertyEditor.$shortDescription
+
+<i>IusCLDesignPropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignPropertyEditor.$shortDescription
+-
+Begin IusCLDesignPropertyEditor.$longDescription
+
+<i>IusCLDesignPropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignPropertyEditor.$longDescription
+-
+Begin IusCLDesignRefComponentPropertyEditor.$shortDescription
+
+<i>IusCLDesignRefComponentPropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignRefComponentPropertyEditor.$shortDescription
+-
+Begin IusCLDesignRefComponentPropertyEditor.$longDescription
+
+<i>IusCLDesignRefComponentPropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignRefComponentPropertyEditor.$longDescription
+-
+Begin IusCLDesignStringListPropertyEditor.$shortDescription
+
+<i>IusCLDesignStringListPropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignStringListPropertyEditor.$shortDescription
+-
+Begin IusCLDesignStringListPropertyEditor.$longDescription
+
+<i>IusCLDesignStringListPropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignStringListPropertyEditor.$longDescription
+-
+Begin IusCLDesignStringPropertyEditor.$shortDescription
+
+<i>IusCLDesignStringPropertyEditor.$shortDescription - not found.</i>
+
+End IusCLDesignStringPropertyEditor.$shortDescription
+-
+Begin IusCLDesignStringPropertyEditor.$longDescription
+
+<i>IusCLDesignStringPropertyEditor.$longDescription - not found.</i>
+
+End IusCLDesignStringPropertyEditor.$longDescription
+-
+Begin org.iuscl.dialogs.$shortDescription
+
+<i>org.iuscl.dialogs.$shortDescription - not found.</i>
+
+End org.iuscl.dialogs.$shortDescription
+-
+Begin IusCLColorDialog.$shortDescription
+
+<i>IusCLColorDialog.$shortDescription - not found.</i>
+
+End IusCLColorDialog.$shortDescription
+-
+Begin IusCLColorDialog.$longDescription
+
+<i>IusCLColorDialog.$longDescription - not found.</i>
+
+End IusCLColorDialog.$longDescription
+-
+Begin IusCLCommonDialog.$shortDescription
+
+<i>IusCLCommonDialog.$shortDescription - not found.</i>
+
+End IusCLCommonDialog.$shortDescription
+-
+Begin IusCLCommonDialog.$longDescription
+
+<i>IusCLCommonDialog.$longDescription - not found.</i>
+
+End IusCLCommonDialog.$longDescription
+-
+Begin IusCLDialogs.$shortDescription
+
+<i>IusCLDialogs.$shortDescription - not found.</i>
+
+End IusCLDialogs.$shortDescription
+-
+Begin IusCLDialogs.IusCLMessageBoxIcon.$shortDescription
+
+<i>IusCLDialogs.IusCLMessageBoxIcon.$shortDescription - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxIcon.$shortDescription
+-
+Begin IusCLDialogs.IusCLMessageBoxIcon.$MBI_ERROR
+
+<i>IusCLDialogs.IusCLMessageBoxIcon.$MBI_ERROR - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxIcon.$MBI_ERROR
+-
+Begin IusCLDialogs.IusCLMessageBoxIcon.$MBI_INFORMATION
+
+<i>IusCLDialogs.IusCLMessageBoxIcon.$MBI_INFORMATION - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxIcon.$MBI_INFORMATION
+-
+Begin IusCLDialogs.IusCLMessageBoxIcon.$MBI_QUESTION
+
+<i>IusCLDialogs.IusCLMessageBoxIcon.$MBI_QUESTION - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxIcon.$MBI_QUESTION
+-
+Begin IusCLDialogs.IusCLMessageBoxIcon.$MBI_WARNING
+
+<i>IusCLDialogs.IusCLMessageBoxIcon.$MBI_WARNING - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxIcon.$MBI_WARNING
+-
+Begin IusCLDialogs.IusCLMessageBoxIcon.$MBI_WORKING
+
+<i>IusCLDialogs.IusCLMessageBoxIcon.$MBI_WORKING - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxIcon.$MBI_WORKING
+-
+Begin IusCLDialogs.IusCLMessageBoxFlag.$shortDescription
+
+<i>IusCLDialogs.IusCLMessageBoxFlag.$shortDescription - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlag.$shortDescription
+-
+Begin IusCLDialogs.IusCLMessageBoxFlag.$MB_ABORTRETRYIGNORE
+
+<i>IusCLDialogs.IusCLMessageBoxFlag.$MB_ABORTRETRYIGNORE - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlag.$MB_ABORTRETRYIGNORE
+-
+Begin IusCLDialogs.IusCLMessageBoxFlag.$MB_OK
+
+<i>IusCLDialogs.IusCLMessageBoxFlag.$MB_OK - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlag.$MB_OK
+-
+Begin IusCLDialogs.IusCLMessageBoxFlag.$MB_OKCANCEL
+
+<i>IusCLDialogs.IusCLMessageBoxFlag.$MB_OKCANCEL - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlag.$MB_OKCANCEL
+-
+Begin IusCLDialogs.IusCLMessageBoxFlag.$MB_RETRYCANCEL
+
+<i>IusCLDialogs.IusCLMessageBoxFlag.$MB_RETRYCANCEL - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlag.$MB_RETRYCANCEL
+-
+Begin IusCLDialogs.IusCLMessageBoxFlag.$MB_YESNO
+
+<i>IusCLDialogs.IusCLMessageBoxFlag.$MB_YESNO - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlag.$MB_YESNO
+-
+Begin IusCLDialogs.IusCLMessageBoxFlag.$MB_YESNOCANCEL
+
+<i>IusCLDialogs.IusCLMessageBoxFlag.$MB_YESNOCANCEL - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlag.$MB_YESNOCANCEL
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$shortDescription
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$shortDescription - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$shortDescription
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$IDOK
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$IDOK - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$IDOK
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$IDCANCEL
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$IDCANCEL - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$IDCANCEL
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$IDABORT
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$IDABORT - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$IDABORT
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$IDRETRY
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$IDRETRY - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$IDRETRY
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$IDIGNORE
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$IDIGNORE - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$IDIGNORE
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$IDYES
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$IDYES - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$IDYES
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$IDNO
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$IDNO - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$IDNO
+-
+Begin IusCLDialogs.$longDescription
+
+<i>IusCLDialogs.$longDescription - not found.</i>
+
+End IusCLDialogs.$longDescription
+-
+Begin IusCLFileDialog.$shortDescription
+
+<i>IusCLFileDialog.$shortDescription - not found.</i>
+
+End IusCLFileDialog.$shortDescription
+-
+Begin IusCLFileDialog.$longDescription
+
+<i>IusCLFileDialog.$longDescription - not found.</i>
+
+End IusCLFileDialog.$longDescription
+-
+Begin IusCLFontDialog.$shortDescription
+
+<i>IusCLFontDialog.$shortDescription - not found.</i>
+
+End IusCLFontDialog.$shortDescription
+-
+Begin IusCLFontDialog.IusCLFontDialogDevice.$shortDescription
+
+<i>IusCLFontDialog.IusCLFontDialogDevice.$shortDescription - not found.</i>
+
+End IusCLFontDialog.IusCLFontDialogDevice.$shortDescription
+-
+Begin IusCLFontDialog.IusCLFontDialogDevice.$fdScreen
+
+<i>IusCLFontDialog.IusCLFontDialogDevice.$fdScreen - not found.</i>
+
+End IusCLFontDialog.IusCLFontDialogDevice.$fdScreen
+-
+Begin IusCLFontDialog.IusCLFontDialogDevice.$fdPrinter
+
+<i>IusCLFontDialog.IusCLFontDialogDevice.$fdPrinter - not found.</i>
+
+End IusCLFontDialog.IusCLFontDialogDevice.$fdPrinter
+-
+Begin IusCLFontDialog.IusCLFontDialogDevice.$fdBoth
+
+<i>IusCLFontDialog.IusCLFontDialogDevice.$fdBoth - not found.</i>
+
+End IusCLFontDialog.IusCLFontDialogDevice.$fdBoth
+-
+Begin IusCLFontDialog.$longDescription
+
+<i>IusCLFontDialog.$longDescription - not found.</i>
+
+End IusCLFontDialog.$longDescription
+-
+Begin IusCLOpenDialog.$shortDescription
+
+<i>IusCLOpenDialog.$shortDescription - not found.</i>
+
+End IusCLOpenDialog.$shortDescription
+-
+Begin IusCLOpenDialog.$longDescription
+
+<i>IusCLOpenDialog.$longDescription - not found.</i>
+
+End IusCLOpenDialog.$longDescription
+-
+Begin IusCLOpenPictureDialog.$shortDescription
+
+<i>IusCLOpenPictureDialog.$shortDescription - not found.</i>
+
+End IusCLOpenPictureDialog.$shortDescription
+-
+Begin IusCLOpenPictureDialog.$longDescription
+
+<i>IusCLOpenPictureDialog.$longDescription - not found.</i>
+
+End IusCLOpenPictureDialog.$longDescription
+-
+Begin IusCLSaveDialog.$shortDescription
+
+<i>IusCLSaveDialog.$shortDescription - not found.</i>
+
+End IusCLSaveDialog.$shortDescription
+-
+Begin IusCLSaveDialog.$longDescription
+
+<i>IusCLSaveDialog.$longDescription - not found.</i>
+
+End IusCLSaveDialog.$longDescription
+-
+Begin IusCLSavePictureDialog.$shortDescription
+
+<i>IusCLSavePictureDialog.$shortDescription - not found.</i>
+
+End IusCLSavePictureDialog.$shortDescription
+-
+Begin IusCLSavePictureDialog.$longDescription
+
+<i>IusCLSavePictureDialog.$longDescription - not found.</i>
+
+End IusCLSavePictureDialog.$longDescription
+-
+Begin org.iuscl.events.$shortDescription
+
+<i>org.iuscl.events.$shortDescription - not found.</i>
+
+End org.iuscl.events.$shortDescription
+-
+Begin IusCLCanResizeEvent.$shortDescription
+
+<i>IusCLCanResizeEvent.$shortDescription - not found.</i>
+
+End IusCLCanResizeEvent.$shortDescription
+-
+Begin IusCLCanResizeEvent.$longDescription
+
+<i>IusCLCanResizeEvent.$longDescription - not found.</i>
+
+End IusCLCanResizeEvent.$longDescription
+-
+Begin IusCLCloseEvent.$shortDescription
+
+<i>IusCLCloseEvent.$shortDescription - not found.</i>
+
+End IusCLCloseEvent.$shortDescription
+-
+Begin IusCLCloseEvent.$longDescription
+
+<i>IusCLCloseEvent.$longDescription - not found.</i>
+
+End IusCLCloseEvent.$longDescription
+-
+Begin IusCLCloseQueryEvent.$shortDescription
+
+<i>IusCLCloseQueryEvent.$shortDescription - not found.</i>
+
+End IusCLCloseQueryEvent.$shortDescription
+-
+Begin IusCLCloseQueryEvent.$longDescription
+
+<i>IusCLCloseQueryEvent.$longDescription - not found.</i>
+
+End IusCLCloseQueryEvent.$longDescription
+-
+Begin IusCLConstrainedResizeEvent.$shortDescription
+
+<i>IusCLConstrainedResizeEvent.$shortDescription - not found.</i>
+
+End IusCLConstrainedResizeEvent.$shortDescription
+-
+Begin IusCLConstrainedResizeEvent.$longDescription
+
+<i>IusCLConstrainedResizeEvent.$longDescription - not found.</i>
+
+End IusCLConstrainedResizeEvent.$longDescription
+-
+Begin IusCLEvent.$shortDescription
+
+<i>IusCLEvent.$shortDescription - not found.</i>
+
+End IusCLEvent.$shortDescription
+-
+Begin IusCLEvent.$longDescription
+
+<i>IusCLEvent.$longDescription - not found.</i>
+
+End IusCLEvent.$longDescription
+-
+Begin IusCLMouseEvent.$shortDescription
+
+<i>IusCLMouseEvent.$shortDescription - not found.</i>
+
+End IusCLMouseEvent.$shortDescription
+-
+Begin IusCLMouseEvent.$longDescription
+
+<i>IusCLMouseEvent.$longDescription - not found.</i>
+
+End IusCLMouseEvent.$longDescription
+-
+Begin IusCLNotifyEvent.$shortDescription
+
+<i>IusCLNotifyEvent.$shortDescription - not found.</i>
+
+End IusCLNotifyEvent.$shortDescription
+-
+Begin IusCLNotifyEvent.$longDescription
+
+<i>IusCLNotifyEvent.$longDescription - not found.</i>
+
+End IusCLNotifyEvent.$longDescription
+-
+Begin IusCLPaintEvent.$shortDescription
+
+<i>IusCLPaintEvent.$shortDescription - not found.</i>
+
+End IusCLPaintEvent.$shortDescription
+-
+Begin IusCLPaintEvent.$longDescription
+
+<i>IusCLPaintEvent.$longDescription - not found.</i>
+
+End IusCLPaintEvent.$longDescription
+-
+Begin org.iuscl.extctrls.$shortDescription
+
+<i>org.iuscl.extctrls.$shortDescription - not found.</i>
+
+End org.iuscl.extctrls.$shortDescription
+-
+Begin IusCLBevel.$shortDescription
+
+<i>IusCLBevel.$shortDescription - not found.</i>
+
+End IusCLBevel.$shortDescription
+-
+Begin IusCLBevel.IusCLBevelShape.$shortDescription
+
+<i>IusCLBevel.IusCLBevelShape.$shortDescription - not found.</i>
+
+End IusCLBevel.IusCLBevelShape.$shortDescription
+-
+Begin IusCLBevel.IusCLBevelShape.$bsBox
+
+<i>IusCLBevel.IusCLBevelShape.$bsBox - not found.</i>
+
+End IusCLBevel.IusCLBevelShape.$bsBox
+-
+Begin IusCLBevel.IusCLBevelShape.$bsFrame
+
+<i>IusCLBevel.IusCLBevelShape.$bsFrame - not found.</i>
+
+End IusCLBevel.IusCLBevelShape.$bsFrame
+-
+Begin IusCLBevel.IusCLBevelShape.$bsTopLine
+
+<i>IusCLBevel.IusCLBevelShape.$bsTopLine - not found.</i>
+
+End IusCLBevel.IusCLBevelShape.$bsTopLine
+-
+Begin IusCLBevel.IusCLBevelShape.$bsBottomLine
+
+<i>IusCLBevel.IusCLBevelShape.$bsBottomLine - not found.</i>
+
+End IusCLBevel.IusCLBevelShape.$bsBottomLine
+-
+Begin IusCLBevel.IusCLBevelShape.$bsLeftLine
+
+<i>IusCLBevel.IusCLBevelShape.$bsLeftLine - not found.</i>
+
+End IusCLBevel.IusCLBevelShape.$bsLeftLine
+-
+Begin IusCLBevel.IusCLBevelShape.$bsRightLine
+
+<i>IusCLBevel.IusCLBevelShape.$bsRightLine - not found.</i>
+
+End IusCLBevel.IusCLBevelShape.$bsRightLine
+-
+Begin IusCLBevel.IusCLBevelShape.$bsSpacer
+
+<i>IusCLBevel.IusCLBevelShape.$bsSpacer - not found.</i>
+
+End IusCLBevel.IusCLBevelShape.$bsSpacer
+-
+Begin IusCLBevel.IusCLBevelStyle.$shortDescription
+
+<i>IusCLBevel.IusCLBevelStyle.$shortDescription - not found.</i>
+
+End IusCLBevel.IusCLBevelStyle.$shortDescription
+-
+Begin IusCLBevel.IusCLBevelStyle.$bsLowered
+
+<i>IusCLBevel.IusCLBevelStyle.$bsLowered - not found.</i>
+
+End IusCLBevel.IusCLBevelStyle.$bsLowered
+-
+Begin IusCLBevel.IusCLBevelStyle.$bsRaised
+
+<i>IusCLBevel.IusCLBevelStyle.$bsRaised - not found.</i>
+
+End IusCLBevel.IusCLBevelStyle.$bsRaised
+-
+Begin IusCLBevel.$longDescription
+
+<i>IusCLBevel.$longDescription - not found.</i>
+
+End IusCLBevel.$longDescription
+-
+Begin IusCLImage.$shortDescription
+
+<i>IusCLImage.$shortDescription - not found.</i>
+
+End IusCLImage.$shortDescription
+-
+Begin IusCLImage.$longDescription
+
+<i>IusCLImage.$longDescription - not found.</i>
+
+End IusCLImage.$longDescription
+-
+Begin IusCLPanel.$shortDescription
+
+<i>IusCLPanel.$shortDescription - not found.</i>
+
+End IusCLPanel.$shortDescription
+-
+Begin IusCLPanel.IusCLPanelBevel.$shortDescription
+
+<i>IusCLPanel.IusCLPanelBevel.$shortDescription - not found.</i>
+
+End IusCLPanel.IusCLPanelBevel.$shortDescription
+-
+Begin IusCLPanel.IusCLPanelBevel.$bvNone
+
+<i>IusCLPanel.IusCLPanelBevel.$bvNone - not found.</i>
+
+End IusCLPanel.IusCLPanelBevel.$bvNone
+-
+Begin IusCLPanel.IusCLPanelBevel.$bvLowered
+
+<i>IusCLPanel.IusCLPanelBevel.$bvLowered - not found.</i>
+
+End IusCLPanel.IusCLPanelBevel.$bvLowered
+-
+Begin IusCLPanel.IusCLPanelBevel.$bvRaised
+
+<i>IusCLPanel.IusCLPanelBevel.$bvRaised - not found.</i>
+
+End IusCLPanel.IusCLPanelBevel.$bvRaised
+-
+Begin IusCLPanel.IusCLPanelBevel.$bvSpace
+
+<i>IusCLPanel.IusCLPanelBevel.$bvSpace - not found.</i>
+
+End IusCLPanel.IusCLPanelBevel.$bvSpace
+-
+Begin IusCLPanel.$longDescription
+
+<i>IusCLPanel.$longDescription - not found.</i>
+
+End IusCLPanel.$longDescription
+-
+Begin IusCLRadioGroup.$shortDescription
+
+<i>IusCLRadioGroup.$shortDescription - not found.</i>
+
+End IusCLRadioGroup.$shortDescription
+-
+Begin IusCLRadioGroup.$longDescription
+
+<i>IusCLRadioGroup.$longDescription - not found.</i>
+
+End IusCLRadioGroup.$longDescription
+-
+Begin IusCLShape.$shortDescription
+
+<i>IusCLShape.$shortDescription - not found.</i>
+
+End IusCLShape.$shortDescription
+-
+Begin IusCLShape.$longDescription
+
+<i>IusCLShape.$longDescription - not found.</i>
+
+End IusCLShape.$longDescription
+-
+Begin IusCLSplitter.$shortDescription
+
+<i>IusCLSplitter.$shortDescription - not found.</i>
+
+End IusCLSplitter.$shortDescription
+-
+Begin IusCLSplitter.IusCLResizeStyle.$shortDescription
+
+<i>IusCLSplitter.IusCLResizeStyle.$shortDescription - not found.</i>
+
+End IusCLSplitter.IusCLResizeStyle.$shortDescription
+-
+Begin IusCLSplitter.IusCLResizeStyle.$rsNone
+
+<i>IusCLSplitter.IusCLResizeStyle.$rsNone - not found.</i>
+
+End IusCLSplitter.IusCLResizeStyle.$rsNone
+-
+Begin IusCLSplitter.IusCLResizeStyle.$rsLine
+
+<i>IusCLSplitter.IusCLResizeStyle.$rsLine - not found.</i>
+
+End IusCLSplitter.IusCLResizeStyle.$rsLine
+-
+Begin IusCLSplitter.IusCLResizeStyle.$rsUpdate
+
+<i>IusCLSplitter.IusCLResizeStyle.$rsUpdate - not found.</i>
+
+End IusCLSplitter.IusCLResizeStyle.$rsUpdate
+-
+Begin IusCLSplitter.IusCLResizeStyle.$rsPattern
+
+<i>IusCLSplitter.IusCLResizeStyle.$rsPattern - not found.</i>
+
+End IusCLSplitter.IusCLResizeStyle.$rsPattern
+-
+Begin IusCLSplitter.$longDescription
+
+<i>IusCLSplitter.$longDescription - not found.</i>
+
+End IusCLSplitter.$longDescription
+-
+Begin org.iuscl.forms.$shortDescription
+
+<i>org.iuscl.forms.$shortDescription - not found.</i>
+
+End org.iuscl.forms.$shortDescription
+-
+Begin IusCLApplication.$shortDescription
+
+<i>IusCLApplication.$shortDescription - not found.</i>
+
+End IusCLApplication.$shortDescription
+-
+Begin IusCLApplication.$longDescription
+
+<i>IusCLApplication.$longDescription - not found.</i>
+
+End IusCLApplication.$longDescription
+-
+Begin IusCLBorderIcons.$shortDescription
+
+<i>IusCLBorderIcons.$shortDescription - not found.</i>
+
+End IusCLBorderIcons.$shortDescription
+-
+Begin IusCLBorderIcons.$longDescription
+
+<i>IusCLBorderIcons.$longDescription - not found.</i>
+
+End IusCLBorderIcons.$longDescription
+-
+Begin IusCLCursor.$shortDescription
+
+<i>IusCLCursor.$shortDescription - not found.</i>
+
+End IusCLCursor.$shortDescription
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$shortDescription
+
+<i>IusCLCursor.IusCLPredefinedCursors.$shortDescription - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$shortDescription
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crDefault
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crDefault - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crDefault
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crNone
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crNone - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crNone
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crArrow
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crArrow - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crArrow
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crCross
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crCross - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crCross
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crIBeam
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crIBeam - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crIBeam
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crSizeNESW
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crSizeNESW - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crSizeNESW
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crSizeNS
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crSizeNS - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crSizeNS
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crSizeNWSE
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crSizeNWSE - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crSizeNWSE
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crSizeWE
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crSizeWE - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crSizeWE
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crUpArrow
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crUpArrow - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crUpArrow
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crHourGlass
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crHourGlass - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crHourGlass
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crDrag
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crDrag - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crDrag
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crNoDrop
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crNoDrop - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crNoDrop
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crHSplit
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crHSplit - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crHSplit
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crVSplit
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crVSplit - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crVSplit
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crMultiDrag
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crMultiDrag - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crMultiDrag
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crSQLWait
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crSQLWait - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crSQLWait
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crNo
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crNo - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crNo
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crAppStart
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crAppStart - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crAppStart
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crHelp
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crHelp - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crHelp
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crHandPoint
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crHandPoint - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crHandPoint
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crSize
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crSize - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crSize
+-
+Begin IusCLCursor.IusCLPredefinedCursors.$crSizeAll
+
+<i>IusCLCursor.IusCLPredefinedCursors.$crSizeAll - not found.</i>
+
+End IusCLCursor.IusCLPredefinedCursors.$crSizeAll
+-
+Begin IusCLCursor.$longDescription
+
+<i>IusCLCursor.$longDescription - not found.</i>
+
+End IusCLCursor.$longDescription
+-
+Begin IusCLForm.$shortDescription
+
+<i>IusCLForm.$shortDescription - not found.</i>
+
+End IusCLForm.$shortDescription
+-
+Begin IusCLForm.IusCLCloseAction.$shortDescription
+
+<i>IusCLForm.IusCLCloseAction.$shortDescription - not found.</i>
+
+End IusCLForm.IusCLCloseAction.$shortDescription
+-
+Begin IusCLForm.IusCLCloseAction.$caNone
+
+<i>IusCLForm.IusCLCloseAction.$caNone - not found.</i>
+
+End IusCLForm.IusCLCloseAction.$caNone
+-
+Begin IusCLForm.IusCLCloseAction.$caHide
+
+<i>IusCLForm.IusCLCloseAction.$caHide - not found.</i>
+
+End IusCLForm.IusCLCloseAction.$caHide
+-
+Begin IusCLForm.IusCLCloseAction.$caFree
+
+<i>IusCLForm.IusCLCloseAction.$caFree - not found.</i>
+
+End IusCLForm.IusCLCloseAction.$caFree
+-
+Begin IusCLForm.IusCLCloseAction.$caMinimize
+
+<i>IusCLForm.IusCLCloseAction.$caMinimize - not found.</i>
+
+End IusCLForm.IusCLCloseAction.$caMinimize
+-
+Begin IusCLForm.IusCLModalResult.$shortDescription
+
+<i>IusCLForm.IusCLModalResult.$shortDescription - not found.</i>
+
+End IusCLForm.IusCLModalResult.$shortDescription
+-
+Begin IusCLForm.IusCLModalResult.$mrNone
+
+<i>IusCLForm.IusCLModalResult.$mrNone - not found.</i>
+
+End IusCLForm.IusCLModalResult.$mrNone
+-
+Begin IusCLForm.IusCLModalResult.$mrOk
+
+<i>IusCLForm.IusCLModalResult.$mrOk - not found.</i>
+
+End IusCLForm.IusCLModalResult.$mrOk
+-
+Begin IusCLForm.IusCLModalResult.$mrCancel
+
+<i>IusCLForm.IusCLModalResult.$mrCancel - not found.</i>
+
+End IusCLForm.IusCLModalResult.$mrCancel
+-
+Begin IusCLForm.IusCLModalResult.$mrAbort
+
+<i>IusCLForm.IusCLModalResult.$mrAbort - not found.</i>
+
+End IusCLForm.IusCLModalResult.$mrAbort
+-
+Begin IusCLForm.IusCLModalResult.$mrRetry
+
+<i>IusCLForm.IusCLModalResult.$mrRetry - not found.</i>
+
+End IusCLForm.IusCLModalResult.$mrRetry
+-
+Begin IusCLForm.IusCLModalResult.$mrIgnore
+
+<i>IusCLForm.IusCLModalResult.$mrIgnore - not found.</i>
+
+End IusCLForm.IusCLModalResult.$mrIgnore
+-
+Begin IusCLForm.IusCLModalResult.$mrYes
+
+<i>IusCLForm.IusCLModalResult.$mrYes - not found.</i>
+
+End IusCLForm.IusCLModalResult.$mrYes
+-
+Begin IusCLForm.IusCLModalResult.$mrNo
+
+<i>IusCLForm.IusCLModalResult.$mrNo - not found.</i>
+
+End IusCLForm.IusCLModalResult.$mrNo
+-
+Begin IusCLForm.IusCLModalResult.$mrAll
+
+<i>IusCLForm.IusCLModalResult.$mrAll - not found.</i>
+
+End IusCLForm.IusCLModalResult.$mrAll
+-
+Begin IusCLForm.IusCLModalResult.$mrNoToAll
+
+<i>IusCLForm.IusCLModalResult.$mrNoToAll - not found.</i>
+
+End IusCLForm.IusCLModalResult.$mrNoToAll
+-
+Begin IusCLForm.IusCLModalResult.$mrYesToAll
+
+<i>IusCLForm.IusCLModalResult.$mrYesToAll - not found.</i>
+
+End IusCLForm.IusCLModalResult.$mrYesToAll
+-
+Begin IusCLForm.IusCLFormStyle.$shortDescription
+
+<i>IusCLForm.IusCLFormStyle.$shortDescription - not found.</i>
+
+End IusCLForm.IusCLFormStyle.$shortDescription
+-
+Begin IusCLForm.IusCLFormStyle.$fsNormal
+
+<i>IusCLForm.IusCLFormStyle.$fsNormal - not found.</i>
+
+End IusCLForm.IusCLFormStyle.$fsNormal
+-
+Begin IusCLForm.IusCLFormStyle.$fsModal
+
+<i>IusCLForm.IusCLFormStyle.$fsModal - not found.</i>
+
+End IusCLForm.IusCLFormStyle.$fsModal
+-
+Begin IusCLForm.IusCLFormStyle.$fsModalDialog
+
+<i>IusCLForm.IusCLFormStyle.$fsModalDialog - not found.</i>
+
+End IusCLForm.IusCLFormStyle.$fsModalDialog
+-
+Begin IusCLForm.IusCLFormStyle.$fsStayOnTop
+
+<i>IusCLForm.IusCLFormStyle.$fsStayOnTop - not found.</i>
+
+End IusCLForm.IusCLFormStyle.$fsStayOnTop
+-
+Begin IusCLForm.IusCLFormStyle.$fsStayOnTopDialog
+
+<i>IusCLForm.IusCLFormStyle.$fsStayOnTopDialog - not found.</i>
+
+End IusCLForm.IusCLFormStyle.$fsStayOnTopDialog
+-
+Begin IusCLForm.IusCLWindowState.$shortDescription
+
+<i>IusCLForm.IusCLWindowState.$shortDescription - not found.</i>
+
+End IusCLForm.IusCLWindowState.$shortDescription
+-
+Begin IusCLForm.IusCLWindowState.$wsNormal
+
+<i>IusCLForm.IusCLWindowState.$wsNormal - not found.</i>
+
+End IusCLForm.IusCLWindowState.$wsNormal
+-
+Begin IusCLForm.IusCLWindowState.$wsMinimized
+
+<i>IusCLForm.IusCLWindowState.$wsMinimized - not found.</i>
+
+End IusCLForm.IusCLWindowState.$wsMinimized
+-
+Begin IusCLForm.IusCLWindowState.$wsMaximized
+
+<i>IusCLForm.IusCLWindowState.$wsMaximized - not found.</i>
+
+End IusCLForm.IusCLWindowState.$wsMaximized
+-
+Begin IusCLForm.IusCLFormBorderStyle.$shortDescription
+
+<i>IusCLForm.IusCLFormBorderStyle.$shortDescription - not found.</i>
+
+End IusCLForm.IusCLFormBorderStyle.$shortDescription
+-
+Begin IusCLForm.IusCLFormBorderStyle.$bsNone
+
+<i>IusCLForm.IusCLFormBorderStyle.$bsNone - not found.</i>
+
+End IusCLForm.IusCLFormBorderStyle.$bsNone
+-
+Begin IusCLForm.IusCLFormBorderStyle.$bsSingle
+
+<i>IusCLForm.IusCLFormBorderStyle.$bsSingle - not found.</i>
+
+End IusCLForm.IusCLFormBorderStyle.$bsSingle
+-
+Begin IusCLForm.IusCLFormBorderStyle.$bsSizeable
+
+<i>IusCLForm.IusCLFormBorderStyle.$bsSizeable - not found.</i>
+
+End IusCLForm.IusCLFormBorderStyle.$bsSizeable
+-
+Begin IusCLForm.IusCLFormBorderStyle.$bsDialog
+
+<i>IusCLForm.IusCLFormBorderStyle.$bsDialog - not found.</i>
+
+End IusCLForm.IusCLFormBorderStyle.$bsDialog
+-
+Begin IusCLForm.IusCLFormBorderStyle.$bsSizeDialog
+
+<i>IusCLForm.IusCLFormBorderStyle.$bsSizeDialog - not found.</i>
+
+End IusCLForm.IusCLFormBorderStyle.$bsSizeDialog
+-
+Begin IusCLForm.IusCLFormBorderStyle.$bsToolWindow
+
+<i>IusCLForm.IusCLFormBorderStyle.$bsToolWindow - not found.</i>
+
+End IusCLForm.IusCLFormBorderStyle.$bsToolWindow
+-
+Begin IusCLForm.IusCLFormBorderStyle.$bsSizeToolWindow
+
+<i>IusCLForm.IusCLFormBorderStyle.$bsSizeToolWindow - not found.</i>
+
+End IusCLForm.IusCLFormBorderStyle.$bsSizeToolWindow
+-
+Begin IusCLForm.IusCLFormPosition.$shortDescription
+
+<i>IusCLForm.IusCLFormPosition.$shortDescription - not found.</i>
+
+End IusCLForm.IusCLFormPosition.$shortDescription
+-
+Begin IusCLForm.IusCLFormPosition.$poDesigned
+
+<i>IusCLForm.IusCLFormPosition.$poDesigned - not found.</i>
+
+End IusCLForm.IusCLFormPosition.$poDesigned
+-
+Begin IusCLForm.IusCLFormPosition.$poDefault
+
+<i>IusCLForm.IusCLFormPosition.$poDefault - not found.</i>
+
+End IusCLForm.IusCLFormPosition.$poDefault
+-
+Begin IusCLForm.IusCLFormPosition.$poDefaultPosOnly
+
+<i>IusCLForm.IusCLFormPosition.$poDefaultPosOnly - not found.</i>
+
+End IusCLForm.IusCLFormPosition.$poDefaultPosOnly
+-
+Begin IusCLForm.IusCLFormPosition.$poDefaultSizeOnly
+
+<i>IusCLForm.IusCLFormPosition.$poDefaultSizeOnly - not found.</i>
+
+End IusCLForm.IusCLFormPosition.$poDefaultSizeOnly
+-
+Begin IusCLForm.IusCLFormPosition.$poScreenCenter
+
+<i>IusCLForm.IusCLFormPosition.$poScreenCenter - not found.</i>
+
+End IusCLForm.IusCLFormPosition.$poScreenCenter
+-
+Begin IusCLForm.IusCLFormPosition.$poDesktopCenter
+
+<i>IusCLForm.IusCLFormPosition.$poDesktopCenter - not found.</i>
+
+End IusCLForm.IusCLFormPosition.$poDesktopCenter
+-
+Begin IusCLForm.IusCLFormPosition.$poMainFormCenter
+
+<i>IusCLForm.IusCLFormPosition.$poMainFormCenter - not found.</i>
+
+End IusCLForm.IusCLFormPosition.$poMainFormCenter
+-
+Begin IusCLForm.IusCLFormPosition.$poOwnerFormCenter
+
+<i>IusCLForm.IusCLFormPosition.$poOwnerFormCenter - not found.</i>
+
+End IusCLForm.IusCLFormPosition.$poOwnerFormCenter
+-
+Begin IusCLForm.$longDescription
+
+<i>IusCLForm.$longDescription - not found.</i>
+
+End IusCLForm.$longDescription
+-
+Begin IusCLScreen.$shortDescription
+
+<i>IusCLScreen.$shortDescription - not found.</i>
+
+End IusCLScreen.$shortDescription
+-
+Begin IusCLScreen.$longDescription
+
+<i>IusCLScreen.$longDescription - not found.</i>
+
+End IusCLScreen.$longDescription
+-
+Begin IusCLScrollBox.$shortDescription
+
+<i>IusCLScrollBox.$shortDescription - not found.</i>
+
+End IusCLScrollBox.$shortDescription
+-
+Begin IusCLScrollBox.$longDescription
+
+<i>IusCLScrollBox.$longDescription - not found.</i>
+
+End IusCLScrollBox.$longDescription
+-
+Begin IusCLScrollingWinControl.$shortDescription
+
+<i>IusCLScrollingWinControl.$shortDescription - not found.</i>
+
+End IusCLScrollingWinControl.$shortDescription
+-
+Begin IusCLScrollingWinControl.$longDescription
+
+<i>IusCLScrollingWinControl.$longDescription - not found.</i>
+
+End IusCLScrollingWinControl.$longDescription
+-
+Begin org.iuscl.graphics.$shortDescription
+
+<i>org.iuscl.graphics.$shortDescription - not found.</i>
+
+End org.iuscl.graphics.$shortDescription
+-
+Begin IusCLBrush.$shortDescription
+
+<i>IusCLBrush.$shortDescription - not found.</i>
+
+End IusCLBrush.$shortDescription
+-
+Begin IusCLBrush.IusCLBrushStyle.$shortDescription
+
+<i>IusCLBrush.IusCLBrushStyle.$shortDescription - not found.</i>
+
+End IusCLBrush.IusCLBrushStyle.$shortDescription
+-
+Begin IusCLBrush.IusCLBrushStyle.$bsSolid
+
+<i>IusCLBrush.IusCLBrushStyle.$bsSolid - not found.</i>
+
+End IusCLBrush.IusCLBrushStyle.$bsSolid
+-
+Begin IusCLBrush.IusCLBrushStyle.$bsClear
+
+<i>IusCLBrush.IusCLBrushStyle.$bsClear - not found.</i>
+
+End IusCLBrush.IusCLBrushStyle.$bsClear
+-
+Begin IusCLBrush.IusCLBrushStyle.$bsHorizontal
+
+<i>IusCLBrush.IusCLBrushStyle.$bsHorizontal - not found.</i>
+
+End IusCLBrush.IusCLBrushStyle.$bsHorizontal
+-
+Begin IusCLBrush.IusCLBrushStyle.$bsVertical
+
+<i>IusCLBrush.IusCLBrushStyle.$bsVertical - not found.</i>
+
+End IusCLBrush.IusCLBrushStyle.$bsVertical
+-
+Begin IusCLBrush.IusCLBrushStyle.$bsFDiagonal
+
+<i>IusCLBrush.IusCLBrushStyle.$bsFDiagonal - not found.</i>
+
+End IusCLBrush.IusCLBrushStyle.$bsFDiagonal
+-
+Begin IusCLBrush.IusCLBrushStyle.$bsBDiagonal
+
+<i>IusCLBrush.IusCLBrushStyle.$bsBDiagonal - not found.</i>
+
+End IusCLBrush.IusCLBrushStyle.$bsBDiagonal
+-
+Begin IusCLBrush.IusCLBrushStyle.$bsCross
+
+<i>IusCLBrush.IusCLBrushStyle.$bsCross - not found.</i>
+
+End IusCLBrush.IusCLBrushStyle.$bsCross
+-
+Begin IusCLBrush.IusCLBrushStyle.$bsDiagCross
+
+<i>IusCLBrush.IusCLBrushStyle.$bsDiagCross - not found.</i>
+
+End IusCLBrush.IusCLBrushStyle.$bsDiagCross
+-
+Begin IusCLBrush.$longDescription
+
+<i>IusCLBrush.$longDescription - not found.</i>
+
+End IusCLBrush.$longDescription
+-
+Begin IusCLCanvas.$shortDescription
+
+<i>IusCLCanvas.$shortDescription - not found.</i>
+
+End IusCLCanvas.$shortDescription
+-
+Begin IusCLCanvas.$longDescription
+
+<i>IusCLCanvas.$longDescription - not found.</i>
+
+End IusCLCanvas.$longDescription
+-
+Begin IusCLColor.$shortDescription
+
+<i>IusCLColor.$shortDescription - not found.</i>
+
+End IusCLColor.$shortDescription
+-
+Begin IusCLColor.IusCLStandardColors.$shortDescription
+
+<i>IusCLColor.IusCLStandardColors.$shortDescription - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$shortDescription
+-
+Begin IusCLColor.IusCLStandardColors.$clScrollBar
+
+<i>IusCLColor.IusCLStandardColors.$clScrollBar - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clScrollBar
+-
+Begin IusCLColor.IusCLStandardColors.$clBackground
+
+<i>IusCLColor.IusCLStandardColors.$clBackground - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clBackground
+-
+Begin IusCLColor.IusCLStandardColors.$clActiveCaption
+
+<i>IusCLColor.IusCLStandardColors.$clActiveCaption - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clActiveCaption
+-
+Begin IusCLColor.IusCLStandardColors.$clInactiveCaption
+
+<i>IusCLColor.IusCLStandardColors.$clInactiveCaption - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clInactiveCaption
+-
+Begin IusCLColor.IusCLStandardColors.$clMenu
+
+<i>IusCLColor.IusCLStandardColors.$clMenu - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clMenu
+-
+Begin IusCLColor.IusCLStandardColors.$clWindow
+
+<i>IusCLColor.IusCLStandardColors.$clWindow - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clWindow
+-
+Begin IusCLColor.IusCLStandardColors.$clWindowFrame
+
+<i>IusCLColor.IusCLStandardColors.$clWindowFrame - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clWindowFrame
+-
+Begin IusCLColor.IusCLStandardColors.$clMenuText
+
+<i>IusCLColor.IusCLStandardColors.$clMenuText - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clMenuText
+-
+Begin IusCLColor.IusCLStandardColors.$clWindowText
+
+<i>IusCLColor.IusCLStandardColors.$clWindowText - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clWindowText
+-
+Begin IusCLColor.IusCLStandardColors.$clCaptionText
+
+<i>IusCLColor.IusCLStandardColors.$clCaptionText - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clCaptionText
+-
+Begin IusCLColor.IusCLStandardColors.$clActiveBorder
+
+<i>IusCLColor.IusCLStandardColors.$clActiveBorder - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clActiveBorder
+-
+Begin IusCLColor.IusCLStandardColors.$clInactiveBorder
+
+<i>IusCLColor.IusCLStandardColors.$clInactiveBorder - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clInactiveBorder
+-
+Begin IusCLColor.IusCLStandardColors.$clAppWorkSpace
+
+<i>IusCLColor.IusCLStandardColors.$clAppWorkSpace - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clAppWorkSpace
+-
+Begin IusCLColor.IusCLStandardColors.$clHighlight
+
+<i>IusCLColor.IusCLStandardColors.$clHighlight - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clHighlight
+-
+Begin IusCLColor.IusCLStandardColors.$clHighlightText
+
+<i>IusCLColor.IusCLStandardColors.$clHighlightText - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clHighlightText
+-
+Begin IusCLColor.IusCLStandardColors.$clBtnFace
+
+<i>IusCLColor.IusCLStandardColors.$clBtnFace - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clBtnFace
+-
+Begin IusCLColor.IusCLStandardColors.$clBtnShadow
+
+<i>IusCLColor.IusCLStandardColors.$clBtnShadow - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clBtnShadow
+-
+Begin IusCLColor.IusCLStandardColors.$clGrayText
+
+<i>IusCLColor.IusCLStandardColors.$clGrayText - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clGrayText
+-
+Begin IusCLColor.IusCLStandardColors.$clBtnText
+
+<i>IusCLColor.IusCLStandardColors.$clBtnText - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clBtnText
+-
+Begin IusCLColor.IusCLStandardColors.$clInactiveCaptionText
+
+<i>IusCLColor.IusCLStandardColors.$clInactiveCaptionText - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clInactiveCaptionText
+-
+Begin IusCLColor.IusCLStandardColors.$clBtnHighlight
+
+<i>IusCLColor.IusCLStandardColors.$clBtnHighlight - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clBtnHighlight
+-
+Begin IusCLColor.IusCLStandardColors.$cl3DDkShadow
+
+<i>IusCLColor.IusCLStandardColors.$cl3DDkShadow - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$cl3DDkShadow
+-
+Begin IusCLColor.IusCLStandardColors.$cl3DLight
+
+<i>IusCLColor.IusCLStandardColors.$cl3DLight - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$cl3DLight
+-
+Begin IusCLColor.IusCLStandardColors.$clInfoText
+
+<i>IusCLColor.IusCLStandardColors.$clInfoText - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clInfoText
+-
+Begin IusCLColor.IusCLStandardColors.$clInfoBk
+
+<i>IusCLColor.IusCLStandardColors.$clInfoBk - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clInfoBk
+-
+Begin IusCLColor.IusCLStandardColors.$clHotLight
+
+<i>IusCLColor.IusCLStandardColors.$clHotLight - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clHotLight
+-
+Begin IusCLColor.IusCLStandardColors.$clGradientActiveCaption
+
+<i>IusCLColor.IusCLStandardColors.$clGradientActiveCaption - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clGradientActiveCaption
+-
+Begin IusCLColor.IusCLStandardColors.$clGradientInactiveCaption
+
+<i>IusCLColor.IusCLStandardColors.$clGradientInactiveCaption - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clGradientInactiveCaption
+-
+Begin IusCLColor.IusCLStandardColors.$clMenuHighlight
+
+<i>IusCLColor.IusCLStandardColors.$clMenuHighlight - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clMenuHighlight
+-
+Begin IusCLColor.IusCLStandardColors.$clMenuBar
+
+<i>IusCLColor.IusCLStandardColors.$clMenuBar - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clMenuBar
+-
+Begin IusCLColor.IusCLStandardColors.$clBlack
+
+<i>IusCLColor.IusCLStandardColors.$clBlack - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clBlack
+-
+Begin IusCLColor.IusCLStandardColors.$clMaroon
+
+<i>IusCLColor.IusCLStandardColors.$clMaroon - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clMaroon
+-
+Begin IusCLColor.IusCLStandardColors.$clGreen
+
+<i>IusCLColor.IusCLStandardColors.$clGreen - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clGreen
+-
+Begin IusCLColor.IusCLStandardColors.$clOlive
+
+<i>IusCLColor.IusCLStandardColors.$clOlive - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clOlive
+-
+Begin IusCLColor.IusCLStandardColors.$clNavy
+
+<i>IusCLColor.IusCLStandardColors.$clNavy - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clNavy
+-
+Begin IusCLColor.IusCLStandardColors.$clPurple
+
+<i>IusCLColor.IusCLStandardColors.$clPurple - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clPurple
+-
+Begin IusCLColor.IusCLStandardColors.$clTeal
+
+<i>IusCLColor.IusCLStandardColors.$clTeal - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clTeal
+-
+Begin IusCLColor.IusCLStandardColors.$clGray
+
+<i>IusCLColor.IusCLStandardColors.$clGray - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clGray
+-
+Begin IusCLColor.IusCLStandardColors.$clSilver
+
+<i>IusCLColor.IusCLStandardColors.$clSilver - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clSilver
+-
+Begin IusCLColor.IusCLStandardColors.$clRed
+
+<i>IusCLColor.IusCLStandardColors.$clRed - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clRed
+-
+Begin IusCLColor.IusCLStandardColors.$clLime
+
+<i>IusCLColor.IusCLStandardColors.$clLime - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clLime
+-
+Begin IusCLColor.IusCLStandardColors.$clYellow
+
+<i>IusCLColor.IusCLStandardColors.$clYellow - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clYellow
+-
+Begin IusCLColor.IusCLStandardColors.$clBlue
+
+<i>IusCLColor.IusCLStandardColors.$clBlue - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clBlue
+-
+Begin IusCLColor.IusCLStandardColors.$clFuchsia
+
+<i>IusCLColor.IusCLStandardColors.$clFuchsia - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clFuchsia
+-
+Begin IusCLColor.IusCLStandardColors.$clAqua
+
+<i>IusCLColor.IusCLStandardColors.$clAqua - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clAqua
+-
+Begin IusCLColor.IusCLStandardColors.$clLtGray
+
+<i>IusCLColor.IusCLStandardColors.$clLtGray - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clLtGray
+-
+Begin IusCLColor.IusCLStandardColors.$clDkGray
+
+<i>IusCLColor.IusCLStandardColors.$clDkGray - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clDkGray
+-
+Begin IusCLColor.IusCLStandardColors.$clWhite
+
+<i>IusCLColor.IusCLStandardColors.$clWhite - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clWhite
+-
+Begin IusCLColor.IusCLStandardColors.$clMoneyGreen
+
+<i>IusCLColor.IusCLStandardColors.$clMoneyGreen - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clMoneyGreen
+-
+Begin IusCLColor.IusCLStandardColors.$clSkyBlue
+
+<i>IusCLColor.IusCLStandardColors.$clSkyBlue - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clSkyBlue
+-
+Begin IusCLColor.IusCLStandardColors.$clCream
+
+<i>IusCLColor.IusCLStandardColors.$clCream - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clCream
+-
+Begin IusCLColor.IusCLStandardColors.$clMedGray
+
+<i>IusCLColor.IusCLStandardColors.$clMedGray - not found.</i>
+
+End IusCLColor.IusCLStandardColors.$clMedGray
+-
+Begin IusCLColor.$longDescription
+
+<i>IusCLColor.$longDescription - not found.</i>
+
+End IusCLColor.$longDescription
+-
+Begin IusCLFont.$shortDescription
+
+<i>IusCLFont.$shortDescription - not found.</i>
+
+End IusCLFont.$shortDescription
+-
+Begin IusCLFont.$longDescription
+
+<i>IusCLFont.$longDescription - not found.</i>
+
+End IusCLFont.$longDescription
+-
+Begin IusCLFontStyle.$shortDescription
+
+<i>IusCLFontStyle.$shortDescription - not found.</i>
+
+End IusCLFontStyle.$shortDescription
+-
+Begin IusCLFontStyle.$longDescription
+
+<i>IusCLFontStyle.$longDescription - not found.</i>
+
+End IusCLFontStyle.$longDescription
+-
+Begin IusCLGraphic.$shortDescription
+
+<i>IusCLGraphic.$shortDescription - not found.</i>
+
+End IusCLGraphic.$shortDescription
+-
+Begin IusCLGraphic.$longDescription
+
+<i>IusCLGraphic.$longDescription - not found.</i>
+
+End IusCLGraphic.$longDescription
+-
+Begin IusCLGraphicsObject.$shortDescription
+
+<i>IusCLGraphicsObject.$shortDescription - not found.</i>
+
+End IusCLGraphicsObject.$shortDescription
+-
+Begin IusCLGraphicsObject.$longDescription
+
+<i>IusCLGraphicsObject.$longDescription - not found.</i>
+
+End IusCLGraphicsObject.$longDescription
+-
+Begin IusCLMultiGraphic.$shortDescription
+
+<i>IusCLMultiGraphic.$shortDescription - not found.</i>
+
+End IusCLMultiGraphic.$shortDescription
+-
+Begin IusCLMultiGraphic.$longDescription
+
+<i>IusCLMultiGraphic.$longDescription - not found.</i>
+
+End IusCLMultiGraphic.$longDescription
+-
+Begin IusCLPen.$shortDescription
+
+<i>IusCLPen.$shortDescription - not found.</i>
+
+End IusCLPen.$shortDescription
+-
+Begin IusCLPen.IusCLPenMode.$shortDescription
+
+<i>IusCLPen.IusCLPenMode.$shortDescription - not found.</i>
+
+End IusCLPen.IusCLPenMode.$shortDescription
+-
+Begin IusCLPen.IusCLPenMode.$pmBlack
+
+<i>IusCLPen.IusCLPenMode.$pmBlack - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmBlack
+-
+Begin IusCLPen.IusCLPenMode.$pmWhite
+
+<i>IusCLPen.IusCLPenMode.$pmWhite - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmWhite
+-
+Begin IusCLPen.IusCLPenMode.$pmNop
+
+<i>IusCLPen.IusCLPenMode.$pmNop - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmNop
+-
+Begin IusCLPen.IusCLPenMode.$pmNot
+
+<i>IusCLPen.IusCLPenMode.$pmNot - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmNot
+-
+Begin IusCLPen.IusCLPenMode.$pmCopy
+
+<i>IusCLPen.IusCLPenMode.$pmCopy - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmCopy
+-
+Begin IusCLPen.IusCLPenMode.$pmNotCopy
+
+<i>IusCLPen.IusCLPenMode.$pmNotCopy - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmNotCopy
+-
+Begin IusCLPen.IusCLPenMode.$pmMergePenNot
+
+<i>IusCLPen.IusCLPenMode.$pmMergePenNot - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmMergePenNot
+-
+Begin IusCLPen.IusCLPenMode.$pmMaskPenNot
+
+<i>IusCLPen.IusCLPenMode.$pmMaskPenNot - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmMaskPenNot
+-
+Begin IusCLPen.IusCLPenMode.$pmMergeNotPen
+
+<i>IusCLPen.IusCLPenMode.$pmMergeNotPen - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmMergeNotPen
+-
+Begin IusCLPen.IusCLPenMode.$pmMaskNotPen
+
+<i>IusCLPen.IusCLPenMode.$pmMaskNotPen - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmMaskNotPen
+-
+Begin IusCLPen.IusCLPenMode.$pmMerge
+
+<i>IusCLPen.IusCLPenMode.$pmMerge - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmMerge
+-
+Begin IusCLPen.IusCLPenMode.$pmNotMerge
+
+<i>IusCLPen.IusCLPenMode.$pmNotMerge - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmNotMerge
+-
+Begin IusCLPen.IusCLPenMode.$pmMask
+
+<i>IusCLPen.IusCLPenMode.$pmMask - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmMask
+-
+Begin IusCLPen.IusCLPenMode.$pmNotMask
+
+<i>IusCLPen.IusCLPenMode.$pmNotMask - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmNotMask
+-
+Begin IusCLPen.IusCLPenMode.$pmXor
+
+<i>IusCLPen.IusCLPenMode.$pmXor - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmXor
+-
+Begin IusCLPen.IusCLPenMode.$pmNotXor
+
+<i>IusCLPen.IusCLPenMode.$pmNotXor - not found.</i>
+
+End IusCLPen.IusCLPenMode.$pmNotXor
+-
+Begin IusCLPen.IusCLPenStyle.$shortDescription
+
+<i>IusCLPen.IusCLPenStyle.$shortDescription - not found.</i>
+
+End IusCLPen.IusCLPenStyle.$shortDescription
+-
+Begin IusCLPen.IusCLPenStyle.$psSolid
+
+<i>IusCLPen.IusCLPenStyle.$psSolid - not found.</i>
+
+End IusCLPen.IusCLPenStyle.$psSolid
+-
+Begin IusCLPen.IusCLPenStyle.$psDash
+
+<i>IusCLPen.IusCLPenStyle.$psDash - not found.</i>
+
+End IusCLPen.IusCLPenStyle.$psDash
+-
+Begin IusCLPen.IusCLPenStyle.$psDot
+
+<i>IusCLPen.IusCLPenStyle.$psDot - not found.</i>
+
+End IusCLPen.IusCLPenStyle.$psDot
+-
+Begin IusCLPen.IusCLPenStyle.$psDashDot
+
+<i>IusCLPen.IusCLPenStyle.$psDashDot - not found.</i>
+
+End IusCLPen.IusCLPenStyle.$psDashDot
+-
+Begin IusCLPen.IusCLPenStyle.$psDashDotDot
+
+<i>IusCLPen.IusCLPenStyle.$psDashDotDot - not found.</i>
+
+End IusCLPen.IusCLPenStyle.$psDashDotDot
+-
+Begin IusCLPen.IusCLPenStyle.$psClear
+
+<i>IusCLPen.IusCLPenStyle.$psClear - not found.</i>
+
+End IusCLPen.IusCLPenStyle.$psClear
+-
+Begin IusCLPen.IusCLPenStyle.$psInsideFrame
+
+<i>IusCLPen.IusCLPenStyle.$psInsideFrame - not found.</i>
+
+End IusCLPen.IusCLPenStyle.$psInsideFrame
+-
+Begin IusCLPen.$longDescription
+
+<i>IusCLPen.$longDescription - not found.</i>
+
+End IusCLPen.$longDescription
+-
+Begin IusCLPicture.$shortDescription
+
+<i>IusCLPicture.$shortDescription - not found.</i>
+
+End IusCLPicture.$shortDescription
+-
+Begin IusCLPicture.IusCLPictureType.$shortDescription
+
+<i>IusCLPicture.IusCLPictureType.$shortDescription - not found.</i>
+
+End IusCLPicture.IusCLPictureType.$shortDescription
+-
+Begin IusCLPicture.IusCLPictureType.$ptCustom
+
+<i>IusCLPicture.IusCLPictureType.$ptCustom - not found.</i>
+
+End IusCLPicture.IusCLPictureType.$ptCustom
+-
+Begin IusCLPicture.IusCLPictureType.$ptBitmap
+
+<i>IusCLPicture.IusCLPictureType.$ptBitmap - not found.</i>
+
+End IusCLPicture.IusCLPictureType.$ptBitmap
+-
+Begin IusCLPicture.IusCLPictureType.$ptGif
+
+<i>IusCLPicture.IusCLPictureType.$ptGif - not found.</i>
+
+End IusCLPicture.IusCLPictureType.$ptGif
+-
+Begin IusCLPicture.IusCLPictureType.$ptIcon
+
+<i>IusCLPicture.IusCLPictureType.$ptIcon - not found.</i>
+
+End IusCLPicture.IusCLPictureType.$ptIcon
+-
+Begin IusCLPicture.IusCLPictureType.$ptJpeg
+
+<i>IusCLPicture.IusCLPictureType.$ptJpeg - not found.</i>
+
+End IusCLPicture.IusCLPictureType.$ptJpeg
+-
+Begin IusCLPicture.IusCLPictureType.$ptMetafile
+
+<i>IusCLPicture.IusCLPictureType.$ptMetafile - not found.</i>
+
+End IusCLPicture.IusCLPictureType.$ptMetafile
+-
+Begin IusCLPicture.IusCLPictureType.$ptPng
+
+<i>IusCLPicture.IusCLPictureType.$ptPng - not found.</i>
+
+End IusCLPicture.IusCLPictureType.$ptPng
+-
+Begin IusCLPicture.IusCLPictureType.$ptTiff
+
+<i>IusCLPicture.IusCLPictureType.$ptTiff - not found.</i>
+
+End IusCLPicture.IusCLPictureType.$ptTiff
+-
+Begin IusCLPicture.$longDescription
+
+<i>IusCLPicture.$longDescription - not found.</i>
+
+End IusCLPicture.$longDescription
+-
+Begin org.iuscl.graphics.formats.$shortDescription
+
+<i>org.iuscl.graphics.formats.$shortDescription - not found.</i>
+
+End org.iuscl.graphics.formats.$shortDescription
+-
+Begin IusCLAnimatedGif.$shortDescription
+
+<i>IusCLAnimatedGif.$shortDescription - not found.</i>
+
+End IusCLAnimatedGif.$shortDescription
+-
+Begin IusCLAnimatedGif.$longDescription
+
+<i>IusCLAnimatedGif.$longDescription - not found.</i>
+
+End IusCLAnimatedGif.$longDescription
+-
+Begin IusCLBitmap.$shortDescription
+
+<i>IusCLBitmap.$shortDescription - not found.</i>
+
+End IusCLBitmap.$shortDescription
+-
+Begin IusCLBitmap.IusCLBitmapHandleType.$shortDescription
+
+<i>IusCLBitmap.IusCLBitmapHandleType.$shortDescription - not found.</i>
+
+End IusCLBitmap.IusCLBitmapHandleType.$shortDescription
+-
+Begin IusCLBitmap.IusCLBitmapHandleType.$bmDIB
+
+<i>IusCLBitmap.IusCLBitmapHandleType.$bmDIB - not found.</i>
+
+End IusCLBitmap.IusCLBitmapHandleType.$bmDIB
+-
+Begin IusCLBitmap.IusCLBitmapHandleType.$bmDDB
+
+<i>IusCLBitmap.IusCLBitmapHandleType.$bmDDB - not found.</i>
+
+End IusCLBitmap.IusCLBitmapHandleType.$bmDDB
+-
+Begin IusCLBitmap.$longDescription
+
+<i>IusCLBitmap.$longDescription - not found.</i>
+
+End IusCLBitmap.$longDescription
+-
+Begin IusCLGif.$shortDescription
+
+<i>IusCLGif.$shortDescription - not found.</i>
+
+End IusCLGif.$shortDescription
+-
+Begin IusCLGif.$longDescription
+
+<i>IusCLGif.$longDescription - not found.</i>
+
+End IusCLGif.$longDescription
+-
+Begin IusCLIcon.$shortDescription
+
+<i>IusCLIcon.$shortDescription - not found.</i>
+
+End IusCLIcon.$shortDescription
+-
+Begin IusCLIcon.$longDescription
+
+<i>IusCLIcon.$longDescription - not found.</i>
+
+End IusCLIcon.$longDescription
+-
+Begin IusCLJpeg.$shortDescription
+
+<i>IusCLJpeg.$shortDescription - not found.</i>
+
+End IusCLJpeg.$shortDescription
+-
+Begin IusCLJpeg.$longDescription
+
+<i>IusCLJpeg.$longDescription - not found.</i>
+
+End IusCLJpeg.$longDescription
+-
+Begin IusCLMetafile.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLMetafile.$shortDescription
+-
+Begin IusCLMetafile.$longDescription
+
+<i>IusCLMetafile.$longDescription - not found.</i>
+
+End IusCLMetafile.$longDescription
+-
+Begin IusCLPng.$shortDescription
+
+<i>IusCLPng.$shortDescription - not found.</i>
+
+End IusCLPng.$shortDescription
+-
+Begin IusCLPng.$longDescription
+
+<i>IusCLPng.$longDescription - not found.</i>
+
+End IusCLPng.$longDescription
+-
+Begin IusCLTiff.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLTiff.$shortDescription
+-
+Begin IusCLTiff.$longDescription
+
+<i>IusCLTiff.$longDescription - not found.</i>
+
+End IusCLTiff.$longDescription
+-
+Begin org.iuscl.menus.$shortDescription
+
+<i>org.iuscl.menus.$shortDescription - not found.</i>
+
+End org.iuscl.menus.$shortDescription
+-
+Begin IusCLMainMenu.$shortDescription
+
+<i>IusCLMainMenu.$shortDescription - not found.</i>
+
+End IusCLMainMenu.$shortDescription
+-
+Begin IusCLMainMenu.$longDescription
+
+<i>IusCLMainMenu.$longDescription - not found.</i>
+
+End IusCLMainMenu.$longDescription
+-
+Begin IusCLMenu.$shortDescription
+
+<i>IusCLMenu.$shortDescription - not found.</i>
+
+End IusCLMenu.$shortDescription
+-
+Begin IusCLMenu.$longDescription
+
+<i>IusCLMenu.$longDescription - not found.</i>
+
+End IusCLMenu.$longDescription
+-
+Begin IusCLMenuItem.$shortDescription
+
+<i>IusCLMenuItem.$shortDescription - not found.</i>
+
+End IusCLMenuItem.$shortDescription
+-
+Begin IusCLMenuItem.$longDescription
+
+<i>IusCLMenuItem.$longDescription - not found.</i>
+
+End IusCLMenuItem.$longDescription
+-
+Begin IusCLPopupMenu.$shortDescription
+
+<i>IusCLPopupMenu.$shortDescription - not found.</i>
+
+End IusCLPopupMenu.$shortDescription
+-
+Begin IusCLPopupMenu.$longDescription
+
+<i>IusCLPopupMenu.$longDescription - not found.</i>
+
+End IusCLPopupMenu.$longDescription
+-
+Begin org.iuscl.obj.$shortDescription
+
+<i>org.iuscl.obj.$shortDescription - not found.</i>
+
+End org.iuscl.obj.$shortDescription
+-
+Begin IusCLConstructor.$shortDescription
+
+<i>IusCLConstructor.$shortDescription - not found.</i>
+
+End IusCLConstructor.$shortDescription
+-
+Begin IusCLConstructor.$longDescription
+
+<i>IusCLConstructor.$longDescription - not found.</i>
+
+End IusCLConstructor.$longDescription
+-
+Begin IusCLFieldConstructor.$shortDescription
+
+<i>IusCLFieldConstructor.$shortDescription - not found.</i>
+
+End IusCLFieldConstructor.$shortDescription
+-
+Begin IusCLFieldConstructor.$longDescription
+
+<i>IusCLFieldConstructor.$longDescription - not found.</i>
+
+End IusCLFieldConstructor.$longDescription
+-
+Begin IusCLMethod.$shortDescription
+
+<i>IusCLMethod.$shortDescription - not found.</i>
+
+End IusCLMethod.$shortDescription
+-
+Begin IusCLMethod.$longDescription
+
+<i>IusCLMethod.$longDescription - not found.</i>
+
+End IusCLMethod.$longDescription
+-
+Begin IusCLObjUtils.$shortDescription
+
+<i>IusCLObjUtils.$shortDescription - not found.</i>
+
+End IusCLObjUtils.$shortDescription
+-
+Begin IusCLObjUtils.$longDescription
+
+<i>IusCLObjUtils.$longDescription - not found.</i>
+
+End IusCLObjUtils.$longDescription
+-
+Begin IusCLParam.$shortDescription
+
+<i>IusCLParam.$shortDescription - not found.</i>
+
+End IusCLParam.$shortDescription
+-
+Begin IusCLParam.$longDescription
+
+<i>IusCLParam.$longDescription - not found.</i>
+
+End IusCLParam.$longDescription
+-
+Begin IusCLStaticMethod.$shortDescription
+
+<i>IusCLStaticMethod.$shortDescription - not found.</i>
+
+End IusCLStaticMethod.$shortDescription
+-
+Begin IusCLStaticMethod.$longDescription
+
+<i>IusCLStaticMethod.$longDescription - not found.</i>
+
+End IusCLStaticMethod.$longDescription
+-
+Begin org.iuscl.pdf.$shortDescription
+
+<i>org.iuscl.pdf.$shortDescription - not found.</i>
+
+End org.iuscl.pdf.$shortDescription
+-
+Begin IusCLPdfComponent.$shortDescription
+
+<i>IusCLPdfComponent.$shortDescription - not found.</i>
+
+End IusCLPdfComponent.$shortDescription
+-
+Begin IusCLPdfComponent.IusCLPdfSizeUnit.$shortDescription
+
+<i>IusCLPdfComponent.IusCLPdfSizeUnit.$shortDescription - not found.</i>
+
+End IusCLPdfComponent.IusCLPdfSizeUnit.$shortDescription
+-
+Begin IusCLPdfComponent.IusCLPdfSizeUnit.$suCentimeters
+
+<i>IusCLPdfComponent.IusCLPdfSizeUnit.$suCentimeters - not found.</i>
+
+End IusCLPdfComponent.IusCLPdfSizeUnit.$suCentimeters
+-
+Begin IusCLPdfComponent.IusCLPdfSizeUnit.$suInches
+
+<i>IusCLPdfComponent.IusCLPdfSizeUnit.$suInches - not found.</i>
+
+End IusCLPdfComponent.IusCLPdfSizeUnit.$suInches
+-
+Begin IusCLPdfComponent.IusCLPdfSizeUnit.$suPoints
+
+<i>IusCLPdfComponent.IusCLPdfSizeUnit.$suPoints - not found.</i>
+
+End IusCLPdfComponent.IusCLPdfSizeUnit.$suPoints
+-
+Begin IusCLPdfComponent.$longDescription
+
+<i>IusCLPdfComponent.$longDescription - not found.</i>
+
+End IusCLPdfComponent.$longDescription
+-
+Begin IusCLPdfDefaultHeaderAndFooter.$shortDescription
+
+<i>IusCLPdfDefaultHeaderAndFooter.$shortDescription - not found.</i>
+
+End IusCLPdfDefaultHeaderAndFooter.$shortDescription
+-
+Begin IusCLPdfDefaultHeaderAndFooter.$longDescription
+
+<i>IusCLPdfDefaultHeaderAndFooter.$longDescription - not found.</i>
+
+End IusCLPdfDefaultHeaderAndFooter.$longDescription
+-
+Begin IusCLPdfDocument.$shortDescription
+
+<i>IusCLPdfDocument.$shortDescription - not found.</i>
+
+End IusCLPdfDocument.$shortDescription
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$shortDescription
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$shortDescription - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$shortDescription
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psLETTER
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psLETTER - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psLETTER
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psNOTE
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psNOTE - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psNOTE
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psLEGAL
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psLEGAL - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psLEGAL
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psTABLOID
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psTABLOID - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psTABLOID
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psEXECUTIVE
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psEXECUTIVE - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psEXECUTIVE
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psPOSTCARD
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psPOSTCARD - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psPOSTCARD
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psA0
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psA0 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psA0
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psA1
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psA1 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psA1
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psA2
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psA2 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psA2
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psA3
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psA3 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psA3
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psA4
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psA4 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psA4
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psA5
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psA5 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psA5
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psA6
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psA6 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psA6
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psA7
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psA7 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psA7
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psA8
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psA8 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psA8
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psA9
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psA9 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psA9
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psA10
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psA10 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psA10
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psB0
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psB0 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psB0
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psB1
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psB1 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psB1
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psB2
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psB2 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psB2
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psB3
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psB3 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psB3
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psB4
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psB4 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psB4
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psB5
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psB5 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psB5
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psB6
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psB6 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psB6
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psB7
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psB7 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psB7
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psB8
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psB8 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psB8
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psB9
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psB9 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psB9
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psB10
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psB10 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psB10
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psARCH_E
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psARCH_E - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psARCH_E
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psARCH_D
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psARCH_D - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psARCH_D
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psARCH_C
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psARCH_C - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psARCH_C
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psARCH_B
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psARCH_B - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psARCH_B
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psARCH_A
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psARCH_A - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psARCH_A
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psFLSA
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psFLSA - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psFLSA
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psFLSE
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psFLSE - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psFLSE
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psHALFLETTER
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psHALFLETTER - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psHALFLETTER
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$ps_11X17
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$ps_11X17 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$ps_11X17
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psID_1
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psID_1 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psID_1
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psID_2
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psID_2 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psID_2
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psID_3
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psID_3 - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psID_3
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psLEDGER
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psLEDGER - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psLEDGER
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psCROWN_QUARTO
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psCROWN_QUARTO - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psCROWN_QUARTO
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psLARGE_CROWN_QUARTO
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psLARGE_CROWN_QUARTO - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psLARGE_CROWN_QUARTO
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psDEMY_QUARTO
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psDEMY_QUARTO - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psDEMY_QUARTO
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psROYAL_QUARTO
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psROYAL_QUARTO - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psROYAL_QUARTO
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psCROWN_OCTAVO
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psCROWN_OCTAVO - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psCROWN_OCTAVO
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psLARGE_CROWN_OCTAVO
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psLARGE_CROWN_OCTAVO - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psLARGE_CROWN_OCTAVO
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psDEMY_OCTAVO
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psDEMY_OCTAVO - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psDEMY_OCTAVO
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psROYAL_OCTAVO
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psROYAL_OCTAVO - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psROYAL_OCTAVO
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psSMALL_PAPERBACK
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psSMALL_PAPERBACK - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psSMALL_PAPERBACK
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psPENGUIN_SMALL_PAPERBACK
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psPENGUIN_SMALL_PAPERBACK - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psPENGUIN_SMALL_PAPERBACK
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psPENGUIN_LARGE_PAPERBACK
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psPENGUIN_LARGE_PAPERBACK - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psPENGUIN_LARGE_PAPERBACK
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psLETTER_LANDSCAPE
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psLETTER_LANDSCAPE - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psLETTER_LANDSCAPE
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psLEGAL_LANDSCAPE
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psLEGAL_LANDSCAPE - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psLEGAL_LANDSCAPE
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psA4_LANDSCAPE
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psA4_LANDSCAPE - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psA4_LANDSCAPE
+-
+Begin IusCLPdfDocument.IusCLPdfPageSize.$psCustom
+
+<i>IusCLPdfDocument.IusCLPdfPageSize.$psCustom - not found.</i>
+
+End IusCLPdfDocument.IusCLPdfPageSize.$psCustom
+-
+Begin IusCLPdfDocument.$longDescription
+
+<i>IusCLPdfDocument.$longDescription - not found.</i>
+
+End IusCLPdfDocument.$longDescription
+-
+Begin IusCLPdfFont.$shortDescription
+
+<i>IusCLPdfFont.$shortDescription - not found.</i>
+
+End IusCLPdfFont.$shortDescription
+-
+Begin IusCLPdfFont.$longDescription
+
+<i>IusCLPdfFont.$longDescription - not found.</i>
+
+End IusCLPdfFont.$longDescription
+-
+Begin IusCLPdfHeaderAndFooter.$shortDescription
+
+<i>IusCLPdfHeaderAndFooter.$shortDescription - not found.</i>
+
+End IusCLPdfHeaderAndFooter.$shortDescription
+-
+Begin IusCLPdfHeaderAndFooter.$longDescription
+
+<i>IusCLPdfHeaderAndFooter.$longDescription - not found.</i>
+
+End IusCLPdfHeaderAndFooter.$longDescription
+-
+Begin IusCLPdfImage.$shortDescription
+
+<i>IusCLPdfImage.$shortDescription - not found.</i>
+
+End IusCLPdfImage.$shortDescription
+-
+Begin IusCLPdfImage.IusCLPdfImageAlignment.$shortDescription
+
+<i>IusCLPdfImage.IusCLPdfImageAlignment.$shortDescription - not found.</i>
+
+End IusCLPdfImage.IusCLPdfImageAlignment.$shortDescription
+-
+Begin IusCLPdfImage.IusCLPdfImageAlignment.$iaLeft
+
+<i>IusCLPdfImage.IusCLPdfImageAlignment.$iaLeft - not found.</i>
+
+End IusCLPdfImage.IusCLPdfImageAlignment.$iaLeft
+-
+Begin IusCLPdfImage.IusCLPdfImageAlignment.$iaRight
+
+<i>IusCLPdfImage.IusCLPdfImageAlignment.$iaRight - not found.</i>
+
+End IusCLPdfImage.IusCLPdfImageAlignment.$iaRight
+-
+Begin IusCLPdfImage.IusCLPdfImageAlignment.$iaCenter
+
+<i>IusCLPdfImage.IusCLPdfImageAlignment.$iaCenter - not found.</i>
+
+End IusCLPdfImage.IusCLPdfImageAlignment.$iaCenter
+-
+Begin IusCLPdfImage.$longDescription
+
+<i>IusCLPdfImage.$longDescription - not found.</i>
+
+End IusCLPdfImage.$longDescription
+-
+Begin IusCLPdfRichText.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLPdfRichText.$shortDescription
+-
+Begin IusCLPdfRichText.$longDescription
+
+<i>IusCLPdfRichText.$longDescription - not found.</i>
+
+End IusCLPdfRichText.$longDescription
+-
+Begin IusCLPdfText.$shortDescription
+
+<i>IusCLPdfText.$shortDescription - not found.</i>
+
+End IusCLPdfText.$shortDescription
+-
+Begin IusCLPdfText.IusCLPdfTextAlignment.$shortDescription
+
+<i>IusCLPdfText.IusCLPdfTextAlignment.$shortDescription - not found.</i>
+
+End IusCLPdfText.IusCLPdfTextAlignment.$shortDescription
+-
+Begin IusCLPdfText.IusCLPdfTextAlignment.$taLeft
+
+<i>IusCLPdfText.IusCLPdfTextAlignment.$taLeft - not found.</i>
+
+End IusCLPdfText.IusCLPdfTextAlignment.$taLeft
+-
+Begin IusCLPdfText.IusCLPdfTextAlignment.$taRight
+
+<i>IusCLPdfText.IusCLPdfTextAlignment.$taRight - not found.</i>
+
+End IusCLPdfText.IusCLPdfTextAlignment.$taRight
+-
+Begin IusCLPdfText.IusCLPdfTextAlignment.$taCenter
+
+<i>IusCLPdfText.IusCLPdfTextAlignment.$taCenter - not found.</i>
+
+End IusCLPdfText.IusCLPdfTextAlignment.$taCenter
+-
+Begin IusCLPdfText.IusCLPdfTextAlignment.$taJustified
+
+<i>IusCLPdfText.IusCLPdfTextAlignment.$taJustified - not found.</i>
+
+End IusCLPdfText.IusCLPdfTextAlignment.$taJustified
+-
+Begin IusCLPdfText.$longDescription
+
+<i>IusCLPdfText.$longDescription - not found.</i>
+
+End IusCLPdfText.$longDescription
+-
+Begin org.iuscl.stdctrls.$shortDescription
+
+<i>org.iuscl.stdctrls.$shortDescription - not found.</i>
+
+End org.iuscl.stdctrls.$shortDescription
+-
+Begin IusCLButton.$shortDescription
+
+<i>IusCLButton.$shortDescription - not found.</i>
+
+End IusCLButton.$shortDescription
+-
+Begin IusCLButton.$longDescription
+
+<i>IusCLButton.$longDescription - not found.</i>
+
+End IusCLButton.$longDescription
+-
+Begin IusCLButtonControl.$shortDescription
+
+<i>IusCLButtonControl.$shortDescription - not found.</i>
+
+End IusCLButtonControl.$shortDescription
+-
+Begin IusCLButtonControl.$longDescription
+
+<i>IusCLButtonControl.$longDescription - not found.</i>
+
+End IusCLButtonControl.$longDescription
+-
+Begin IusCLCheckBox.$shortDescription
+
+<i>IusCLCheckBox.$shortDescription - not found.</i>
+
+End IusCLCheckBox.$shortDescription
+-
+Begin IusCLCheckBox.IusCLCheckBoxState.$shortDescription
+
+<i>IusCLCheckBox.IusCLCheckBoxState.$shortDescription - not found.</i>
+
+End IusCLCheckBox.IusCLCheckBoxState.$shortDescription
+-
+Begin IusCLCheckBox.IusCLCheckBoxState.$cbUnchecked
+
+<i>IusCLCheckBox.IusCLCheckBoxState.$cbUnchecked - not found.</i>
+
+End IusCLCheckBox.IusCLCheckBoxState.$cbUnchecked
+-
+Begin IusCLCheckBox.IusCLCheckBoxState.$cbChecked
+
+<i>IusCLCheckBox.IusCLCheckBoxState.$cbChecked - not found.</i>
+
+End IusCLCheckBox.IusCLCheckBoxState.$cbChecked
+-
+Begin IusCLCheckBox.IusCLCheckBoxState.$cbGrayed
+
+<i>IusCLCheckBox.IusCLCheckBoxState.$cbGrayed - not found.</i>
+
+End IusCLCheckBox.IusCLCheckBoxState.$cbGrayed
+-
+Begin IusCLCheckBox.$longDescription
+
+<i>IusCLCheckBox.$longDescription - not found.</i>
+
+End IusCLCheckBox.$longDescription
+-
+Begin IusCLComboBox.$shortDescription
+
+<i>IusCLComboBox.$shortDescription - not found.</i>
+
+End IusCLComboBox.$shortDescription
+-
+Begin IusCLComboBox.$longDescription
+
+<i>IusCLComboBox.$longDescription - not found.</i>
+
+End IusCLComboBox.$longDescription
+-
+Begin IusCLEdit.$shortDescription
+
+<i>IusCLEdit.$shortDescription - not found.</i>
+
+End IusCLEdit.$shortDescription
+-
+Begin IusCLEdit.$longDescription
+
+<i>IusCLEdit.$longDescription - not found.</i>
+
+End IusCLEdit.$longDescription
+-
+Begin IusCLEditControl.$shortDescription
+
+<i>IusCLEditControl.$shortDescription - not found.</i>
+
+End IusCLEditControl.$shortDescription
+-
+Begin IusCLEditControl.$longDescription
+
+<i>IusCLEditControl.$longDescription - not found.</i>
+
+End IusCLEditControl.$longDescription
+-
+Begin IusCLGroupBox.$shortDescription
+
+<i>IusCLGroupBox.$shortDescription - not found.</i>
+
+End IusCLGroupBox.$shortDescription
+-
+Begin IusCLGroupBox.$longDescription
+
+<i>IusCLGroupBox.$longDescription - not found.</i>
+
+End IusCLGroupBox.$longDescription
+-
+Begin IusCLLabel.$shortDescription
+
+<i>IusCLLabel.$shortDescription - not found.</i>
+
+End IusCLLabel.$shortDescription
+-
+Begin IusCLLabel.$longDescription
+
+<i>IusCLLabel.$longDescription - not found.</i>
+
+End IusCLLabel.$longDescription
+-
+Begin IusCLListBox.$shortDescription
+
+<i>IusCLListBox.$shortDescription - not found.</i>
+
+End IusCLListBox.$shortDescription
+-
+Begin IusCLListBox.$longDescription
+
+<i>IusCLListBox.$longDescription - not found.</i>
+
+End IusCLListBox.$longDescription
+-
+Begin IusCLMemo.$shortDescription
+
+<i>IusCLMemo.$shortDescription - not found.</i>
+
+End IusCLMemo.$shortDescription
+-
+Begin IusCLMemo.$longDescription
+
+<i>IusCLMemo.$longDescription - not found.</i>
+
+End IusCLMemo.$longDescription
+-
+Begin IusCLMultiLineEditControl.$shortDescription
+
+<i>IusCLMultiLineEditControl.$shortDescription - not found.</i>
+
+End IusCLMultiLineEditControl.$shortDescription
+-
+Begin IusCLMultiLineEditControl.IusCLScrollStyle.$shortDescription
+
+<i>IusCLMultiLineEditControl.IusCLScrollStyle.$shortDescription - not found.</i>
+
+End IusCLMultiLineEditControl.IusCLScrollStyle.$shortDescription
+-
+Begin IusCLMultiLineEditControl.IusCLScrollStyle.$ssNone
+
+<i>IusCLMultiLineEditControl.IusCLScrollStyle.$ssNone - not found.</i>
+
+End IusCLMultiLineEditControl.IusCLScrollStyle.$ssNone
+-
+Begin IusCLMultiLineEditControl.IusCLScrollStyle.$ssHorizontal
+
+<i>IusCLMultiLineEditControl.IusCLScrollStyle.$ssHorizontal - not found.</i>
+
+End IusCLMultiLineEditControl.IusCLScrollStyle.$ssHorizontal
+-
+Begin IusCLMultiLineEditControl.IusCLScrollStyle.$ssVertical
+
+<i>IusCLMultiLineEditControl.IusCLScrollStyle.$ssVertical - not found.</i>
+
+End IusCLMultiLineEditControl.IusCLScrollStyle.$ssVertical
+-
+Begin IusCLMultiLineEditControl.IusCLScrollStyle.$ssBoth
+
+<i>IusCLMultiLineEditControl.IusCLScrollStyle.$ssBoth - not found.</i>
+
+End IusCLMultiLineEditControl.IusCLScrollStyle.$ssBoth
+-
+Begin IusCLMultiLineEditControl.$longDescription
+
+<i>IusCLMultiLineEditControl.$longDescription - not found.</i>
+
+End IusCLMultiLineEditControl.$longDescription
+-
+Begin IusCLRadioButton.$shortDescription
+
+<i>IusCLRadioButton.$shortDescription - not found.</i>
+
+End IusCLRadioButton.$shortDescription
+-
+Begin IusCLRadioButton.$longDescription
+
+<i>IusCLRadioButton.$longDescription - not found.</i>
+
+End IusCLRadioButton.$longDescription
+-
+Begin IusCLScrollBar.$shortDescription
+
+<i>IusCLScrollBar.$shortDescription - not found.</i>
+
+End IusCLScrollBar.$shortDescription
+-
+Begin IusCLScrollBar.IusCLScrollBarKind.$shortDescription
+
+<i>IusCLScrollBar.IusCLScrollBarKind.$shortDescription - not found.</i>
+
+End IusCLScrollBar.IusCLScrollBarKind.$shortDescription
+-
+Begin IusCLScrollBar.IusCLScrollBarKind.$sbHorizontal
+
+<i>IusCLScrollBar.IusCLScrollBarKind.$sbHorizontal - not found.</i>
+
+End IusCLScrollBar.IusCLScrollBarKind.$sbHorizontal
+-
+Begin IusCLScrollBar.IusCLScrollBarKind.$sbVertical
+
+<i>IusCLScrollBar.IusCLScrollBarKind.$sbVertical - not found.</i>
+
+End IusCLScrollBar.IusCLScrollBarKind.$sbVertical
+-
+Begin IusCLScrollBar.$longDescription
+
+<i>IusCLScrollBar.$longDescription - not found.</i>
+
+End IusCLScrollBar.$longDescription
+-
+Begin IusCLStaticText.$shortDescription
+
+<div class="swarning">Not fully implemented/in testing phase</div>
+
+End IusCLStaticText.$shortDescription
+-
+Begin IusCLStaticText.$longDescription
+
+<i>IusCLStaticText.$longDescription - not found.</i>
+
+End IusCLStaticText.$longDescription
+-
+Begin org.iuscl.sysctrls.$shortDescription
+
+<i>org.iuscl.sysctrls.$shortDescription - not found.</i>
+
+End org.iuscl.sysctrls.$shortDescription
+-
+Begin IusCLTimer.$shortDescription
+
+<i>IusCLTimer.$shortDescription - not found.</i>
+
+End IusCLTimer.$shortDescription
+-
+Begin IusCLTimer.$longDescription
+
+<i>IusCLTimer.$longDescription - not found.</i>
+
+End IusCLTimer.$longDescription
+-
+Begin IusCLUnzip.$shortDescription
+
+<i>IusCLUnzip.$shortDescription - not found.</i>
+
+End IusCLUnzip.$shortDescription
+-
+Begin IusCLUnzip.$longDescription
+
+<i>IusCLUnzip.$longDescription - not found.</i>
+
+End IusCLUnzip.$longDescription
+-
+Begin IusCLZip.$shortDescription
+
+<i>IusCLZip.$shortDescription - not found.</i>
+
+End IusCLZip.$shortDescription
+-
+Begin IusCLZip.$longDescription
+
+<i>IusCLZip.$longDescription - not found.</i>
+
+End IusCLZip.$longDescription
+-
+Begin org.iuscl.system.$shortDescription
+
+<i>org.iuscl.system.$shortDescription - not found.</i>
+
+End org.iuscl.system.$shortDescription
+-
+Begin IusCLLog.$shortDescription
+
+<i>IusCLLog.$shortDescription - not found.</i>
+
+End IusCLLog.$shortDescription
+-
+Begin IusCLLog.$longDescription
+
+<i>IusCLLog.$longDescription - not found.</i>
+
+End IusCLLog.$longDescription
+-
+Begin IusCLObject.$shortDescription
+
+<i>IusCLObject.$shortDescription - not found.</i>
+
+End IusCLObject.$shortDescription
+-
+Begin IusCLObject.$longDescription
+
+<i>IusCLObject.$longDescription - not found.</i>
+
+End IusCLObject.$longDescription
+-
+Begin org.iuscl.sysutils.$shortDescription
+
+<i>org.iuscl.sysutils.$shortDescription - not found.</i>
+
+End org.iuscl.sysutils.$shortDescription
+-
+Begin IusCLFileSearchRec.$shortDescription
+
+<i>IusCLFileSearchRec.$shortDescription - not found.</i>
+
+End IusCLFileSearchRec.$shortDescription
+-
+Begin IusCLFileSearchRec.$longDescription
+
+<i>IusCLFileSearchRec.$longDescription - not found.</i>
+
+End IusCLFileSearchRec.$longDescription
+-
+Begin IusCLFileUtils.$shortDescription
+
+<i>IusCLFileUtils.$shortDescription - not found.</i>
+
+End IusCLFileUtils.$shortDescription
+-
+Begin IusCLFileUtils.$longDescription
+
+<i>IusCLFileUtils.$longDescription - not found.</i>
+
+End IusCLFileUtils.$longDescription
+-
+Begin IusCLGraphUtils.$shortDescription
+
+<i>IusCLGraphUtils.$shortDescription - not found.</i>
+
+End IusCLGraphUtils.$shortDescription
+-
+Begin IusCLGraphUtils.$longDescription
+
+<i>IusCLGraphUtils.$longDescription - not found.</i>
+
+End IusCLGraphUtils.$longDescription
+-
+Begin IusCLProgressMonitor.$shortDescription
+
+<i>IusCLProgressMonitor.$shortDescription - not found.</i>
+
+End IusCLProgressMonitor.$shortDescription
+-
+Begin IusCLProgressMonitor.$longDescription
+
+<i>IusCLProgressMonitor.$longDescription - not found.</i>
+
+End IusCLProgressMonitor.$longDescription
+-
+Begin IusCLStrUtils.$shortDescription
+
+<i>IusCLStrUtils.$shortDescription - not found.</i>
+
+End IusCLStrUtils.$shortDescription
+-
+Begin IusCLStrUtils.$longDescription
+
+<i>IusCLStrUtils.$longDescription - not found.</i>
+
+End IusCLStrUtils.$longDescription
+-
+Begin IusCLSwtUtils.$shortDescription
+
+<i>IusCLSwtUtils.$shortDescription - not found.</i>
+
+End IusCLSwtUtils.$shortDescription
+-
+Begin IusCLSwtUtils.$longDescription
+
+<i>IusCLSwtUtils.$longDescription - not found.</i>
+
+End IusCLSwtUtils.$longDescription
+-
+Begin org.iuscl.types.$shortDescription
+
+<i>org.iuscl.types.$shortDescription - not found.</i>
+
+End org.iuscl.types.$shortDescription
+-
+Begin IusCLMargins.$shortDescription
+
+<i>IusCLMargins.$shortDescription - not found.</i>
+
+End IusCLMargins.$shortDescription
+-
+Begin IusCLMargins.$longDescription
+
+<i>IusCLMargins.$longDescription - not found.</i>
+
+End IusCLMargins.$longDescription
+-
+Begin IusCLPoint.$shortDescription
+
+<i>IusCLPoint.$shortDescription - not found.</i>
+
+End IusCLPoint.$shortDescription
+-
+Begin IusCLPoint.$longDescription
+
+<i>IusCLPoint.$longDescription - not found.</i>
+
+End IusCLPoint.$longDescription
+-
+Begin IusCLRect.$shortDescription
+
+<i>IusCLRect.$shortDescription - not found.</i>
+
+End IusCLRect.$shortDescription
+-
+Begin IusCLRect.$longDescription
+
+<i>IusCLRect.$longDescription - not found.</i>
+
+End IusCLRect.$longDescription
+-
+Begin IusCLSize.$shortDescription
+
+<i>IusCLSize.$shortDescription - not found.</i>
+
+End IusCLSize.$shortDescription
+-
+Begin IusCLSize.$longDescription
+
+<i>IusCLSize.$longDescription - not found.</i>
+
+End IusCLSize.$longDescription
+-
+Begin org.iuscl.windows.$shortDescription
+
+<i>org.iuscl.windows.$shortDescription - not found.</i>
+
+End org.iuscl.windows.$shortDescription
+-
+Begin IusCLSwtWindowsStatusBar.$shortDescription
+
+<i>IusCLSwtWindowsStatusBar.$shortDescription - not found.</i>
+
+End IusCLSwtWindowsStatusBar.$shortDescription
+-
+Begin IusCLSwtWindowsStatusBar.$longDescription
+
+<i>IusCLSwtWindowsStatusBar.$longDescription - not found.</i>
+
+End IusCLSwtWindowsStatusBar.$longDescription
+-
+Begin IusCLWindowsUtil.$shortDescription
+
+<i>IusCLWindowsUtil.$shortDescription - not found.</i>
+
+End IusCLWindowsUtil.$shortDescription
+-
+Begin IusCLWindowsUtil.$longDescription
+
+<i>IusCLWindowsUtil.$longDescription - not found.</i>
+
+End IusCLWindowsUtil.$longDescription
+-
+Begin IusCLDialogs.IusCLMessageBoxIcon.$mbiError
+
+<i>IusCLDialogs.IusCLMessageBoxIcon.$mbiError - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxIcon.$mbiError
+-
+Begin IusCLDialogs.IusCLMessageBoxIcon.$mbiInformation
+
+<i>IusCLDialogs.IusCLMessageBoxIcon.$mbiInformation - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxIcon.$mbiInformation
+-
+Begin IusCLDialogs.IusCLMessageBoxIcon.$mbiQuestion
+
+<i>IusCLDialogs.IusCLMessageBoxIcon.$mbiQuestion - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxIcon.$mbiQuestion
+-
+Begin IusCLDialogs.IusCLMessageBoxIcon.$mbiWarning
+
+<i>IusCLDialogs.IusCLMessageBoxIcon.$mbiWarning - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxIcon.$mbiWarning
+-
+Begin IusCLDialogs.IusCLMessageBoxIcon.$mbiWorking
+
+<i>IusCLDialogs.IusCLMessageBoxIcon.$mbiWorking - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxIcon.$mbiWorking
+-
+Begin IusCLDialogs.IusCLMessageBoxFlags.$shortDescription
+
+<i>IusCLDialogs.IusCLMessageBoxFlags.$shortDescription - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlags.$shortDescription
+-
+Begin IusCLDialogs.IusCLMessageBoxFlags.$mbAbortRetryIgnore
+
+<i>IusCLDialogs.IusCLMessageBoxFlags.$mbAbortRetryIgnore - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlags.$mbAbortRetryIgnore
+-
+Begin IusCLDialogs.IusCLMessageBoxFlags.$mbOK
+
+<i>IusCLDialogs.IusCLMessageBoxFlags.$mbOK - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlags.$mbOK
+-
+Begin IusCLDialogs.IusCLMessageBoxFlags.$mbOKCancel
+
+<i>IusCLDialogs.IusCLMessageBoxFlags.$mbOKCancel - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlags.$mbOKCancel
+-
+Begin IusCLDialogs.IusCLMessageBoxFlags.$mbRetryCancel
+
+<i>IusCLDialogs.IusCLMessageBoxFlags.$mbRetryCancel - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlags.$mbRetryCancel
+-
+Begin IusCLDialogs.IusCLMessageBoxFlags.$mbYesNo
+
+<i>IusCLDialogs.IusCLMessageBoxFlags.$mbYesNo - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlags.$mbYesNo
+-
+Begin IusCLDialogs.IusCLMessageBoxFlags.$mbYesNoCancel
+
+<i>IusCLDialogs.IusCLMessageBoxFlags.$mbYesNoCancel - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxFlags.$mbYesNoCancel
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$idOK
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$idOK - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$idOK
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$idCancel
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$idCancel - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$idCancel
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$idAbort
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$idAbort - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$idAbort
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$idRetry
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$idRetry - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$idRetry
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$idIgnore
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$idIgnore - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$idIgnore
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$idYes
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$idYes - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$idYes
+-
+Begin IusCLDialogs.IusCLMessageBoxReturn.$idNo
+
+<i>IusCLDialogs.IusCLMessageBoxReturn.$idNo - not found.</i>
+
+End IusCLDialogs.IusCLMessageBoxReturn.$idNo
+-
+Begin IusCLFolderDialog.$shortDescription
+
+<i>IusCLFolderDialog.$shortDescription - not found.</i>
+
+End IusCLFolderDialog.$shortDescription
+-
+Begin IusCLFolderDialog.$longDescription
+
+<i>IusCLFolderDialog.$longDescription - not found.</i>
+
+End IusCLFolderDialog.$longDescription
+-
+Begin IusCLProgressMonitor.IusCLProgressCancelAction.$shortDescription
+
+<i>IusCLProgressMonitor.IusCLProgressCancelAction.$shortDescription - not found.</i>
+
+End IusCLProgressMonitor.IusCLProgressCancelAction.$shortDescription
+-
+Begin IusCLProgressMonitor.IusCLProgressCancelAction.$pcaNone
+
+<i>IusCLProgressMonitor.IusCLProgressCancelAction.$pcaNone - not found.</i>
+
+End IusCLProgressMonitor.IusCLProgressCancelAction.$pcaNone
+-
+Begin IusCLProgressMonitor.IusCLProgressCancelAction.$pcaCancelOnly
+
+<i>IusCLProgressMonitor.IusCLProgressCancelAction.$pcaCancelOnly - not found.</i>
+
+End IusCLProgressMonitor.IusCLProgressCancelAction.$pcaCancelOnly
+-
+Begin IusCLProgressMonitor.IusCLProgressCancelAction.$pcaCancelAndRollback
+
+<i>IusCLProgressMonitor.IusCLProgressCancelAction.$pcaCancelAndRollback - not found.</i>
+
+End IusCLProgressMonitor.IusCLProgressCancelAction.$pcaCancelAndRollback
+-
+Begin IusCLProgressMonitor.IusCLProgressCancelAction.$pcaCommitAndCancel
+
+<i>IusCLProgressMonitor.IusCLProgressCancelAction.$pcaCommitAndCancel - not found.</i>
+
+End IusCLProgressMonitor.IusCLProgressCancelAction.$pcaCommitAndCancel
+-
+Begin IusCLBitButton.$shortDescription
+
+<i>IusCLBitButton.$shortDescription - not found.</i>
+
+End IusCLBitButton.$shortDescription
+-
+Begin IusCLBitButton.IusCLBitBtnKind.$shortDescription
+
+<i>IusCLBitButton.IusCLBitBtnKind.$shortDescription - not found.</i>
+
+End IusCLBitButton.IusCLBitBtnKind.$shortDescription
+-
+Begin IusCLBitButton.IusCLBitBtnKind.$bkCustom
+
+<i>IusCLBitButton.IusCLBitBtnKind.$bkCustom - not found.</i>
+
+End IusCLBitButton.IusCLBitBtnKind.$bkCustom
+-
+Begin IusCLBitButton.IusCLBitBtnKind.$bkOK
+
+<i>IusCLBitButton.IusCLBitBtnKind.$bkOK - not found.</i>
+
+End IusCLBitButton.IusCLBitBtnKind.$bkOK
+-
+Begin IusCLBitButton.IusCLBitBtnKind.$bkCancel
+
+<i>IusCLBitButton.IusCLBitBtnKind.$bkCancel - not found.</i>
+
+End IusCLBitButton.IusCLBitBtnKind.$bkCancel
+-
+Begin IusCLBitButton.IusCLBitBtnKind.$bkHelp
+
+<i>IusCLBitButton.IusCLBitBtnKind.$bkHelp - not found.</i>
+
+End IusCLBitButton.IusCLBitBtnKind.$bkHelp
+-
+Begin IusCLBitButton.IusCLBitBtnKind.$bkYes
+
+<i>IusCLBitButton.IusCLBitBtnKind.$bkYes - not found.</i>
+
+End IusCLBitButton.IusCLBitBtnKind.$bkYes
+-
+Begin IusCLBitButton.IusCLBitBtnKind.$bkNo
+
+<i>IusCLBitButton.IusCLBitBtnKind.$bkNo - not found.</i>
+
+End IusCLBitButton.IusCLBitBtnKind.$bkNo
+-
+Begin IusCLBitButton.IusCLBitBtnKind.$bkClose
+
+<i>IusCLBitButton.IusCLBitBtnKind.$bkClose - not found.</i>
+
+End IusCLBitButton.IusCLBitBtnKind.$bkClose
+-
+Begin IusCLBitButton.IusCLBitBtnKind.$bkAbort
+
+<i>IusCLBitButton.IusCLBitBtnKind.$bkAbort - not found.</i>
+
+End IusCLBitButton.IusCLBitBtnKind.$bkAbort
+-
+Begin IusCLBitButton.IusCLBitBtnKind.$bkRetry
+
+<i>IusCLBitButton.IusCLBitBtnKind.$bkRetry - not found.</i>
+
+End IusCLBitButton.IusCLBitBtnKind.$bkRetry
+-
+Begin IusCLBitButton.IusCLBitBtnKind.$bkIgnore
+
+<i>IusCLBitButton.IusCLBitBtnKind.$bkIgnore - not found.</i>
+
+End IusCLBitButton.IusCLBitBtnKind.$bkIgnore
+-
+Begin IusCLBitButton.IusCLBitBtnKind.$bkAll
+
+<i>IusCLBitButton.IusCLBitBtnKind.$bkAll - not found.</i>
+
+End IusCLBitButton.IusCLBitBtnKind.$bkAll
+-
+Begin IusCLBitButton.$longDescription
+
+<i>IusCLBitButton.$longDescription - not found.</i>
+
+End IusCLBitButton.$longDescription
+-
+Begin IusCLListControl.$shortDescription
+
+<i>IusCLListControl.$shortDescription - not found.</i>
+
+End IusCLListControl.$shortDescription
+-
+Begin IusCLListControl.$longDescription
+
+<i>IusCLListControl.$longDescription - not found.</i>
+
+End IusCLListControl.$longDescription
+-
+Begin IusCLMultiSelectListControl.$shortDescription
+
+<i>IusCLMultiSelectListControl.$shortDescription - not found.</i>
+
+End IusCLMultiSelectListControl.$shortDescription
+-
+Begin IusCLMultiSelectListControl.$longDescription
+
+<i>IusCLMultiSelectListControl.$longDescription - not found.</i>
+
+End IusCLMultiSelectListControl.$longDescription
+-
+Begin IusCLTrayIcon.$shortDescription
+
+<i>IusCLTrayIcon.$shortDescription - not found.</i>
+
+End IusCLTrayIcon.$shortDescription
+-
+Begin IusCLTrayIcon.IusCLTrayBalloonIcon.$shortDescription
+
+<i>IusCLTrayIcon.IusCLTrayBalloonIcon.$shortDescription - not found.</i>
+
+End IusCLTrayIcon.IusCLTrayBalloonIcon.$shortDescription
+-
+Begin IusCLTrayIcon.IusCLTrayBalloonIcon.$tbiError
+
+<i>IusCLTrayIcon.IusCLTrayBalloonIcon.$tbiError - not found.</i>
+
+End IusCLTrayIcon.IusCLTrayBalloonIcon.$tbiError
+-
+Begin IusCLTrayIcon.IusCLTrayBalloonIcon.$tbiInformation
+
+<i>IusCLTrayIcon.IusCLTrayBalloonIcon.$tbiInformation - not found.</i>
+
+End IusCLTrayIcon.IusCLTrayBalloonIcon.$tbiInformation
+-
+Begin IusCLTrayIcon.IusCLTrayBalloonIcon.$tbiWarning
+
+<i>IusCLTrayIcon.IusCLTrayBalloonIcon.$tbiWarning - not found.</i>
+
+End IusCLTrayIcon.IusCLTrayBalloonIcon.$tbiWarning
+-
+Begin IusCLTrayIcon.$longDescription
+
+<i>IusCLTrayIcon.$longDescription - not found.</i>
+
+End IusCLTrayIcon.$longDescription
+-
+Begin IusCLScheduler.$shortDescription
+
+<i>IusCLScheduler.$shortDescription - not found.</i>
+
+End IusCLScheduler.$shortDescription
+-
+Begin IusCLScheduler.IusCLExecutionType.$shortDescription
+
+<i>IusCLScheduler.IusCLExecutionType.$shortDescription - not found.</i>
+
+End IusCLScheduler.IusCLExecutionType.$shortDescription
+-
+Begin IusCLScheduler.IusCLExecutionType.$etFixedDelay
+
+<i>IusCLScheduler.IusCLExecutionType.$etFixedDelay - not found.</i>
+
+End IusCLScheduler.IusCLExecutionType.$etFixedDelay
+-
+Begin IusCLScheduler.IusCLExecutionType.$etFixedRate
+
+<i>IusCLScheduler.IusCLExecutionType.$etFixedRate - not found.</i>
+
+End IusCLScheduler.IusCLExecutionType.$etFixedRate
+-
+Begin IusCLScheduler.$longDescription
+
+<i>IusCLScheduler.$longDescription - not found.</i>
+
+End IusCLScheduler.$longDescription
+-
+Begin IusCLControl.IusCLMouseButton.$shortDescription
+
+<i>IusCLControl.IusCLMouseButton.$shortDescription - not found.</i>
+
+End IusCLControl.IusCLMouseButton.$shortDescription
+-
+Begin IusCLControl.IusCLMouseButton.$mbLeft
+
+<i>IusCLControl.IusCLMouseButton.$mbLeft - not found.</i>
+
+End IusCLControl.IusCLMouseButton.$mbLeft
+-
+Begin IusCLControl.IusCLMouseButton.$mbRight
+
+<i>IusCLControl.IusCLMouseButton.$mbRight - not found.</i>
+
+End IusCLControl.IusCLMouseButton.$mbRight
+-
+Begin IusCLControl.IusCLMouseButton.$mbMiddle
+
+<i>IusCLControl.IusCLMouseButton.$mbMiddle - not found.</i>
+
+End IusCLControl.IusCLMouseButton.$mbMiddle
+-
+Begin IusCLControl.IusCLShiftState.$shortDescription
+
+<i>IusCLControl.IusCLShiftState.$shortDescription - not found.</i>
+
+End IusCLControl.IusCLShiftState.$shortDescription
+-
+Begin IusCLControl.IusCLShiftState.$ssShift
+
+<i>IusCLControl.IusCLShiftState.$ssShift - not found.</i>
+
+End IusCLControl.IusCLShiftState.$ssShift
+-
+Begin IusCLControl.IusCLShiftState.$ssAlt
+
+<i>IusCLControl.IusCLShiftState.$ssAlt - not found.</i>
+
+End IusCLControl.IusCLShiftState.$ssAlt
+-
+Begin IusCLControl.IusCLShiftState.$ssAltGr
+
+<i>IusCLControl.IusCLShiftState.$ssAltGr - not found.</i>
+
+End IusCLControl.IusCLShiftState.$ssAltGr
+-
+Begin IusCLControl.IusCLShiftState.$ssCtrl
+
+<i>IusCLControl.IusCLShiftState.$ssCtrl - not found.</i>
+
+End IusCLControl.IusCLShiftState.$ssCtrl
+-
+Begin IusCLControl.IusCLShiftState.$ssCmd
+
+<i>IusCLControl.IusCLShiftState.$ssCmd - not found.</i>
+
+End IusCLControl.IusCLShiftState.$ssCmd
+-
+Begin IusCLControl.IusCLShiftState.$ssMouseLeft
+
+<i>IusCLControl.IusCLShiftState.$ssMouseLeft - not found.</i>
+
+End IusCLControl.IusCLShiftState.$ssMouseLeft
+-
+Begin IusCLControl.IusCLShiftState.$ssMouseRight
+
+<i>IusCLControl.IusCLShiftState.$ssMouseRight - not found.</i>
+
+End IusCLControl.IusCLShiftState.$ssMouseRight
+-
+Begin IusCLControl.IusCLShiftState.$ssMouseMiddle
+
+<i>IusCLControl.IusCLShiftState.$ssMouseMiddle - not found.</i>
+
+End IusCLControl.IusCLShiftState.$ssMouseMiddle
+-
+Begin IusCLControl.IusCLShiftState.$ssMouseDouble
+
+<i>IusCLControl.IusCLShiftState.$ssMouseDouble - not found.</i>
+
+End IusCLControl.IusCLShiftState.$ssMouseDouble
+-
+Begin IusCLKeyboardKey.$shortDescription
+
+<i>IusCLKeyboardKey.$shortDescription - not found.</i>
+
+End IusCLKeyboardKey.$shortDescription
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$shortDescription
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$shortDescription - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$shortDescription
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkEsc
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkEsc - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkEsc
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF1
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF1 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF1
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF2
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF2 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF2
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF3
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF3 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF3
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF4
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF4 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF4
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF5
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF5 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF5
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF6
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF6 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF6
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF7
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF7 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF7
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF8
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF8 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF8
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF9
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF9 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF9
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF10
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF10 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF10
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF11
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF11 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF11
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF12
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF12 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF12
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF13
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF13 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF13
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF14
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF14 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF14
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF15
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF15 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF15
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF16
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF16 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF16
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF17
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF17 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF17
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF18
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF18 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF18
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF19
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF19 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF19
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkTab
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkTab - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkTab
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkCapsLock
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkCapsLock - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkCapsLock
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkBackspace
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkBackspace - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkBackspace
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkEnter
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkEnter - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkEnter
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vk1
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vk1 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vk1
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vk2
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vk2 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vk2
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vk3
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vk3 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vk3
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vk4
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vk4 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vk4
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vk5
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vk5 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vk5
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vk6
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vk6 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vk6
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vk7
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vk7 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vk7
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vk8
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vk8 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vk8
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vk9
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vk9 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vk9
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vk0
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vk0 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vk0
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkA
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkA - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkA
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkB
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkB - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkB
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkC
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkC - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkC
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkD
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkD - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkD
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkE
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkE - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkE
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkF
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkF - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkF
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkG
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkG - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkG
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkH
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkH - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkH
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkI
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkI - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkI
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkJ
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkJ - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkJ
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkK
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkK - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkK
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkL
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkL - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkL
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkM
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkM - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkM
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkN
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkN - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkN
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkO
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkO - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkO
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkP
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkP - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkP
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkQ
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkQ - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkQ
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkR
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkR - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkR
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkS
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkS - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkS
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkT
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkT - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkT
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkU
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkU - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkU
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkV
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkV - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkV
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkW
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkW - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkW
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkX
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkX - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkX
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkY
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkY - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkY
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkZ
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkZ - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkZ
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkShift
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkShift - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkShift
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkLeftShift
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkLeftShift - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkLeftShift
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkRightShift
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkRightShift - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkRightShift
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkCtrl
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkCtrl - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkCtrl
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkLeftCtrl
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkLeftCtrl - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkLeftCtrl
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkRightCtrl
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkRightCtrl - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkRightCtrl
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkAlt
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkAlt - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkAlt
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkLeftAlt
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkLeftAlt - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkLeftAlt
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkRightAlt
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkRightAlt - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkRightAlt
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkCmd
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkCmd - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkCmd
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkLeftCmd
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkLeftCmd - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkLeftCmd
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkRightCmd
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkRightCmd - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkRightCmd
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkInsert
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkInsert - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkInsert
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkDel
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkDel - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkDel
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkHome
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkHome - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkHome
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkEnd
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkEnd - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkEnd
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkPageUp
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkPageUp - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkPageUp
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkPageDown
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkPageDown - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkPageDown
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkArrowLeft
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkArrowLeft - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkArrowLeft
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkArrowUp
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkArrowUp - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkArrowUp
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkArrowDown
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkArrowDown - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkArrowDown
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkArrowRigth
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkArrowRigth - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkArrowRigth
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumLock
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumLock - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumLock
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadEqual
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadEqual - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadEqual
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadEnter
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadEnter - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadEnter
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadDecimal
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadDecimal - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadDecimal
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadDivide
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadDivide - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadDivide
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadMultiply
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadMultiply - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadMultiply
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadSubstract
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadSubstract - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadSubstract
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadAdd
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadAdd - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPadAdd
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad1
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad1 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad1
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad2
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad2 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad2
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad3
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad3 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad3
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad4
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad4 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad4
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad5
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad5 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad5
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad6
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad6 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad6
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad7
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad7 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad7
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad8
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad8 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad8
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad9
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad9 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad9
+-
+Begin IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad0
+
+<i>IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad0 - not found.</i>
+
+End IusCLKeyboardKey.IusCLStandardKeys.$vkNumPad0
+-
+Begin IusCLKeyboardKey.IusCLKeyPosition.$shortDescription
+
+<i>IusCLKeyboardKey.IusCLKeyPosition.$shortDescription - not found.</i>
+
+End IusCLKeyboardKey.IusCLKeyPosition.$shortDescription
+-
+Begin IusCLKeyboardKey.IusCLKeyPosition.$kpLeft
+
+<i>IusCLKeyboardKey.IusCLKeyPosition.$kpLeft - not found.</i>
+
+End IusCLKeyboardKey.IusCLKeyPosition.$kpLeft
+-
+Begin IusCLKeyboardKey.IusCLKeyPosition.$kpRight
+
+<i>IusCLKeyboardKey.IusCLKeyPosition.$kpRight - not found.</i>
+
+End IusCLKeyboardKey.IusCLKeyPosition.$kpRight
+-
+Begin IusCLKeyboardKey.IusCLKeyPosition.$kpNumericPad
+
+<i>IusCLKeyboardKey.IusCLKeyPosition.$kpNumericPad - not found.</i>
+
+End IusCLKeyboardKey.IusCLKeyPosition.$kpNumericPad
+-
+Begin IusCLKeyboardKey.$longDescription
+
+<i>IusCLKeyboardKey.$longDescription - not found.</i>
+
+End IusCLKeyboardKey.$longDescription
+-
+Begin IusCLWinControl.IusCLBorderStyle.$shortDescription
+
+<i>IusCLWinControl.IusCLBorderStyle.$shortDescription - not found.</i>
+
+End IusCLWinControl.IusCLBorderStyle.$shortDescription
+-
+Begin IusCLWinControl.IusCLBorderStyle.$bsNone
+
+<i>IusCLWinControl.IusCLBorderStyle.$bsNone - not found.</i>
+
+End IusCLWinControl.IusCLBorderStyle.$bsNone
+-
+Begin IusCLWinControl.IusCLBorderStyle.$bsSingle
+
+<i>IusCLWinControl.IusCLBorderStyle.$bsSingle - not found.</i>
+
+End IusCLWinControl.IusCLBorderStyle.$bsSingle
+-
+Begin IusCLWinControl.IusCLKeyPosition.$shortDescription
+
+<i>IusCLWinControl.IusCLKeyPosition.$shortDescription - not found.</i>
+
+End IusCLWinControl.IusCLKeyPosition.$shortDescription
+-
+Begin IusCLWinControl.IusCLKeyPosition.$kpLeft
+
+<i>IusCLWinControl.IusCLKeyPosition.$kpLeft - not found.</i>
+
+End IusCLWinControl.IusCLKeyPosition.$kpLeft
+-
+Begin IusCLWinControl.IusCLKeyPosition.$kpRight
+
+<i>IusCLWinControl.IusCLKeyPosition.$kpRight - not found.</i>
+
+End IusCLWinControl.IusCLKeyPosition.$kpRight
+-
+Begin IusCLWinControl.IusCLKeyPosition.$kpNumericPad
+
+<i>IusCLWinControl.IusCLKeyPosition.$kpNumericPad - not found.</i>
+
+End IusCLWinControl.IusCLKeyPosition.$kpNumericPad
+-
+Begin IusCLContextPopupEvent.$shortDescription
+
+<i>IusCLContextPopupEvent.$shortDescription - not found.</i>
+
+End IusCLContextPopupEvent.$shortDescription
+-
+Begin IusCLContextPopupEvent.$longDescription
+
+<i>IusCLContextPopupEvent.$longDescription - not found.</i>
+
+End IusCLContextPopupEvent.$longDescription
+-
+Begin IusCLKeyEvent.$shortDescription
+
+<i>IusCLKeyEvent.$shortDescription - not found.</i>
+
+End IusCLKeyEvent.$shortDescription
+-
+Begin IusCLKeyEvent.$longDescription
+
+<i>IusCLKeyEvent.$longDescription - not found.</i>
+
+End IusCLKeyEvent.$longDescription
+-
+Begin IusCLKeyPressEvent.$shortDescription
+
+<i>IusCLKeyPressEvent.$shortDescription - not found.</i>
+
+End IusCLKeyPressEvent.$shortDescription
+-
+Begin IusCLKeyPressEvent.$longDescription
+
+<i>IusCLKeyPressEvent.$longDescription - not found.</i>
+
+End IusCLKeyPressEvent.$longDescription
+-
+Begin IusCLMouseHoverEvent.$shortDescription
+
+<i>IusCLMouseHoverEvent.$shortDescription - not found.</i>
+
+End IusCLMouseHoverEvent.$shortDescription
+-
+Begin IusCLMouseHoverEvent.$longDescription
+
+<i>IusCLMouseHoverEvent.$longDescription - not found.</i>
+
+End IusCLMouseHoverEvent.$longDescription
+-
+Begin IusCLMouseMoveEvent.$shortDescription
+
+<i>IusCLMouseMoveEvent.$shortDescription - not found.</i>
+
+End IusCLMouseMoveEvent.$shortDescription
+-
+Begin IusCLMouseMoveEvent.$longDescription
+
+<i>IusCLMouseMoveEvent.$longDescription - not found.</i>
+
+End IusCLMouseMoveEvent.$longDescription
+-
+Begin IusCLMouseWheelEvent.$shortDescription
+
+<i>IusCLMouseWheelEvent.$shortDescription - not found.</i>
+
+End IusCLMouseWheelEvent.$shortDescription
+-
+Begin IusCLMouseWheelEvent.$longDescription
+
+<i>IusCLMouseWheelEvent.$longDescription - not found.</i>
+
+End IusCLMouseWheelEvent.$longDescription
+-
+Begin IusCLMouseWheelUpDownEvent.$shortDescription
+
+<i>IusCLMouseWheelUpDownEvent.$shortDescription - not found.</i>
+
+End IusCLMouseWheelUpDownEvent.$shortDescription
+-
+Begin IusCLMouseWheelUpDownEvent.$longDescription
+
+<i>IusCLMouseWheelUpDownEvent.$longDescription - not found.</i>
+
+End IusCLMouseWheelUpDownEvent.$longDescription
+-
+Begin IusCLPaintBox.$shortDescription
+
+<i>IusCLPaintBox.$shortDescription - not found.</i>
+
+End IusCLPaintBox.$shortDescription
+-
+Begin IusCLPaintBox.$longDescription
+
+<i>IusCLPaintBox.$longDescription - not found.</i>
+
+End IusCLPaintBox.$longDescription
+-
+Begin IusCLCheckBox.IusCLLeftRight.$shortDescription
+
+<i>IusCLCheckBox.IusCLLeftRight.$shortDescription - not found.</i>
+
+End IusCLCheckBox.IusCLLeftRight.$shortDescription
+-
+Begin IusCLCheckBox.IusCLLeftRight.$taLeftJustify
+
+<i>IusCLCheckBox.IusCLLeftRight.$taLeftJustify - not found.</i>
+
+End IusCLCheckBox.IusCLLeftRight.$taLeftJustify
+-
+Begin IusCLCheckBox.IusCLLeftRight.$taRightJustify
+
+<i>IusCLCheckBox.IusCLLeftRight.$taRightJustify - not found.</i>
+
+End IusCLCheckBox.IusCLLeftRight.$taRightJustify
+-
+Begin IusCLLabel.IusCLAlignment.$shortDescription
+
+<i>IusCLLabel.IusCLAlignment.$shortDescription - not found.</i>
+
+End IusCLLabel.IusCLAlignment.$shortDescription
+-
+Begin IusCLLabel.IusCLAlignment.$taLeftJustify
+
+<i>IusCLLabel.IusCLAlignment.$taLeftJustify - not found.</i>
+
+End IusCLLabel.IusCLAlignment.$taLeftJustify
+-
+Begin IusCLLabel.IusCLAlignment.$taRightJustify
+
+<i>IusCLLabel.IusCLAlignment.$taRightJustify - not found.</i>
+
+End IusCLLabel.IusCLAlignment.$taRightJustify
+-
+Begin IusCLLabel.IusCLAlignment.$taCenter
+
+<i>IusCLLabel.IusCLAlignment.$taCenter - not found.</i>
+
+End IusCLLabel.IusCLAlignment.$taCenter
+-
+Begin IusCLShape.IusCLShapeType.$shortDescription
+
+<i>IusCLShape.IusCLShapeType.$shortDescription - not found.</i>
+
+End IusCLShape.IusCLShapeType.$shortDescription
+-
+Begin IusCLShape.IusCLShapeType.$stRectangle
+
+<i>IusCLShape.IusCLShapeType.$stRectangle - not found.</i>
+
+End IusCLShape.IusCLShapeType.$stRectangle
+-
+Begin IusCLShape.IusCLShapeType.$stSquare
+
+<i>IusCLShape.IusCLShapeType.$stSquare - not found.</i>
+
+End IusCLShape.IusCLShapeType.$stSquare
+-
+Begin IusCLShape.IusCLShapeType.$stRoundRect
+
+<i>IusCLShape.IusCLShapeType.$stRoundRect - not found.</i>
+
+End IusCLShape.IusCLShapeType.$stRoundRect
+-
+Begin IusCLShape.IusCLShapeType.$stRoundSquare
+
+<i>IusCLShape.IusCLShapeType.$stRoundSquare - not found.</i>
+
+End IusCLShape.IusCLShapeType.$stRoundSquare
+-
+Begin IusCLShape.IusCLShapeType.$stEllipse
+
+<i>IusCLShape.IusCLShapeType.$stEllipse - not found.</i>
+
+End IusCLShape.IusCLShapeType.$stEllipse
+-
+Begin IusCLShape.IusCLShapeType.$stCircle
+
+<i>IusCLShape.IusCLShapeType.$stCircle - not found.</i>
+
+End IusCLShape.IusCLShapeType.$stCircle
+-
+Begin IusCLRectangle.$shortDescription
+
+<i>IusCLRectangle.$shortDescription - not found.</i>
+
+End IusCLRectangle.$shortDescription
+-
+Begin IusCLRectangle.$longDescription
+
+<i>IusCLRectangle.$longDescription - not found.</i>
+
+End IusCLRectangle.$longDescription
+-
+Begin IusCLBitButton.IusCLBitButtonKind.$shortDescription
+
+<i>IusCLBitButton.IusCLBitButtonKind.$shortDescription - not found.</i>
+
+End IusCLBitButton.IusCLBitButtonKind.$shortDescription
+-
+Begin IusCLBitButton.IusCLBitButtonKind.$bkCustom
+
+<i>IusCLBitButton.IusCLBitButtonKind.$bkCustom - not found.</i>
+
+End IusCLBitButton.IusCLBitButtonKind.$bkCustom
+-
+Begin IusCLBitButton.IusCLBitButtonKind.$bkOK
+
+<i>IusCLBitButton.IusCLBitButtonKind.$bkOK - not found.</i>
+
+End IusCLBitButton.IusCLBitButtonKind.$bkOK
+-
+Begin IusCLBitButton.IusCLBitButtonKind.$bkCancel
+
+<i>IusCLBitButton.IusCLBitButtonKind.$bkCancel - not found.</i>
+
+End IusCLBitButton.IusCLBitButtonKind.$bkCancel
+-
+Begin IusCLBitButton.IusCLBitButtonKind.$bkHelp
+
+<i>IusCLBitButton.IusCLBitButtonKind.$bkHelp - not found.</i>
+
+End IusCLBitButton.IusCLBitButtonKind.$bkHelp
+-
+Begin IusCLBitButton.IusCLBitButtonKind.$bkYes
+
+<i>IusCLBitButton.IusCLBitButtonKind.$bkYes - not found.</i>
+
+End IusCLBitButton.IusCLBitButtonKind.$bkYes
+-
+Begin IusCLBitButton.IusCLBitButtonKind.$bkNo
+
+<i>IusCLBitButton.IusCLBitButtonKind.$bkNo - not found.</i>
+
+End IusCLBitButton.IusCLBitButtonKind.$bkNo
+-
+Begin IusCLBitButton.IusCLBitButtonKind.$bkClose
+
+<i>IusCLBitButton.IusCLBitButtonKind.$bkClose - not found.</i>
+
+End IusCLBitButton.IusCLBitButtonKind.$bkClose
+-
+Begin IusCLBitButton.IusCLBitButtonKind.$bkAbort
+
+<i>IusCLBitButton.IusCLBitButtonKind.$bkAbort - not found.</i>
+
+End IusCLBitButton.IusCLBitButtonKind.$bkAbort
+-
+Begin IusCLBitButton.IusCLBitButtonKind.$bkRetry
+
+<i>IusCLBitButton.IusCLBitButtonKind.$bkRetry - not found.</i>
+
+End IusCLBitButton.IusCLBitButtonKind.$bkRetry
+-
+Begin IusCLBitButton.IusCLBitButtonKind.$bkIgnore
+
+<i>IusCLBitButton.IusCLBitButtonKind.$bkIgnore - not found.</i>
+
+End IusCLBitButton.IusCLBitButtonKind.$bkIgnore
+-
+Begin IusCLBitButton.IusCLBitButtonKind.$bkAll
+
+<i>IusCLBitButton.IusCLBitButtonKind.$bkAll - not found.</i>
+
+End IusCLBitButton.IusCLBitButtonKind.$bkAll
+-
+Begin IusCLProgressBar.IusCLProgressBarOrientation.$shortDescription
+
+<i>IusCLProgressBar.IusCLProgressBarOrientation.$shortDescription - not found.</i>
+
+End IusCLProgressBar.IusCLProgressBarOrientation.$shortDescription
+-
+Begin IusCLProgressBar.IusCLProgressBarOrientation.$pbHorizontal
+
+<i>IusCLProgressBar.IusCLProgressBarOrientation.$pbHorizontal - not found.</i>
+
+End IusCLProgressBar.IusCLProgressBarOrientation.$pbHorizontal
+-
+Begin IusCLProgressBar.IusCLProgressBarOrientation.$pbVertical
+
+<i>IusCLProgressBar.IusCLProgressBarOrientation.$pbVertical - not found.</i>
+
+End IusCLProgressBar.IusCLProgressBarOrientation.$pbVertical
+-
+Begin IusCLProgressBar.IusCLProgressBarState.$shortDescription
+
+<i>IusCLProgressBar.IusCLProgressBarState.$shortDescription - not found.</i>
+
+End IusCLProgressBar.IusCLProgressBarState.$shortDescription
+-
+Begin IusCLProgressBar.IusCLProgressBarState.$psNormal
+
+<i>IusCLProgressBar.IusCLProgressBarState.$psNormal - not found.</i>
+
+End IusCLProgressBar.IusCLProgressBarState.$psNormal
+-
+Begin IusCLProgressBar.IusCLProgressBarState.$psError
+
+<i>IusCLProgressBar.IusCLProgressBarState.$psError - not found.</i>
+
+End IusCLProgressBar.IusCLProgressBarState.$psError
+-
+Begin IusCLProgressBar.IusCLProgressBarState.$psPause
+
+<i>IusCLProgressBar.IusCLProgressBarState.$psPause - not found.</i>
+
+End IusCLProgressBar.IusCLProgressBarState.$psPause
+-
+Begin IusCLListColumn.IusCLListColumnAlignment.$shortDescription
+
+<i>IusCLListColumn.IusCLListColumnAlignment.$shortDescription - not found.</i>
+
+End IusCLListColumn.IusCLListColumnAlignment.$shortDescription
+-
+Begin IusCLListColumn.IusCLListColumnAlignment.$caLeftJustify
+
+<i>IusCLListColumn.IusCLListColumnAlignment.$caLeftJustify - not found.</i>
+
+End IusCLListColumn.IusCLListColumnAlignment.$caLeftJustify
+-
+Begin IusCLListColumn.IusCLListColumnAlignment.$caRightJustify
+
+<i>IusCLListColumn.IusCLListColumnAlignment.$caRightJustify - not found.</i>
+
+End IusCLListColumn.IusCLListColumnAlignment.$caRightJustify
+-
+Begin IusCLListColumn.IusCLListColumnAlignment.$caCenter
+
+<i>IusCLListColumn.IusCLListColumnAlignment.$caCenter - not found.</i>
+
+End IusCLListColumn.IusCLListColumnAlignment.$caCenter
+-
+Begin IusCLTrackBar.IusCLTrackBarOrientation.$shortDescription
+
+<i>IusCLTrackBar.IusCLTrackBarOrientation.$shortDescription - not found.</i>
+
+End IusCLTrackBar.IusCLTrackBarOrientation.$shortDescription
+-
+Begin IusCLTrackBar.IusCLTrackBarOrientation.$trHorizontal
+
+<i>IusCLTrackBar.IusCLTrackBarOrientation.$trHorizontal - not found.</i>
+
+End IusCLTrackBar.IusCLTrackBarOrientation.$trHorizontal
+-
+Begin IusCLTrackBar.IusCLTrackBarOrientation.$trVertical
+
+<i>IusCLTrackBar.IusCLTrackBarOrientation.$trVertical - not found.</i>
+
+End IusCLTrackBar.IusCLTrackBarOrientation.$trVertical
+-
+Begin IusCLScrollEvent.$shortDescription
+
+<i>IusCLScrollEvent.$shortDescription - not found.</i>
+
+End IusCLScrollEvent.$shortDescription
+-
+Begin IusCLScrollEvent.$longDescription
+
+<i>IusCLScrollEvent.$longDescription - not found.</i>
+
+End IusCLScrollEvent.$longDescription
+-
+Begin IusCLTreeViewCollapsedEvent.$shortDescription
+
+<i>IusCLTreeViewCollapsedEvent.$shortDescription - not found.</i>
+
+End IusCLTreeViewCollapsedEvent.$shortDescription
+-
+Begin IusCLTreeViewCollapsedEvent.$longDescription
+
+<i>IusCLTreeViewCollapsedEvent.$longDescription - not found.</i>
+
+End IusCLTreeViewCollapsedEvent.$longDescription
+-
+Begin IusCLTreeViewExpandedEvent.$shortDescription
+
+<i>IusCLTreeViewExpandedEvent.$shortDescription - not found.</i>
+
+End IusCLTreeViewExpandedEvent.$shortDescription
+-
+Begin IusCLTreeViewExpandedEvent.$longDescription
+
+<i>IusCLTreeViewExpandedEvent.$longDescription - not found.</i>
+
+End IusCLTreeViewExpandedEvent.$longDescription
+-
+Begin IusCLMenuItem.IusCLMenuItemType.$shortDescription
+
+<i>IusCLMenuItem.IusCLMenuItemType.$shortDescription - not found.</i>
+
+End IusCLMenuItem.IusCLMenuItemType.$shortDescription
+-
+Begin IusCLMenuItem.IusCLMenuItemType.$itNormal
+
+<i>IusCLMenuItem.IusCLMenuItemType.$itNormal - not found.</i>
+
+End IusCLMenuItem.IusCLMenuItemType.$itNormal
+-
+Begin IusCLMenuItem.IusCLMenuItemType.$itRadio
+
+<i>IusCLMenuItem.IusCLMenuItemType.$itRadio - not found.</i>
+
+End IusCLMenuItem.IusCLMenuItemType.$itRadio
+-
+Begin IusCLMenuItem.IusCLMenuItemType.$itCheck
+
+<i>IusCLMenuItem.IusCLMenuItemType.$itCheck - not found.</i>
+
+End IusCLMenuItem.IusCLMenuItemType.$itCheck
+-
+Begin IusCLMenuItem.IusCLMenuItemType.$itSeparator
+
+<i>IusCLMenuItem.IusCLMenuItemType.$itSeparator - not found.</i>
+
+End IusCLMenuItem.IusCLMenuItemType.$itSeparator
+-
+Begin IusCLComboBox.IusCLComboBoxStyle.$shortDescription
+
+<i>IusCLComboBox.IusCLComboBoxStyle.$shortDescription - not found.</i>
+
+End IusCLComboBox.IusCLComboBoxStyle.$shortDescription
+-
+Begin IusCLComboBox.IusCLComboBoxStyle.$csDropDown
+
+<i>IusCLComboBox.IusCLComboBoxStyle.$csDropDown - not found.</i>
+
+End IusCLComboBox.IusCLComboBoxStyle.$csDropDown
+-
+Begin IusCLComboBox.IusCLComboBoxStyle.$csSimple
+
+<i>IusCLComboBox.IusCLComboBoxStyle.$csSimple - not found.</i>
+
+End IusCLComboBox.IusCLComboBoxStyle.$csSimple
+-
+Begin IusCLComboBox.IusCLComboBoxStyle.$csDropDownList
+
+<i>IusCLComboBox.IusCLComboBoxStyle.$csDropDownList - not found.</i>
+
+End IusCLComboBox.IusCLComboBoxStyle.$csDropDownList
+-
+Begin IusCLScrollBar.IusCLScrollCode.$shortDescription
+
+<i>IusCLScrollBar.IusCLScrollCode.$shortDescription - not found.</i>
+
+End IusCLScrollBar.IusCLScrollCode.$shortDescription
+-
+Begin IusCLScrollBar.IusCLScrollCode.$scLineUp
+
+<i>IusCLScrollBar.IusCLScrollCode.$scLineUp - not found.</i>
+
+End IusCLScrollBar.IusCLScrollCode.$scLineUp
+-
+Begin IusCLScrollBar.IusCLScrollCode.$scLineDown
+
+<i>IusCLScrollBar.IusCLScrollCode.$scLineDown - not found.</i>
+
+End IusCLScrollBar.IusCLScrollCode.$scLineDown
+-
+Begin IusCLScrollBar.IusCLScrollCode.$scPageUp
+
+<i>IusCLScrollBar.IusCLScrollCode.$scPageUp - not found.</i>
+
+End IusCLScrollBar.IusCLScrollCode.$scPageUp
+-
+Begin IusCLScrollBar.IusCLScrollCode.$scPageDown
+
+<i>IusCLScrollBar.IusCLScrollCode.$scPageDown - not found.</i>
+
+End IusCLScrollBar.IusCLScrollCode.$scPageDown
+-
+Begin IusCLScrollBar.IusCLScrollCode.$scPosition
+
+<i>IusCLScrollBar.IusCLScrollCode.$scPosition - not found.</i>
+
+End IusCLScrollBar.IusCLScrollCode.$scPosition
+-
+Begin IusCLScrollBar.IusCLScrollCode.$scTrack
+
+<i>IusCLScrollBar.IusCLScrollCode.$scTrack - not found.</i>
+
+End IusCLScrollBar.IusCLScrollCode.$scTrack
+-
+Begin IusCLScrollBar.IusCLScrollCode.$scTop
+
+<i>IusCLScrollBar.IusCLScrollCode.$scTop - not found.</i>
+
+End IusCLScrollBar.IusCLScrollCode.$scTop
+-
+Begin IusCLScrollBar.IusCLScrollCode.$scBottom
+
+<i>IusCLScrollBar.IusCLScrollCode.$scBottom - not found.</i>
+
+End IusCLScrollBar.IusCLScrollCode.$scBottom
+-
+Begin IusCLScrollBar.IusCLScrollCode.$scEndScroll
+
+<i>IusCLScrollBar.IusCLScrollCode.$scEndScroll - not found.</i>
+
+End IusCLScrollBar.IusCLScrollCode.$scEndScroll
+-
+Begin IusCLToolButton.IusCLToolButtonStyle.$tbsRadio
+
+<i>IusCLToolButton.IusCLToolButtonStyle.$tbsRadio - not found.</i>
+
+End IusCLToolButton.IusCLToolButtonStyle.$tbsRadio
+-
+Begin IusCLMessageEvent.$shortDescription
+
+<i>IusCLMessageEvent.$shortDescription - not found.</i>
+
+End IusCLMessageEvent.$shortDescription
+-
+Begin IusCLMessageEvent.$longDescription
+
+<i>IusCLMessageEvent.$longDescription - not found.</i>
+
+End IusCLMessageEvent.$longDescription
+-
+Begin IusCLPasswordEdit.$shortDescription
+
+<i>IusCLPasswordEdit.$shortDescription - not found.</i>
+
+End IusCLPasswordEdit.$shortDescription
+-
+Begin IusCLPasswordEdit.$longDescription
+
+<i>IusCLPasswordEdit.$longDescription - not found.</i>
+
+End IusCLPasswordEdit.$longDescription
+-
+Begin IusCLApplicationEvents.$shortDescription
+
+<i>IusCLApplicationEvents.$shortDescription - not found.</i>
+
+End IusCLApplicationEvents.$shortDescription
+-
+Begin IusCLApplicationEvents.$longDescription
+
+<i>IusCLApplicationEvents.$longDescription - not found.</i>
+
+End IusCLApplicationEvents.$longDescription

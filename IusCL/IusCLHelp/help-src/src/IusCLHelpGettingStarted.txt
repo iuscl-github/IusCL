@@ -1,0 +1,30 @@
+-
+Begin gettingstartedTopic.$shortDescription
+
+<i>gettingstartedTopic.$shortDescription - not found.</i>
+
+End gettingstartedTopic.$shortDescription
+-
+Begin installverifyTopic.$shortDescription
+
+<i>installverifyTopic.$shortDescription - not found.</i>
+
+End installverifyTopic.$shortDescription
+-
+Begin beforeyouaskTopic.$question1
+
+<i>beforeyouaskTopic.$question1 - not found.</i>
+
+End beforeyouaskTopic.$question1
+-
+Begin beforeyouaskTopic.$answer1
+
+<i>beforeyouaskTopic.$answer1 - not found.</i>
+
+End beforeyouaskTopic.$answer1
+-
+Begin installverifyTopic.$installverifyContent
+
+IusCLInclude:IusCLHelp\help-src\gettingstarted\Install and Verify.doc.html
+
+End installverifyTopic.$installverifyContent

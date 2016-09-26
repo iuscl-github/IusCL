@@ -1,0 +1,31 @@
+-
+Begin samplesTopic.$shortDescription
+
+The samples will normally be located in the <b>samples</b> folder of the plug-in. The idea will be to have all functionalities in sample projects. If the samples are not in the installed plug-in, download them from SVN
+
+End samplesTopic.$shortDescription
+-
+Begin allComponentsTopic.$shortDescription
+
+This sample contains all the components from the <b>Usr</b> package. Is evolving in the same way as the components
+
+End allComponentsTopic.$shortDescription
+-
+Begin allComponentsTopic.$about
+
+<b>AllComponents</b> sample project can be found in the <b>samples</b> folder of the plug-in.
+
+End allComponentsTopic.$about
+-
+Begin allPdfTopic.$shortDescription
+
+This sample contains all the components from the <b>Pdf</b> package. Is evolving in the same way as the components
+
+End allPdfTopic.$shortDescription
+-
+Begin allPdfTopic.$about
+
+<b>AllPdf</b> sample project can be found in the <b>samples</b> folder of the plug-in.<br>
+The reason that there are special package/sample project for Pdf is to prevent in the future any issues with <i>iText</i>. If <i>iText</i> will no longer be free to be distributed in open source projects, then the IusCL <b>Pdf</b> package will be simply not distributed either.
+
+End allPdfTopic.$about

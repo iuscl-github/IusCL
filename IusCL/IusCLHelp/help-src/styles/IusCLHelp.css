@@ -1,0 +1,182 @@
+/* ****************************************************************************************************
+IusCL - http://iuscl.org
+
+This software is distributed under the terms of: 
+Eclipse Public License v1.0 - http://www.eclipse.org/org/documents/epl-v10.html
+**************************************************************************************************** */
+
+body,td,th {
+	font: message-box;
+	/* font-size: 11px; */
+	color: #000000;
+}
+
+body {
+	background-color: #FFFFFF;
+	margin-left: 8px;
+	margin-top: 8px;
+	margin-right: 8px;
+	margin-bottom: 8px;
+}
+
+img { 
+	border: none; 
+}
+
+a:link {
+	color: #008000;
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #008000;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:active {
+	text-decoration: none;
+}
+
+.sbody {
+	width: 640px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.stitleimage {
+	width: 640px;
+}
+
+.stitle {
+	font-weight: bold; 
+	font-size: 20px;
+	padding-top: 8px;
+	padding-bottom: 4px;
+}
+
+.scategoryonbar {
+	float: left;
+	width: 106px;
+	padding-bottom: 2px; 
+}
+
+.shierarchy {
+	z-index: 1; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	width: 250px; 
+	display: none;
+}
+
+.shierarchyshadow {
+	position: relative;
+  	bottom: 6px;
+  	right: 6px;
+  	background-image: url("../images/userguide/IusCLHelpShadow.gif");
+    background-repeat: repeat;
+}
+
+.shierarchycontent {
+	position: relative;
+  	bottom: 6px;
+  	right: 6px;
+  	padding: 8px;
+	border: black 1px solid; 
+	background-color: #FFFFE2; 
+}
+
+.sclassname {
+	padding-top: 6px; 
+	width: 250px; 
+	padding-bottom: 6px; 
+}
+
+.sclassnameshadow {
+	position: relative;
+  	bottom: 4px;
+  	right: 4px;
+  	background-image: url("../images/IusCLHelpShadow.gif");
+    background-repeat: repeat;
+}
+
+.sclassnamecontent {
+	position: relative;
+  	bottom: 4px;
+  	right: 4px;
+  	padding: 8px;
+	border: black 1px solid; 
+	background-color: #FFFFE2; 
+}
+
+.scontent {
+	padding-bottom: 16px;
+	text-align: justify;
+}
+
+.sdescription {
+	clear: both;
+	border-top-style: solid;
+	border-top-color: #000;
+	border-top-width: 1px;
+	padding-top: 4px;
+	padding-bottom: 16px; 
+	text-align: justify;
+}
+
+.sheader {
+	padding-bottom: 4px; 
+	font-weight: bold;
+}
+
+.swarning {
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.scategory {
+	padding-left: 8px; 
+	padding-right: 8px; 
+	background-color: #C0C0C0; 
+	padding-top: 4px; 
+	padding-bottom: 4px; 
+	font-weight: bold;
+}
+
+.slist {
+	padding-left: 8px; 
+	padding-right: 8px; 
+	padding-top: 16px; 
+	padding-bottom: 4px; 
+	font-weight: bold;
+}
+
+.ssubtitle {
+	padding-bottom: 2px; 
+}
+
+.ssubtitlecontent {
+	border-top-style: solid;
+	border-top-color: #000;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+	border-bottom-width: 1px;
+	padding-left: 8px; 
+	background-color: #FFFFFF; 
+}
+
+.slistbox {
+	padding-left: 8px; 
+	padding-right: 8px; 
+	background-color: #FFFFE2;
+}
+
+.sjavacode {
+	font-family: "Consolas";
+	padding-bottom: 16px;
+}
