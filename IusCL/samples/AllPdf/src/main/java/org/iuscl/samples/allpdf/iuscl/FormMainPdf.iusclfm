@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <Caption>FormMainPdf Caption</Caption>
+  <ClientHeight>604</ClientHeight>
+  <ClientWidth>784</ClientWidth>
+  <Height>643</Height>
+  <Left>560</Left>
+  <Name>formMainPdf</Name>
+  <Position>poScreenCenter</Position>
+  <Top>198</Top>
+  <object name="buttonPrint">
+    <Caption>Print</Caption>
+    <Height>49</Height>
+    <Left>40</Left>
+    <Name>buttonPrint</Name>
+    <OnClick>buttonPrintClick</OnClick>
+    <TabOrder>0</TabOrder>
+    <Top>40</Top>
+    <Width>105</Width>
+  </object>
+  <object name="fileNameLabel">
+    <Caption></Caption>
+    <Font.Size>11</Font.Size>
+    <Height>20</Height>
+    <Left>40</Left>
+    <Name>fileNameLabel</Name>
+    <ParentFont>false</ParentFont>
+    <TabOrder>1</TabOrder>
+    <Top>96</Top>
+  </object>
+  <object name="pdfDocument">
+    <Author>*le me</Author>
+    <Creator>*the moi</Creator>
+    <HeaderText>Header text</HeaderText>
+    <Name>pdfDocument</Name>
+    <Subject>sujet</Subject>
+    <Title>titre</Title>
+  </object>
+  <object name="pdfText">
+    <Name>pdfText</Name>
+    <PdfDocument>pdfDocument</PdfDocument>
+    <Text>FormMainPdf/pdfText_Text.txt</Text>
+  </object>
+  <object name="pdfImage">
+    <Image>FormMainPdf/pdfImage_Image.jpg</Image>
+    <ImageAlignment>iaCenter</ImageAlignment>
+    <Name>pdfImage</Name>
+    <PdfDocument>pdfDocument</PdfDocument>
+  </object>
+  <object name="pdfSaveDialog">
+    <Filter>PDF files (*.pdf)|*.pdf|All files (*.*)|*.*</Filter>
+    <Name>pdfSaveDialog</Name>
+    <Title>Save PDF document</Title>
+  </object>
+</object>
+
