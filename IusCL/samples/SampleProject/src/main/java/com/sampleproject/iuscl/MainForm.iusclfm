@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <Caption>Caption of the main Form</Caption>
+  <ClientHeight>601</ClientHeight>
+  <ClientWidth>784</ClientWidth>
+  <Left>560</Left>
+  <Name>mainForm</Name>
+  <Position>poScreenCenter</Position>
+  <Top>200</Top>
+  <object name="firstButton">
+    <Caption>First Button</Caption>
+    <Height>33</Height>
+    <Left>16</Left>
+    <Name>firstButton</Name>
+    <OnClick>firstButtonClick</OnClick>
+    <TabOrder>0</TabOrder>
+    <Top>16</Top>
+    <Width>153</Width>
+  </object>
+</object>
+
