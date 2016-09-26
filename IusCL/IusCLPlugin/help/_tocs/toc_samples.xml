@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<toc label="Samples" link_to="help\_tocs\toc_userguide.xml#samples" topic="help\samples\samples.html">
+  <topic label="AllComponents" href="help\samples\allcomponents.html" />
+  <topic label="AllPdf" href="help\samples\allpdf.html" />
+</toc>
+

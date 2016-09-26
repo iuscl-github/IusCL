@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.views">
+      <category
+            name="IusCL"
+            id="org.iuscl.plugin.category">
+      </category>
+      <view
+            category="org.iuscl.plugin.category"
+            class="org.iuscl.plugin.views.IusCLObjectTreeViewView"
+            icon="resources/images/IusCLComponentTreeView.gif"
+            id="org.iuscl.plugin.views.IusCLObjectTreeViewView"
+            name="Object TreeView">
+      </view>
+      <view
+            category="org.iuscl.plugin.category"
+            class="org.iuscl.plugin.views.IusCLObjectInspectorView"
+            icon="resources/images/IusCLComponentInspectorView.gif"
+            id="org.iuscl.plugin.views.IusCLObjectInspectorView"
+            name="Object Inspector">
+      </view>
+      <view
+            category="org.iuscl.plugin.category"
+            class="org.iuscl.plugin.views.IusCLComponentPaletteView"
+            icon="resources/images/IusCLComponentPaletteView.gif"
+            id="org.iuscl.plugin.views.IusCLComponentPaletteView"
+            name="Component Palette">
+      </view>
+   </extension>
+   <extension
+         point="org.eclipse.ui.perspectives">
+      <perspective
+            class="org.iuscl.plugin.perspectives.IusCLPerspective"
+            icon="resources/images/IusCLPerspective.gif"
+            id="org.iuscl.plugin.perspectives.IusCLPerspective"
+            name="IusCL IDE">
+      </perspective>
+   </extension>
+   <extension
+         point="org.eclipse.ui.editors">
+      <editor
+      		default="true"
+            class="org.iuscl.plugin.editors.IusCLFormDesignEditor"
+            contributorClass="org.iuscl.plugin.editors.IusCLFormDesignEditorContributor"
+            extensions="iusclfm"
+            icon="resources/images/IusCLFormDesignEditor.gif"
+            name="IusCL Form Editor"
+            id="org.iuscl.plugin.editors.IusCLFormDesignEditor">
+      </editor>
+   </extension>
+	<extension
+		point="org.eclipse.core.contenttype.contentTypes">
+		<file-association
+			content-type="org.eclipse.core.runtime.xml"
+			file-extensions="iusclfm">
+		</file-association>
+	</extension>
+ <extension
+       point="org.eclipse.ui.newWizards">
+    <category
+          id="org.iuscl.plugin.ide"
+          name="IusCL">
+    </category>
+    <wizard
+          category="org.iuscl.plugin.ide"
+          class="org.iuscl.plugin.ide.wizards.IusCLNewFormWizard"
+          icon="resources/images/IusCLFormDesignWizardNew.gif"
+          id="org.iuscl.plugin.ide.wizards.IusCLNewFormWizard"
+          name="IusCL Form">
+    </wizard>
+    <wizard
+          category="org.iuscl.plugin.ide"
+          class="org.iuscl.plugin.ide.wizards.IusCLNewApplicationWizard"
+          icon="resources/images/IusCLApplicationDesignWizardNew.gif"
+          id="org.iuscl.plugin.ide.wizards.IusCLNewApplicationWizard"
+          name="IusCL Application"
+          project="true">
+    </wizard>
+ </extension>
+ <extension
+       point="org.eclipse.ui.preferencePages">
+    <page
+          class="org.iuscl.plugin.preferences.IusCLPreferencePage"
+          id="org.iuscl.plugin.preferences.IusCLPreferencePage"
+          name="IusCL">
+    </page>
+ </extension>
+ <extension
+       point="org.eclipse.core.runtime.preferences">
+    <initializer
+          class="org.iuscl.plugin.preferences.IusCLDesignOptions">
+    </initializer>
+ </extension>
+ <!--
+ <extension
+		id="org.iuscl.plugin.dynamichelp"
+    	name="IusCL Dynamic Help"
+    	point="org.eclipse.help.contentProducer">
+	<contentProducer producer="org.iuscl.plugin.dynamichelp.IusCLDynamicHelp"/>
+ </extension>
+ -->
+ <extension
+       point="org.eclipse.help.toc">
+    <toc
+          file="help/_tocs/toc_userguide.xml"
+          primary="true">
+    </toc>
+    <toc
+          file="help/_tocs/toc_concepts.xml">
+    </toc>
+    <toc
+          file="help/_tocs/toc_gettingstarted.xml">
+    </toc>
+    <toc
+          file="help/_tocs/toc_reference.xml">
+    </toc>
+    <toc
+          file="help/_tocs/toc_samples.xml">
+    </toc>
+    <toc
+          file="help/_tocs/toc_tasks.xml">
+    </toc>
+ </extension>
+ <extension
+       point="org.eclipse.help.index">
+       <index file="help/_indexes/index_reference.xml"/>
+ </extension>
+ <extension
+       point="org.eclipse.ui.actionSets">
+    <actionSet
+          id="org.iuscl.ide.actionSet"
+          label="IusCL Action Set"
+          visible="true">
+       <menu
+             id="ideMenu"
+             label="IusCL">
+          <separator
+                name="ideOptionsMenuGroup">
+          </separator>
+          <separator
+                name="ideDeployMenuGroup">
+          </separator>
+       </menu>
+              <!--
+             toolbarPath="ideGroup"
+              -->
+       <action
+             class="org.iuscl.plugin.actions.IusCLApplicationFormsAction"
+             icon="resources/images/IusCLFormDesignEditor.gif"
+             id="org.iuscl.plugin.actions.IusCLApplicationFormsAction"
+             label="Forms"
+             menubarPath="ideMenu/ideOptionsMenuGroup"
+             tooltip="Application forms">
+       </action>
+       <action
+             class="org.iuscl.plugin.actions.IusCLApplicationOptionsAction"
+             icon="resources/images/IusCLApplicationDesignEditor.gif"
+             id="org.iuscl.plugin.actions.IusCLApplicationOptionsAction"
+             label="Application"
+             menubarPath="ideMenu/ideOptionsMenuGroup"
+             tooltip="Application options">
+       </action>
+       <action
+             class="org.iuscl.plugin.actions.IusCLApplicationDeployAction"
+             icon="resources/images/IusCLPerspective.gif"
+             id="org.iuscl.plugin.actions.IusCLDeployAction"
+             label="Deploy application..."
+             menubarPath="ideMenu/ideDeployMenuGroup"
+             tooltip="Deploy active application...">
+       </action>
+    </actionSet>
+ </extension> 
+</plugin>

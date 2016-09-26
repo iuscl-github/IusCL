@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <Caption>${caption}</Caption>
+  <Height>${height}</Height>
+  <Left>${left}</Left>
+  <Name>${name}</Name>
+  <Top>${top}</Top>
+  <Width>${width}</Width>
+</object>

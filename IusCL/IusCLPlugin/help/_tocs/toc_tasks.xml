@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<toc label="Tasks" link_to="help\_tocs\toc_userguide.xml#tasks" topic="help\tasks\tasks.html">
+  <topic label="Bug reporting" href="help\tasks\bugreport.html" />
+</toc>
+

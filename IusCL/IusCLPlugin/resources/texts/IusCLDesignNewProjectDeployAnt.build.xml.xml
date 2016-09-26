@@ -1,0 +1,102 @@
+<!-- ****************************************************************************************************
+IusCL - http://iuscl.org
+ 
+This software is distributed under the terms of: 
+Eclipse Public License v1.0 - http://www.eclipse.org/org/documents/epl-v10.html
+***************************************************************************************************** -->
+
+<project name="DeployIusCL" default="deploy">
+
+	<!-- ***************************************************************************************************** -->
+
+	<!--
+	<property name="project.name" value="REPLACED_FROM_CODE"/>
+	<property name="project.jar.prefix" value="REPLACED_FROM_CODE"/>
+	<property name="project.jar.mainclass" value="REPLACED_FROM_CODE"/>
+	
+	<property name="project.folder" value="REPLACED_FROM_CODE"/>
+    <property name="plugin.folder" value="REPLACED_FROM_CODE"/>
+    <property name="distribution.folder" value="REPLACED_FROM_CODE"/>
+	 -->
+	
+	<property name="project.jar.version" value="1.0.0"/>
+
+	<!-- ***************************************************************************************************** -->
+
+    <target name="deploy">
+    	
+    	<!-- distribution folder -->
+		<delete dir="${distribution.folder}"/>
+		<mkdir dir="${distribution.folder}"/>
+    	
+    	<!-- lib -->
+       	<copy todir="${distribution.folder}">
+   			<fileset dir="${project.folder}">
+   				<include name="lib/**/*"/>
+   				<include name="conf/**/*"/>
+   			</fileset>
+       	</copy>
+
+    	<!-- application jar -->
+		<mkdir dir="${distribution.folder}/lib/${project.jar.prefix}"/>
+
+    	<path id="classpath">
+    		<pathelement path="${distribution.folder}/conf"/>
+   			<fileset dir="${distribution.folder}/lib">
+   				<include name="**/*.jar"/>
+   			</fileset>
+    	</path>
+    	
+    	<manifestclasspath property="jar.classpath" jarfile="${distribution.folder}/lib/${project.jar.prefix}/${project.jar.prefix}-${project.jar.version}.jar">
+    		<classpath refid="classpath"/>
+    	</manifestclasspath>
+
+		<jar destfile="${distribution.folder}/lib/${project.jar.prefix}/${project.jar.prefix}-${project.jar.version}.jar">
+			
+			<manifest>
+				<attribute name="Implementation-Title" value="${project.jar.prefix}" />
+				<attribute name="Implementation-Vendor" value="IusCL application" />
+				<attribute name="Implementation-Version" value="${project.jar.version}" />
+				<attribute name="Main-Class" value="${project.jar.mainclass}"/>
+				<attribute name="Class-Path" value="${jar.classpath}"/>	
+	        </manifest>
+			
+			<fileset dir="${project.folder}/classes">
+				<include name="**/*"/>
+			</fileset>
+
+			<fileset dir="${project.folder}">
+				<include name="resources/**/*"/>
+			</fileset>
+		</jar>
+
+    	<!-- launcher exe -->
+       	<copy todir="${distribution.folder}">
+   			<fileset dir="${plugin.folder}/dist/application/tools/Launcher">
+   				<include name="Launcher.exe"/>
+   			</fileset>
+       	</copy>
+
+    	<move tofile="${distribution.folder}/${project.name}.exe" file="${distribution.folder}/Launcher.exe"/>
+    	
+    	<exec executable="${plugin.folder}/dist/application/tools/ResModifier/ResModifier.exe">
+    		<!-- <arg value='ui'/> -->
+    		<arg value='launcherFile="${distribution.folder}\${project.name}.exe"'/>
+			<arg value='iconFile="${project.folder}\resources\application\MAINICON.ico"'/>	
+    		<arg value='fileDescription="lib/${project.jar.prefix}/${project.jar.prefix}-${project.jar.version}.jar"'/>
+  		</exec>
+
+    	<!-- launcher conf -->
+       	<copy todir="${distribution.folder}">
+   			<fileset dir="${plugin.folder}/dist/application/tools/Launcher">
+   				<include name="Launcher.conf"/>
+   			</fileset>
+       	</copy>
+
+    	<move tofile="${distribution.folder}/${project.name}.conf" file="${distribution.folder}/Launcher.conf"/>
+
+	</target>
+	
+	<!-- ***************************************************************************************************** -->
+
+</project>

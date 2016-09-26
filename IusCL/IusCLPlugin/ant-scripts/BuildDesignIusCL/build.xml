@@ -1,0 +1,340 @@
+<!-- ****************************************************************************************************
+IusCL - http://iuscl.org
+ 
+This software is distributed under the terms of: 
+Eclipse Public License v1.0 - http://www.eclipse.org/org/documents/epl-v10.html
+***************************************************************************************************** -->
+<project name="BuildDesignIusCL" default="create">
+
+	<property name="home.folder" value="REPLACED_FROM_ANT_RUN"/>
+    <property name="plugin.folder" value="${home.folder}/IusCLPlugin"/>
+    
+	<property name="usr.package.folder" value="${home.folder}/IusCLRuntime"/>
+	<property name="usr.jar.version" value="1.0.3"/>
+	<property name="pdf.jar.version" value="1.0.3"/>
+
+	<property name="internet.package.folder" value="${home.folder}/IusCLInternet"/>
+	<property name="web.jar.version" value="1.0.2"/>
+	<property name="ym.jar.version" value="1.0.2"/>
+	<property name="rss.jar.version" value="1.0.2"/>
+
+	<!-- ***************************************************************************************************** -->
+    <target name="create">
+    	
+    	<!-- Usr runtime jar, in dist lib to be used in an application project (and the application distribution) -->
+    	
+		<jar destfile="${plugin.folder}/dist/application/lib/iuscl-packages/usr/iuscl-usr-${usr.jar.version}.jar">
+			
+			<manifest>
+		      <attribute name="Implementation-Title" value="IusCL Usr Distribution Package" />
+	          <attribute name="Implementation-Vendor" value="IusCL.org" />
+	          <attribute name="Implementation-Version" value="${usr.jar.version}" />
+	        </manifest>
+			
+			<fileset dir="${usr.package.folder}/classes">
+				<include name="org/iuscl/**/*.class"/>
+				<include name="org/eclipse/swt/**/*.class"/>
+
+				<exclude name="org/iuscl/pdf/**/*"/>
+
+				<exclude name="org/iuscl/designintf/**/*"/>
+			</fileset>
+
+			<fileset dir="${usr.package.folder}/res/usr">
+				<include name="resources/**/*"/>
+
+				<exclude name="resources/designintf"/>
+				<exclude name="resources/designintf/**/*"/>
+			</fileset>
+			
+			<fileset dir="${usr.package.folder}">
+				<include name="conf/**/*.properties"/>
+			</fileset>
+
+			<fileset dir="${plugin.folder}">
+				<include name="META-INF/LICENSE.txt"/>
+			</fileset>
+
+		</jar>
+    	
+    	<!-- Usr design jar, in plugin lib to be used in Eclipse, contains design classes and design resources -->
+    	
+		<jar destfile="${plugin.folder}/lib/iuscl-design-packages/usr/iuscl-usr-design-${usr.jar.version}.jar">
+			
+			<manifest>
+		      <attribute name="Implementation-Title" value="IusCL Usr Design Package" />
+	          <attribute name="Implementation-Vendor" value="IusCL.org" />
+	          <attribute name="Implementation-Version" value="${usr.jar.version}" />
+	        </manifest>
+
+			<fileset dir="${usr.package.folder}/classes">
+				
+				<include name="org/iuscl/**/*.class"/>
+				<include name="org/eclipse/swt/**/*.class"/>
+				
+				<exclude name="org/iuscl/pdf/**/*"/>
+				<exclude name="org/iuscl/designintf/packages/IusCLDesignPackagePdf.class"/>
+			</fileset>
+
+			<fileset dir="${usr.package.folder}/res/usr">
+				<include name="resources/**/*"/>
+			</fileset>
+			
+			<fileset dir="${usr.package.folder}">
+				<include name="conf/**/*.properties"/>
+				
+				<!-- src -->
+				<include name="src/main/java/**/*.java"/>
+				
+				<exclude name="src/main/java/org/iuscl/pdf/**/*"/>
+				<exclude name="src/main/java/org/iuscl/designintf/packages/IusCLDesignPackagePdf.java"/>
+			</fileset>
+
+			<fileset dir="${plugin.folder}">
+				<include name="META-INF/LICENSE.txt"/>
+			</fileset>
+
+		</jar>
+    	
+       	<copy todir="${internet.package.folder}/lib/iuscl-design-packages/usr">
+   			<fileset dir="${plugin.folder}/lib/iuscl-design-packages/usr">
+   				<include name="iuscl-usr-design-${usr.jar.version}.jar"/>
+   			</fileset>
+       	</copy>
+
+    	<!-- Pdf runtime jar, in dist lib to be used in an application project (and the application distribution) -->
+    	
+		<jar destfile="${plugin.folder}/dist/application/lib/iuscl-packages/pdf/iuscl-pdf-${pdf.jar.version}.jar">
+			
+			<manifest>
+		      <attribute name="Implementation-Title" value="IusCL Pdf Distribution Package" />
+	          <attribute name="Implementation-Vendor" value="IusCL.org" />
+	          <attribute name="Implementation-Version" value="${pdf.jar.version}" />
+	        </manifest>
+			
+			<fileset dir="${usr.package.folder}/classes">
+				<include name="org/iuscl/pdf/**/*"/>
+			</fileset>
+
+			<fileset dir="${usr.package.folder}/res/pdf">
+				<include name="resources/**/*"/>
+
+				<exclude name="resources/designintf"/>
+				<exclude name="resources/designintf/**/*"/>
+			</fileset>
+
+			<fileset dir="${plugin.folder}">
+				<include name="META-INF/LICENSE.txt"/>
+			</fileset>
+			
+		</jar>
+
+    	<!-- Pdf design jar, in plugin lib to be used in Eclipse, contains design classes and design resources -->
+    	
+		<jar destfile="${plugin.folder}/lib/iuscl-design-packages/pdf/iuscl-pdf-design-${pdf.jar.version}.jar">
+			
+			<manifest>
+		      <attribute name="Implementation-Title" value="IusCL Pdf Design Package" />
+	          <attribute name="Implementation-Vendor" value="IusCL.org" />
+	          <attribute name="Implementation-Version" value="${pdf.jar.version}" />
+	        </manifest>
+
+			<fileset dir="${usr.package.folder}/classes">
+				<include name="org/iuscl/pdf/**/*"/>
+				<include name="org/iuscl/designintf/packages/IusCLDesignPackagePdf.class"/>
+			</fileset>
+
+			<fileset dir="${usr.package.folder}/res/pdf">
+				<include name="resources/**/*"/>
+			</fileset>
+
+			<fileset dir="${usr.package.folder}">
+				<!-- src -->
+				<include name="src/main/java/org/iuscl/pdf/**/*"/>
+				<include name="src/main/java/org/iuscl/designintf/packages/IusCLDesignPackagePdf.java"/>
+			</fileset>
+			
+			<fileset dir="${plugin.folder}">
+				<include name="META-INF/LICENSE.txt"/>
+			</fileset>
+
+		</jar>
+
+    	<!-- Web runtime jar, in dist lib to be used in an application project (and the application distribution) -->
+    	
+		<jar destfile="${plugin.folder}/dist/application/lib/iuscl-packages/web/iuscl-web-${web.jar.version}.jar">
+			
+			<manifest>
+		      <attribute name="Implementation-Title" value="IusCL Web Distribution Package" />
+	          <attribute name="Implementation-Vendor" value="IusCL.org" />
+	          <attribute name="Implementation-Version" value="${web.jar.version}" />
+	        </manifest>
+			
+			<fileset dir="${internet.package.folder}/classes">
+				<include name="org/iuscl/web/**/*.class"/>
+			</fileset>
+
+			<fileset dir="${internet.package.folder}/res/web">
+				<include name="resources/**/*"/>
+
+				<exclude name="resources/designintf"/>
+				<exclude name="resources/designintf/**/*"/>
+			</fileset>
+
+			<fileset dir="${plugin.folder}">
+				<include name="META-INF/LICENSE.txt"/>
+			</fileset>
+			
+		</jar>
+
+    	<!-- Web design jar, in plugin lib to be used in Eclipse, contains design classes and design resources -->
+    	
+		<jar destfile="${plugin.folder}/lib/iuscl-design-packages/web/iuscl-web-design-${web.jar.version}.jar">
+			
+			<manifest>
+		      <attribute name="Implementation-Title" value="IusCL Web Design Package" />
+	          <attribute name="Implementation-Vendor" value="IusCL.org" />
+	          <attribute name="Implementation-Version" value="${web.jar.version}" />
+	        </manifest>
+
+			<fileset dir="${internet.package.folder}/classes">
+				<include name="org/iuscl/web/**/*.class"/>
+				<include name="org/iuscl/designintf/packages/IusCLDesignPackageWeb.class"/>
+			</fileset>
+
+			<fileset dir="${internet.package.folder}/res/web">
+				<include name="resources/**/*"/>
+			</fileset>
+
+			<fileset dir="${internet.package.folder}">
+				<!-- src -->
+				<include name="src/main/java/org/iuscl/web/**/*"/>
+				<include name="src/main/java/org/iuscl/designintf/packages/IusCLDesignPackageWeb.java"/>
+			</fileset>
+
+			<fileset dir="${plugin.folder}">
+				<include name="META-INF/LICENSE.txt"/>
+			</fileset>
+			
+		</jar>
+
+
+    	<!-- YM runtime jar, in dist lib to be used in an application project (and the application distribution) -->
+    	
+		<jar destfile="${plugin.folder}/dist/application/lib/iuscl-packages/ym/iuscl-ym-${ym.jar.version}.jar">
+			
+			<manifest>
+		      <attribute name="Implementation-Title" value="IusCL YM Distribution Package" />
+	          <attribute name="Implementation-Vendor" value="IusCL.org" />
+	          <attribute name="Implementation-Version" value="${ym.jar.version}" />
+	        </manifest>
+			
+			<fileset dir="${internet.package.folder}/classes">
+				<include name="org/iuscl/ym/**/*.class"/>
+			</fileset>
+
+			<fileset dir="${internet.package.folder}/res/ym">
+				<include name="resources/**/*"/>
+
+				<exclude name="resources/designintf"/>
+				<exclude name="resources/designintf/**/*"/>
+			</fileset>
+
+			<fileset dir="${plugin.folder}">
+				<include name="META-INF/LICENSE.txt"/>
+			</fileset>
+			
+		</jar>
+
+    	<!-- YM design jar, in plugin lib to be used in Eclipse, contains design classes and design resources -->
+    	
+		<jar destfile="${plugin.folder}/lib/iuscl-design-packages/ym/iuscl-ym-design-${ym.jar.version}.jar">
+			
+			<manifest>
+		      <attribute name="Implementation-Title" value="IusCL YM Design Package" />
+	          <attribute name="Implementation-Vendor" value="IusCL.org" />
+	          <attribute name="Implementation-Version" value="${ym.jar.version}" />
+	        </manifest>
+
+			<fileset dir="${internet.package.folder}/classes">
+				<include name="org/iuscl/ym/**/*.class"/>
+				<include name="org/iuscl/designintf/packages/IusCLDesignPackageYM.class"/>
+			</fileset>
+
+			<fileset dir="${internet.package.folder}/res/ym">
+				<include name="resources/**/*"/>
+			</fileset>
+
+			<fileset dir="${internet.package.folder}">
+				<!-- src -->
+				<include name="src/main/java/org/iuscl/ym/**/*"/>
+				<include name="src/main/java/org/iuscl/designintf/packages/IusCLDesignPackageYM.java"/>
+			</fileset>
+
+			<fileset dir="${plugin.folder}">
+				<include name="META-INF/LICENSE.txt"/>
+			</fileset>
+			
+		</jar>
+
+    	<!-- RSS runtime jar, in dist lib to be used in an application project (and the application distribution) -->
+    	
+		<jar destfile="${plugin.folder}/dist/application/lib/iuscl-packages/rss/iuscl-rss-${rss.jar.version}.jar">
+			
+			<manifest>
+		      <attribute name="Implementation-Title" value="IusCL RSS Distribution Package" />
+	          <attribute name="Implementation-Vendor" value="IusCL.org" />
+	          <attribute name="Implementation-Version" value="${rss.jar.version}" />
+	        </manifest>
+			
+			<fileset dir="${internet.package.folder}/classes">
+				<include name="org/iuscl/rss/**/*.class"/>
+			</fileset>
+
+			<fileset dir="${internet.package.folder}/res/rss">
+				<include name="resources/**/*"/>
+
+				<exclude name="resources/designintf"/>
+				<exclude name="resources/designintf/**/*"/>
+			</fileset>
+
+			<fileset dir="${plugin.folder}">
+				<include name="META-INF/LICENSE.txt"/>
+			</fileset>
+			
+		</jar>
+
+    	<!-- RSS design jar, in plugin lib to be used in Eclipse, contains design classes and design resources -->
+    	
+		<jar destfile="${plugin.folder}/lib/iuscl-design-packages/rss/iuscl-rss-design-${rss.jar.version}.jar">
+			
+			<manifest>
+		      <attribute name="Implementation-Title" value="IusCL RSS Design Package" />
+	          <attribute name="Implementation-Vendor" value="IusCL.org" />
+	          <attribute name="Implementation-Version" value="${rss.jar.version}" />
+	        </manifest>
+
+			<fileset dir="${internet.package.folder}/classes">
+				<include name="org/iuscl/rss/**/*.class"/>
+				<include name="org/iuscl/designintf/packages/IusCLDesignPackageRSS.class"/>
+			</fileset>
+
+			<fileset dir="${internet.package.folder}/res/rss">
+				<include name="resources/**/*"/>
+			</fileset>
+
+			<fileset dir="${internet.package.folder}">
+				<!-- src -->
+				<include name="src/main/java/org/iuscl/rss/**/*"/>
+				<include name="src/main/java/org/iuscl/designintf/packages/IusCLDesignPackageRSS.java"/>
+			</fileset>
+
+			<fileset dir="${plugin.folder}">
+				<include name="META-INF/LICENSE.txt"/>
+			</fileset>
+			
+		</jar>
+
+    </target>
+
+</project>

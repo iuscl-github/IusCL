@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <BorderIcons.Maximize>false</BorderIcons.Maximize>
+  <BorderIcons.Minimize>false</BorderIcons.Minimize>
+  <Caption>IusCLPluginActionsBaseForm</Caption>
+  <ClientHeight>444</ClientHeight>
+  <ClientWidth>656</ClientWidth>
+  <Constraints.MinHeight>480</Constraints.MinHeight>
+  <Constraints.MinWidth>672</Constraints.MinWidth>
+  <FormStyle>fsModalDialog</FormStyle>
+  <Height>480</Height>
+  <Left>304</Left>
+  <Name>actionsBaseForm</Name>
+  <OnCreate>formCreate</OnCreate>
+  <Position>poScreenCenter</Position>
+  <Top>242</Top>
+  <Width>672</Width>
+  <object name="panel4">
+    <Align>alTop</Align>
+    <BevelOuter>bvNone</BevelOuter>
+    <Color>clWhite</Color>
+    <Height>65</Height>
+    <Name>panel4</Name>
+    <ParentColor>false</ParentColor>
+    <Width>656</Width>
+    <object name="headerImage">
+      <Align>alRight</Align>
+      <Anchors.Left>false</Anchors.Left>
+      <Caption>image1</Caption>
+      <Center>true</Center>
+      <Height>65</Height>
+      <Name>headerImage</Name>
+      <ParentColor>false</ParentColor>
+      <Picture>IusCLPluginActionsBaseForm/headerImage_Picture.gif</Picture>
+      <Width>656</Width>
+    </object>
+    <object name="panel5">
+      <Anchors.Right>true</Anchors.Right>
+      <BevelOuter>bvNone</BevelOuter>
+      <Color>(0, 100, 150)</Color>
+      <Height>16</Height>
+      <Left>8</Left>
+      <Name>panel5</Name>
+      <ParentColor>false</ParentColor>
+      <Top>40</Top>
+      <Width>505</Width>
+    </object>
+  </object>
+  <object name="panel1">
+    <Align>alClient</Align>
+    <BevelOuter>bvNone</BevelOuter>
+    <BorderWidth>8</BorderWidth>
+    <Height>379</Height>
+    <Name>panel1</Name>
+    <Top>65</Top>
+    <Width>656</Width>
+    <object name="panel2">
+      <Align>alClient</Align>
+      <BevelOuter>bvNone</BevelOuter>
+      <BorderStyle>bsSingle</BorderStyle>
+      <BorderWidth>8</BorderWidth>
+      <Height>331</Height>
+      <Name>panel2</Name>
+      <Width>640</Width>
+    </object>
+    <object name="panel3">
+      <Align>alBottom</Align>
+      <Anchors.Top>false</Anchors.Top>
+      <BevelOuter>bvNone</BevelOuter>
+      <Height>32</Height>
+      <Name>panel3</Name>
+      <Top>331</Top>
+      <Width>640</Width>
+      <object name="btnCancel">
+        <Anchors.Left>false</Anchors.Left>
+        <Anchors.Right>true</Anchors.Right>
+        <Caption>Cancel</Caption>
+        <Left>560</Left>
+        <Name>btnCancel</Name>
+        <OnClick>btnCancelClick</OnClick>
+        <Top>8</Top>
+        <Width>81</Width>
+      </object>
+      <object name="btnOK">
+        <Anchors.Left>false</Anchors.Left>
+        <Anchors.Right>true</Anchors.Right>
+        <Caption>OK</Caption>
+        <Left>472</Left>
+        <Name>btnOK</Name>
+        <OnClick>btnOKClick</OnClick>
+        <Top>8</Top>
+        <Width>81</Width>
+      </object>
+    </object>
+  </object>
+</object>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<toc label="IusCL User Guide" topic="help\userguide\userguide.html">
+  <topic label="Getting Started" href="help/gettingstarted/gettingstarted.html">
+    <anchor id="gettingstarted" />
+  </topic>
+  <topic label="Concepts" href="help/concepts/concepts.html">
+    <anchor id="concepts" />
+  </topic>
+  <topic label="Tasks" href="help/tasks/tasks.html">
+    <anchor id="tasks" />
+  </topic>
+  <topic label="IusCL Object and Component Reference" href="help/reference/reference.html">
+    <anchor id="reference" />
+  </topic>
+  <topic label="Samples" href="help/samples/samples.html">
+    <anchor id="samples" />
+  </topic>
+  <topic label="License" href="help\userguide\license.html" />
+</toc>
+

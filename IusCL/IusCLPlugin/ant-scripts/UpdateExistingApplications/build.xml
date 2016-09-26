@@ -1,0 +1,106 @@
+<!-- ****************************************************************************************************
+IusCL - http://iuscl.org
+ 
+This software is distributed under the terms of: 
+Eclipse Public License v1.0 - http://www.eclipse.org/org/documents/epl-v10.html
+***************************************************************************************************** -->
+<project name="UpdateExistingApplications" default="update">
+
+	<property name="home.folder" value="REPLACED_FROM_ANT_RUN"/>
+    <property name="plugin.folder" value="${home.folder}/IusCLPlugin"/>
+    
+	<property name="usr.package.folder" value="${home.folder}/IusCLRuntime"/>
+	<property name="usr.jar.version" value="1.0.3"/>
+	<property name="pdf.jar.version" value="1.0.3"/>
+
+	<property name="internet.package.folder" value="${home.folder}/IusCLInternet"/>
+	<property name="web.jar.version" value="1.0.2"/>
+	<property name="ym.jar.version" value="1.0.2"/>
+	<property name="rss.jar.version" value="1.0.2"/>
+
+	
+	<property name="project.home.folder" value="${home.folder}/samples"/>
+	<property name="dev.project.name" value="SampleProject"/>
+
+	<!-- ***************************************************************************************************** -->
+    <target name="update">
+
+    	<!-- Update development application jar -->
+    	
+       	<copy todir="${project.home.folder}/${dev.project.name}/lib/iuscl-packages/usr">
+   			<fileset dir="${plugin.folder}/dist/application/lib/iuscl-packages/usr">
+   				<include name="iuscl-usr-${usr.jar.version}.jar"/>
+   			</fileset>
+       	</copy>
+
+       	<copy todir="${project.home.folder}/${dev.project.name}/lib/iuscl-packages/pdf">
+   			<fileset dir="${plugin.folder}/dist/application/lib/iuscl-packages/pdf">
+   				<include name="iuscl-pdf-${pdf.jar.version}.jar"/>
+   			</fileset>
+       	</copy>
+
+       	<copy todir="${project.home.folder}/${dev.project.name}/lib/iuscl-packages/web">
+   			<fileset dir="${plugin.folder}/dist/application/lib/iuscl-packages/web">
+   				<include name="iuscl-web-${web.jar.version}.jar"/>
+   			</fileset>
+       	</copy>
+
+       	<copy todir="${project.home.folder}/${dev.project.name}/lib/iuscl-packages/ym">
+   			<fileset dir="${plugin.folder}/dist/application/lib/iuscl-packages/ym">
+   				<include name="iuscl-ym-${ym.jar.version}.jar"/>
+   			</fileset>
+       	</copy>
+
+       	<copy todir="${project.home.folder}/${dev.project.name}/lib/iuscl-packages/rss">
+   			<fileset dir="${plugin.folder}/dist/application/lib/iuscl-packages/rss">
+   				<include name="iuscl-rss-${rss.jar.version}.jar"/>
+   			</fileset>
+       	</copy>
+
+    	<!-- Update the 'Help' jar -->
+    	
+       	<copy todir="${home.folder}/IusCLHelp/lib/iuscl-packages/usr">
+   			<fileset dir="${plugin.folder}/dist/application/lib/iuscl-packages/usr">
+   				<include name="iuscl-usr-${usr.jar.version}.jar"/>
+   			</fileset>
+       	</copy>
+
+    	<!-- Update AllComponents sample jars -->
+    	
+       	<copy todir="${home.folder}/samples/AllComponents/lib/iuscl-packages/usr">
+   			<fileset dir="${plugin.folder}/dist/application/lib/iuscl-packages/usr">
+   				<include name="iuscl-usr-${usr.jar.version}.jar"/>
+   			</fileset>
+       	</copy>
+
+    	<!-- Update AllPdf sample jars -->
+    	
+       	<copy todir="${home.folder}/samples/AllPdf/lib/iuscl-packages/usr">
+   			<fileset dir="${plugin.folder}/dist/application/lib/iuscl-packages/usr">
+   				<include name="iuscl-usr-${usr.jar.version}.jar"/>
+   			</fileset>
+       	</copy>
+
+       	<copy todir="${home.folder}/samples/AllPdf/lib/iuscl-packages/pdf">
+   			<fileset dir="${plugin.folder}/dist/application/lib/iuscl-packages/pdf">
+   				<include name="iuscl-pdf-${pdf.jar.version}.jar"/>
+   			</fileset>
+       	</copy>
+
+    	<!-- Update AllInternet sample jars -->
+
+    	<copy todir="${home.folder}/samples/AllInternet/lib/iuscl-packages/usr">
+   			<fileset dir="${plugin.folder}/dist/application/lib/iuscl-packages/usr">
+   				<include name="iuscl-usr-${usr.jar.version}.jar"/>
+   			</fileset>
+       	</copy>
+
+       	<copy todir="${home.folder}/samples/AllInternet/lib/iuscl-packages/web">
+   			<fileset dir="${plugin.folder}/dist/application/lib/iuscl-packages/web">
+   				<include name="iuscl-web-${web.jar.version}.jar"/>
+   			</fileset>
+       	</copy>
+
+    </target>
+
+</project>

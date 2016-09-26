@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <Caption>Application Options</Caption>
+  <Name>iusCLPluginApplicationOptionsForm</Name>
+  <object name="panel4">
+    <object name="headerImage" />
+    <object name="panel5" />
+  </object>
+  <object name="panel1">
+    <object name="panel2">
+      <object name="projectFolderTitleLabel">
+        <Caption>Project folder</Caption>
+        <Name>projectFolderTitleLabel</Name>
+        <Width>71</Width>
+      </object>
+      <object name="projectFolderLabel">
+        <Caption>pf</Caption>
+        <Font.Style.Italic>true</Font.Style.Italic>
+        <Name>projectFolderLabel</Name>
+        <ParentFont>false</ParentFont>
+        <Top>24</Top>
+        <Width>11</Width>
+      </object>
+      <object name="applicationNameTitleLabel">
+        <Caption>Application name</Caption>
+        <Name>applicationNameTitleLabel</Name>
+        <Top>48</Top>
+        <Width>94</Width>
+      </object>
+      <object name="applicationNameLabel">
+        <Caption>an</Caption>
+        <Font.Style.Italic>true</Font.Style.Italic>
+        <Name>applicationNameLabel</Name>
+        <ParentFont>false</ParentFont>
+        <Top>72</Top>
+        <Width>14</Width>
+      </object>
+      <object name="applicationTitleLabel">
+        <Caption>Application title</Caption>
+        <Name>applicationTitleLabel</Name>
+        <Top>96</Top>
+        <Width>84</Width>
+      </object>
+      <object name="applicationIconLabel">
+        <Caption>Application icon</Caption>
+        <Name>applicationIconLabel</Name>
+        <Top>152</Top>
+        <Width>87</Width>
+      </object>
+      <object name="applicationTitleEdit">
+        <Name>applicationTitleEdit</Name>
+        <Text>at</Text>
+        <Top>120</Top>
+        <Width>369</Width>
+      </object>
+      <object name="iconPanel">
+        <BevelOuter>bvNone</BevelOuter>
+        <BorderStyle>bsSingle</BorderStyle>
+        <Color>clWhite</Color>
+        <Height>81</Height>
+        <Name>iconPanel</Name>
+        <ParentColor>false</ParentColor>
+        <Top>176</Top>
+        <Width>466</Width>
+        <object name="image48true">
+          <Align>alLeft</Align>
+          <Caption>image1</Caption>
+          <Center>true</Center>
+          <Height>77</Height>
+          <Name>image48true</Name>
+          <ParentColor>false</ParentColor>
+          <Width>77</Width>
+        </object>
+        <object name="image48">
+          <Align>alLeft</Align>
+          <Caption>image1</Caption>
+          <Center>true</Center>
+          <Height>77</Height>
+          <Left>77</Left>
+          <Name>image48</Name>
+          <ParentColor>false</ParentColor>
+          <Width>77</Width>
+        </object>
+        <object name="image32true">
+          <Align>alLeft</Align>
+          <Caption>image2</Caption>
+          <Center>true</Center>
+          <Height>77</Height>
+          <Left>154</Left>
+          <Name>image32true</Name>
+          <ParentColor>false</ParentColor>
+          <Width>77</Width>
+        </object>
+        <object name="image32">
+          <Align>alLeft</Align>
+          <Caption>image1</Caption>
+          <Center>true</Center>
+          <Height>77</Height>
+          <Left>231</Left>
+          <Name>image32</Name>
+          <ParentColor>false</ParentColor>
+          <Width>77</Width>
+        </object>
+        <object name="image16true">
+          <Align>alLeft</Align>
+          <Caption>image2</Caption>
+          <Center>true</Center>
+          <Height>77</Height>
+          <Left>308</Left>
+          <Name>image16true</Name>
+          <ParentColor>false</ParentColor>
+          <Width>77</Width>
+        </object>
+        <object name="image16">
+          <Align>alLeft</Align>
+          <Caption>image3</Caption>
+          <Center>true</Center>
+          <Height>77</Height>
+          <Left>385</Left>
+          <Name>image16</Name>
+          <ParentColor>false</ParentColor>
+          <Width>77</Width>
+        </object>
+      </object>
+      <object name="btnOpen">
+        <Caption>Open</Caption>
+        <Left>472</Left>
+        <Name>btnOpen</Name>
+        <OnClick>btnOpenClick</OnClick>
+        <Top>176</Top>
+        <Width>81</Width>
+      </object>
+    </object>
+    <object name="panel3">
+      <object name="btnCancel" />
+      <object name="btnOK" />
+    </object>
+  </object>
+  <object name="openIconDialog">
+    <Filter>Icons (*.ico)|*.ico</Filter>
+    <Name>openIconDialog</Name>
+    <Title>Open Icon</Title>
+  </object>
+</object>
+

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <Caption>Application Deploy</Caption>
+  <Name>iusCLPluginApplicationDeployForm</Name>
+  <object name="panel4">
+    <object name="headerImage" />
+    <object name="panel5" />
+  </object>
+  <object name="panel1">
+    <object name="panel2">
+      <object name="pluginFolderTitleLabel">
+        <Caption>IusCL plugin folder</Caption>
+        <Name>pluginFolderTitleLabel</Name>
+        <Width>100</Width>
+      </object>
+      <object name="pluginFolderLabel">
+        <Caption>pluginFolder</Caption>
+        <Font.Style.Italic>true</Font.Style.Italic>
+        <Name>pluginFolderLabel</Name>
+        <ParentFont>false</ParentFont>
+        <Top>24</Top>
+        <Width>66</Width>
+      </object>
+      <object name="projectFolderTitleLabel">
+        <Caption>Project folder</Caption>
+        <Name>projectFolderTitleLabel</Name>
+        <Top>48</Top>
+        <Width>71</Width>
+      </object>
+      <object name="projectFolderLabel">
+        <Caption>projectFolder</Caption>
+        <Font.Style.Italic>true</Font.Style.Italic>
+        <Name>projectFolderLabel</Name>
+        <ParentFont>false</ParentFont>
+        <Top>72</Top>
+        <Width>67</Width>
+      </object>
+      <object name="distributionTitleLabel">
+        <Caption>Distribution folder</Caption>
+        <Name>distributionTitleLabel</Name>
+        <Top>96</Top>
+        <Width>96</Width>
+      </object>
+      <object name="deployFolderTitleLabel">
+        <Caption>The application will be deployed in</Caption>
+        <Name>deployFolderTitleLabel</Name>
+        <Top>152</Top>
+        <Width>184</Width>
+      </object>
+      <object name="deployFolderLabel">
+        <Caption></Caption>
+        <Font.Style.Italic>true</Font.Style.Italic>
+        <Name>deployFolderLabel</Name>
+        <ParentFont>false</ParentFont>
+        <Top>176</Top>
+      </object>
+      <object name="distributionEdit">
+        <Name>distributionEdit</Name>
+        <OnChange>distributionEditChange</OnChange>
+        <Top>120</Top>
+        <Width>473</Width>
+      </object>
+      <object name="btnChange">
+        <Caption>Change</Caption>
+        <Left>480</Left>
+        <Name>btnChange</Name>
+        <OnClick>btnChangeClick</OnClick>
+        <Top>120</Top>
+        <Width>81</Width>
+      </object>
+    </object>
+    <object name="panel3">
+      <object name="btnCancel" />
+      <object name="btnOK" />
+    </object>
+  </object>
+  <object name="folderChangeDialog">
+    <Message>Select distribution folder</Message>
+    <Name>folderChangeDialog</Name>
+    <Title>Distribution location</Title>
+  </object>
+</object>
+

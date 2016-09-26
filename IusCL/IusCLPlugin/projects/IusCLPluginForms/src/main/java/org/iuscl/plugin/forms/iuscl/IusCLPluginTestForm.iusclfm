@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <Caption>IusCLPluginTestForm</Caption>
+  <ClientHeight>604</ClientHeight>
+  <ClientWidth>784</ClientWidth>
+  <Left>100</Left>
+  <Name>iusCLPluginTestForm</Name>
+  <Top>100</Top>
+  <object name="button1">
+    <Caption>ActionsBaseForm</Caption>
+    <Left>48</Left>
+    <Name>button1</Name>
+    <OnClick>button1Click</OnClick>
+    <Top>40</Top>
+    <Width>177</Width>
+  </object>
+</object>
+

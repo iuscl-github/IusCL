@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<toc label="GettingStarted" link_to="help\_tocs\toc_userguide.xml#gettingstarted" topic="help\gettingstarted\gettingstarted.html">
+  <topic label="Install and verify" href="help\gettingstarted\installverify.html" />
+  <topic label="Before you ask" href="help\gettingstarted\beforeyouask.html" />
+</toc>
+

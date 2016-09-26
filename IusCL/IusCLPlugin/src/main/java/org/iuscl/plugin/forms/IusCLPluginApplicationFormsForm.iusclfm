@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <Caption>Application Forms</Caption>
+  <Name>iusCLPluginApplicationFormsForm</Name>
+  <object name="panel4">
+    <object name="headerImage" />
+    <object name="panel5" />
+  </object>
+  <object name="panel1">
+    <object name="panel2">
+      <object name="labelNotImplemented">
+        <Align>alTop</Align>
+        <Alignment>taCenter</Alignment>
+        <Caption>Not implemented</Caption>
+        <Font.Style.Bold>true</Font.Style.Bold>
+        <Name>labelNotImplemented</Name>
+        <ParentFont>false</ParentFont>
+        <Width>620</Width>
+      </object>
+    </object>
+    <object name="panel3">
+      <object name="btnCancel" />
+      <object name="btnOK" />
+    </object>
+  </object>
+</object>
+

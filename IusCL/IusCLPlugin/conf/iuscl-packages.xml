@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ****************************************************************************************************
+IusCL - http://iuscl.org
+ 
+This software is distributed under the terms of: 
+Eclipse Public License v1.0 - http://www.eclipse.org/org/documents/epl-v10.html
+***************************************************************************************************** -->
+
+<!--
+IusCL Design Packages
+
+name:	The name of the design package (currently not used)
+class:	Canonical class name of the package class 
+		(derived from org.iuscl.designintf.packages.IusCLDesignPackage),
+		must be accessible at runtime from IusCLPlugin class
+		
+Note: The order is important, is the order in which they will appear in palette		
+-->
+
+<packages>
+	<package>
+		<name>Pdf</name>
+		<class>org.iuscl.designintf.packages.IusCLDesignPackagePdf</class>
+	</package>
+	<package>
+		<name>Web</name>
+		<class>org.iuscl.designintf.packages.IusCLDesignPackageWeb</class>
+	</package>
+	<package>
+		<name>YM</name>
+		<class>org.iuscl.designintf.packages.IusCLDesignPackageYM</class>
+	</package>
+	<package>
+		<name>RSS</name>
+		<class>org.iuscl.designintf.packages.IusCLDesignPackageRSS</class>
+	</package>
+</packages>

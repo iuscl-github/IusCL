@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<toc label="IusCL Object and Component Reference" link_to="help\_tocs\toc_userguide.xml#reference" href="help\reference\reference.html">
+  <topic label="Hierarchy" href="help\reference\hierarchy.html">
+    <topic label="IusCL Usr and Pdf Hierarchy" href="help\reference\hierarchyUsrPdf.html" />
+  </topic>
+  <topic label="Packages" href="help\reference\packages.html">
+    <topic label="org.eclipse.swt.internal.image" href="help\reference\org.eclipse.swt.internal.image.html">
+      <topic label="IusCLSwtJpegSave" href="help\reference\IusCLSwtJpegSave.html" />
+    </topic>
+    <topic label="org.iuscl.buttons" href="help\reference\org.iuscl.buttons.html">
+      <topic label="IusCLBitButton" href="help\reference\IusCLBitButton.html" />
+      <topic label="IusCLButtonGlyph" href="help\reference\IusCLButtonGlyph.html" />
+      <topic label="IusCLCustomButton" href="help\reference\IusCLCustomButton.html" />
+      <topic label="IusCLSpeedButton" href="help\reference\IusCLSpeedButton.html" />
+    </topic>
+    <topic label="org.iuscl.classes" href="help\reference\org.iuscl.classes.html">
+      <topic label="IusCLCollection" href="help\reference\IusCLCollection.html" />
+      <topic label="IusCLCollectionItem" href="help\reference\IusCLCollectionItem.html" />
+      <topic label="IusCLComponent" href="help\reference\IusCLComponent.html" />
+      <topic label="IusCLFiler" href="help\reference\IusCLFiler.html" />
+      <topic label="IusCLOS" href="help\reference\IusCLOS.html" />
+      <topic label="IusCLPersistent" href="help\reference\IusCLPersistent.html" />
+      <topic label="IusCLProperty" href="help\reference\IusCLProperty.html" />
+      <topic label="IusCLStrings" href="help\reference\IusCLStrings.html" />
+    </topic>
+    <topic label="org.iuscl.comctrls" href="help\reference\org.iuscl.comctrls.html">
+      <topic label="IusCLCommonCalendar" href="help\reference\IusCLCommonCalendar.html" />
+      <topic label="IusCLCoolBand" href="help\reference\IusCLCoolBand.html" />
+      <topic label="IusCLCoolBar" href="help\reference\IusCLCoolBar.html" />
+      <topic label="IusCLDateTimePicker" href="help\reference\IusCLDateTimePicker.html" />
+      <topic label="IusCLImageList" href="help\reference\IusCLImageList.html" />
+      <topic label="IusCLListColumn" href="help\reference\IusCLListColumn.html" />
+      <topic label="IusCLListColumns" href="help\reference\IusCLListColumns.html" />
+      <topic label="IusCLListItem" href="help\reference\IusCLListItem.html" />
+      <topic label="IusCLListItems" href="help\reference\IusCLListItems.html" />
+      <topic label="IusCLListSubItems" href="help\reference\IusCLListSubItems.html" />
+      <topic label="IusCLListView" href="help\reference\IusCLListView.html" />
+      <topic label="IusCLMonthCalendar" href="help\reference\IusCLMonthCalendar.html" />
+      <topic label="IusCLPageControl" href="help\reference\IusCLPageControl.html" />
+      <topic label="IusCLParagraphAttributes" href="help\reference\IusCLParagraphAttributes.html" />
+      <topic label="IusCLProgressBar" href="help\reference\IusCLProgressBar.html" />
+      <topic label="IusCLRichEdit" href="help\reference\IusCLRichEdit.html" />
+      <topic label="IusCLTabSheet" href="help\reference\IusCLTabSheet.html" />
+      <topic label="IusCLTextAttributes" href="help\reference\IusCLTextAttributes.html" />
+      <topic label="IusCLToolBar" href="help\reference\IusCLToolBar.html" />
+      <topic label="IusCLToolButton" href="help\reference\IusCLToolButton.html" />
+      <topic label="IusCLToolButtons" href="help\reference\IusCLToolButtons.html" />
+      <topic label="IusCLTrackBar" href="help\reference\IusCLTrackBar.html" />
+      <topic label="IusCLTreeNode" href="help\reference\IusCLTreeNode.html" />
+      <topic label="IusCLTreeNodes" href="help\reference\IusCLTreeNodes.html" />
+      <topic label="IusCLTreeView" href="help\reference\IusCLTreeView.html" />
+      <topic label="IusCLUpDown" href="help\reference\IusCLUpDown.html" />
+      <topic label="IusCLWindowsStatusBar" href="help\reference\IusCLWindowsStatusBar.html" />
+      <topic label="IusCLWindowsStatusPanel" href="help\reference\IusCLWindowsStatusPanel.html" />
+      <topic label="IusCLWindowsStatusPanels" href="help\reference\IusCLWindowsStatusPanels.html" />
+    </topic>
+    <topic label="org.iuscl.controls" href="help\reference\org.iuscl.controls.html">
+      <topic label="IusCLAnchors" href="help\reference\IusCLAnchors.html" />
+      <topic label="IusCLContainerControl" href="help\reference\IusCLContainerControl.html" />
+      <topic label="IusCLControl" href="help\reference\IusCLControl.html" />
+      <topic label="IusCLGraphicControl" href="help\reference\IusCLGraphicControl.html" />
+      <topic label="IusCLKeyboardKey" href="help\reference\IusCLKeyboardKey.html" />
+      <topic label="IusCLListControl" href="help\reference\IusCLListControl.html" />
+      <topic label="IusCLMultiSelectListControl" href="help\reference\IusCLMultiSelectListControl.html" />
+      <topic label="IusCLParentControl" href="help\reference\IusCLParentControl.html" />
+      <topic label="IusCLSizeConstraints" href="help\reference\IusCLSizeConstraints.html" />
+      <topic label="IusCLWinControl" href="help\reference\IusCLWinControl.html" />
+    </topic>
+    <topic label="org.iuscl.designintf.componenteditors" href="help\reference\org.iuscl.designintf.componenteditors.html">
+      <topic label="IusCLDesignComponentEditor" href="help\reference\IusCLDesignComponentEditor.html" />
+      <topic label="IusCLDesignComponentEditorVerb" href="help\reference\IusCLDesignComponentEditorVerb.html" />
+      <topic label="IusCLDesignCoolBarComponentEditor" href="help\reference\IusCLDesignCoolBarComponentEditor.html" />
+      <topic label="IusCLDesignDefaultComponentEditor" href="help\reference\IusCLDesignDefaultComponentEditor.html" />
+      <topic label="IusCLDesignImageListComponentEditor" href="help\reference\IusCLDesignImageListComponentEditor.html" />
+      <topic label="IusCLDesignListViewComponentEditor" href="help\reference\IusCLDesignListViewComponentEditor.html" />
+      <topic label="IusCLDesignMenuComponentEditor" href="help\reference\IusCLDesignMenuComponentEditor.html" />
+      <topic label="IusCLDesignMenuItemComponentEditor" href="help\reference\IusCLDesignMenuItemComponentEditor.html" />
+      <topic label="IusCLDesignPageControlComponentEditor" href="help\reference\IusCLDesignPageControlComponentEditor.html" />
+      <topic label="IusCLDesignSelection" href="help\reference\IusCLDesignSelection.html" />
+      <topic label="IusCLDesignStatusBarComponentEditor" href="help\reference\IusCLDesignStatusBarComponentEditor.html" />
+      <topic label="IusCLDesignToolbarComponentEditor" href="help\reference\IusCLDesignToolbarComponentEditor.html" />
+    </topic>
+    <topic label="org.iuscl.designintf.packages" href="help\reference\org.iuscl.designintf.packages.html">
+      <topic label="IusCLDesignComponentInfo" href="help\reference\IusCLDesignComponentInfo.html" />
+      <topic label="IusCLDesignEventInfo" href="help\reference\IusCLDesignEventInfo.html" />
+      <topic label="IusCLDesignPackage" href="help\reference\IusCLDesignPackage.html" />
+      <topic label="IusCLDesignPackagePdf" href="help\reference\IusCLDesignPackagePdf.html" />
+      <topic label="IusCLDesignPackageUsr" href="help\reference\IusCLDesignPackageUsr.html" />
+      <topic label="IusCLDesignPropertyInfo" href="help\reference\IusCLDesignPropertyInfo.html" />
+    </topic>
+    <topic label="org.iuscl.designintf.propertyeditors" href="help\reference\org.iuscl.designintf.propertyeditors.html">
+      <topic label="IusCLDesignBooleanPropertyEditor" href="help\reference\IusCLDesignBooleanPropertyEditor.html" />
+      <topic label="IusCLDesignColorPropertyEditor" href="help\reference\IusCLDesignColorPropertyEditor.html" />
+      <topic label="IusCLDesignEnumPropertyEditor" href="help\reference\IusCLDesignEnumPropertyEditor.html" />
+      <topic label="IusCLDesignEventPropertyEditor" href="help\reference\IusCLDesignEventPropertyEditor.html" />
+      <topic label="IusCLDesignFilterPropertyEditor" href="help\reference\IusCLDesignFilterPropertyEditor.html" />
+      <topic label="IusCLDesignFontNamePropertyEditor" href="help\reference\IusCLDesignFontNamePropertyEditor.html" />
+      <topic label="IusCLDesignFontPropertyEditor" href="help\reference\IusCLDesignFontPropertyEditor.html" />
+      <topic label="IusCLDesignIconPropertyEditor" href="help\reference\IusCLDesignIconPropertyEditor.html" />
+      <topic label="IusCLDesignIntegerPropertyEditor" href="help\reference\IusCLDesignIntegerPropertyEditor.html" />
+      <topic label="IusCLDesignPicturePropertyEditor" href="help\reference\IusCLDesignPicturePropertyEditor.html" />
+      <topic label="IusCLDesignPropertyEditor" href="help\reference\IusCLDesignPropertyEditor.html" />
+      <topic label="IusCLDesignRefComponentPropertyEditor" href="help\reference\IusCLDesignRefComponentPropertyEditor.html" />
+      <topic label="IusCLDesignStringListPropertyEditor" href="help\reference\IusCLDesignStringListPropertyEditor.html" />
+      <topic label="IusCLDesignStringPropertyEditor" href="help\reference\IusCLDesignStringPropertyEditor.html" />
+    </topic>
+    <topic label="org.iuscl.dialogs" href="help\reference\org.iuscl.dialogs.html">
+      <topic label="IusCLColorDialog" href="help\reference\IusCLColorDialog.html" />
+      <topic label="IusCLCommonDialog" href="help\reference\IusCLCommonDialog.html" />
+      <topic label="IusCLDialogs" href="help\reference\IusCLDialogs.html" />
+      <topic label="IusCLFileDialog" href="help\reference\IusCLFileDialog.html" />
+      <topic label="IusCLFolderDialog" href="help\reference\IusCLFolderDialog.html" />
+      <topic label="IusCLFontDialog" href="help\reference\IusCLFontDialog.html" />
+      <topic label="IusCLOpenDialog" href="help\reference\IusCLOpenDialog.html" />
+      <topic label="IusCLOpenPictureDialog" href="help\reference\IusCLOpenPictureDialog.html" />
+      <topic label="IusCLSaveDialog" href="help\reference\IusCLSaveDialog.html" />
+      <topic label="IusCLSavePictureDialog" href="help\reference\IusCLSavePictureDialog.html" />
+    </topic>
+    <topic label="org.iuscl.events" href="help\reference\org.iuscl.events.html">
+      <topic label="IusCLCanResizeEvent" href="help\reference\IusCLCanResizeEvent.html" />
+      <topic label="IusCLCloseEvent" href="help\reference\IusCLCloseEvent.html" />
+      <topic label="IusCLCloseQueryEvent" href="help\reference\IusCLCloseQueryEvent.html" />
+      <topic label="IusCLConstrainedResizeEvent" href="help\reference\IusCLConstrainedResizeEvent.html" />
+      <topic label="IusCLContextPopupEvent" href="help\reference\IusCLContextPopupEvent.html" />
+      <topic label="IusCLEvent" href="help\reference\IusCLEvent.html" />
+      <topic label="IusCLKeyEvent" href="help\reference\IusCLKeyEvent.html" />
+      <topic label="IusCLKeyPressEvent" href="help\reference\IusCLKeyPressEvent.html" />
+      <topic label="IusCLMessageEvent" href="help\reference\IusCLMessageEvent.html" />
+      <topic label="IusCLMouseEvent" href="help\reference\IusCLMouseEvent.html" />
+      <topic label="IusCLMouseHoverEvent" href="help\reference\IusCLMouseHoverEvent.html" />
+      <topic label="IusCLMouseMoveEvent" href="help\reference\IusCLMouseMoveEvent.html" />
+      <topic label="IusCLMouseWheelEvent" href="help\reference\IusCLMouseWheelEvent.html" />
+      <topic label="IusCLMouseWheelUpDownEvent" href="help\reference\IusCLMouseWheelUpDownEvent.html" />
+      <topic label="IusCLNotifyEvent" href="help\reference\IusCLNotifyEvent.html" />
+      <topic label="IusCLPaintEvent" href="help\reference\IusCLPaintEvent.html" />
+      <topic label="IusCLScrollEvent" href="help\reference\IusCLScrollEvent.html" />
+      <topic label="IusCLTreeViewCollapsedEvent" href="help\reference\IusCLTreeViewCollapsedEvent.html" />
+      <topic label="IusCLTreeViewExpandedEvent" href="help\reference\IusCLTreeViewExpandedEvent.html" />
+    </topic>
+    <topic label="org.iuscl.extctrls" href="help\reference\org.iuscl.extctrls.html">
+      <topic label="IusCLBevel" href="help\reference\IusCLBevel.html" />
+      <topic label="IusCLImage" href="help\reference\IusCLImage.html" />
+      <topic label="IusCLPaintBox" href="help\reference\IusCLPaintBox.html" />
+      <topic label="IusCLPanel" href="help\reference\IusCLPanel.html" />
+      <topic label="IusCLRadioGroup" href="help\reference\IusCLRadioGroup.html" />
+      <topic label="IusCLShape" href="help\reference\IusCLShape.html" />
+      <topic label="IusCLSplitter" href="help\reference\IusCLSplitter.html" />
+      <topic label="IusCLTrayIcon" href="help\reference\IusCLTrayIcon.html" />
+    </topic>
+    <topic label="org.iuscl.forms" href="help\reference\org.iuscl.forms.html">
+      <topic label="IusCLApplication" href="help\reference\IusCLApplication.html" />
+      <topic label="IusCLBorderIcons" href="help\reference\IusCLBorderIcons.html" />
+      <topic label="IusCLCursor" href="help\reference\IusCLCursor.html" />
+      <topic label="IusCLForm" href="help\reference\IusCLForm.html" />
+      <topic label="IusCLScreen" href="help\reference\IusCLScreen.html" />
+      <topic label="IusCLScrollBox" href="help\reference\IusCLScrollBox.html" />
+    </topic>
+    <topic label="org.iuscl.graphics" href="help\reference\org.iuscl.graphics.html">
+      <topic label="IusCLBrush" href="help\reference\IusCLBrush.html" />
+      <topic label="IusCLCanvas" href="help\reference\IusCLCanvas.html" />
+      <topic label="IusCLColor" href="help\reference\IusCLColor.html" />
+      <topic label="IusCLFont" href="help\reference\IusCLFont.html" />
+      <topic label="IusCLFontStyle" href="help\reference\IusCLFontStyle.html" />
+      <topic label="IusCLGraphic" href="help\reference\IusCLGraphic.html" />
+      <topic label="IusCLGraphicsObject" href="help\reference\IusCLGraphicsObject.html" />
+      <topic label="IusCLMultiGraphic" href="help\reference\IusCLMultiGraphic.html" />
+      <topic label="IusCLPen" href="help\reference\IusCLPen.html" />
+      <topic label="IusCLPicture" href="help\reference\IusCLPicture.html" />
+    </topic>
+    <topic label="org.iuscl.graphics.formats" href="help\reference\org.iuscl.graphics.formats.html">
+      <topic label="IusCLBitmap" href="help\reference\IusCLBitmap.html" />
+      <topic label="IusCLGif" href="help\reference\IusCLGif.html" />
+      <topic label="IusCLIcon" href="help\reference\IusCLIcon.html" />
+      <topic label="IusCLJpeg" href="help\reference\IusCLJpeg.html" />
+      <topic label="IusCLMetafile" href="help\reference\IusCLMetafile.html" />
+      <topic label="IusCLPng" href="help\reference\IusCLPng.html" />
+      <topic label="IusCLTiff" href="help\reference\IusCLTiff.html" />
+    </topic>
+    <topic label="org.iuscl.menus" href="help\reference\org.iuscl.menus.html">
+      <topic label="IusCLMainMenu" href="help\reference\IusCLMainMenu.html" />
+      <topic label="IusCLMenu" href="help\reference\IusCLMenu.html" />
+      <topic label="IusCLMenuItem" href="help\reference\IusCLMenuItem.html" />
+      <topic label="IusCLPopupMenu" href="help\reference\IusCLPopupMenu.html" />
+    </topic>
+    <topic label="org.iuscl.obj" href="help\reference\org.iuscl.obj.html">
+      <topic label="IusCLConstructor" href="help\reference\IusCLConstructor.html" />
+      <topic label="IusCLFieldConstructor" href="help\reference\IusCLFieldConstructor.html" />
+      <topic label="IusCLMethod" href="help\reference\IusCLMethod.html" />
+      <topic label="IusCLObjUtils" href="help\reference\IusCLObjUtils.html" />
+      <topic label="IusCLParam" href="help\reference\IusCLParam.html" />
+      <topic label="IusCLStaticMethod" href="help\reference\IusCLStaticMethod.html" />
+    </topic>
+    <topic label="org.iuscl.pdf" href="help\reference\org.iuscl.pdf.html">
+      <topic label="IusCLPdfComponent" href="help\reference\IusCLPdfComponent.html" />
+      <topic label="IusCLPdfDefaultHeaderAndFooter" href="help\reference\IusCLPdfDefaultHeaderAndFooter.html" />
+      <topic label="IusCLPdfDocument" href="help\reference\IusCLPdfDocument.html" />
+      <topic label="IusCLPdfFont" href="help\reference\IusCLPdfFont.html" />
+      <topic label="IusCLPdfHeaderAndFooter" href="help\reference\IusCLPdfHeaderAndFooter.html" />
+      <topic label="IusCLPdfImage" href="help\reference\IusCLPdfImage.html" />
+      <topic label="IusCLPdfRichText" href="help\reference\IusCLPdfRichText.html" />
+      <topic label="IusCLPdfText" href="help\reference\IusCLPdfText.html" />
+    </topic>
+    <topic label="org.iuscl.stdctrls" href="help\reference\org.iuscl.stdctrls.html">
+      <topic label="IusCLButton" href="help\reference\IusCLButton.html" />
+      <topic label="IusCLButtonControl" href="help\reference\IusCLButtonControl.html" />
+      <topic label="IusCLCheckBox" href="help\reference\IusCLCheckBox.html" />
+      <topic label="IusCLComboBox" href="help\reference\IusCLComboBox.html" />
+      <topic label="IusCLEdit" href="help\reference\IusCLEdit.html" />
+      <topic label="IusCLEditControl" href="help\reference\IusCLEditControl.html" />
+      <topic label="IusCLGroupBox" href="help\reference\IusCLGroupBox.html" />
+      <topic label="IusCLLabel" href="help\reference\IusCLLabel.html" />
+      <topic label="IusCLListBox" href="help\reference\IusCLListBox.html" />
+      <topic label="IusCLMemo" href="help\reference\IusCLMemo.html" />
+      <topic label="IusCLMultiLineEditControl" href="help\reference\IusCLMultiLineEditControl.html" />
+      <topic label="IusCLPasswordEdit" href="help\reference\IusCLPasswordEdit.html" />
+      <topic label="IusCLRadioButton" href="help\reference\IusCLRadioButton.html" />
+      <topic label="IusCLScrollBar" href="help\reference\IusCLScrollBar.html" />
+      <topic label="IusCLStaticText" href="help\reference\IusCLStaticText.html" />
+    </topic>
+    <topic label="org.iuscl.sysctrls" href="help\reference\org.iuscl.sysctrls.html">
+      <topic label="IusCLApplicationEvents" href="help\reference\IusCLApplicationEvents.html" />
+      <topic label="IusCLScheduler" href="help\reference\IusCLScheduler.html" />
+      <topic label="IusCLTimer" href="help\reference\IusCLTimer.html" />
+      <topic label="IusCLUnzip" href="help\reference\IusCLUnzip.html" />
+      <topic label="IusCLZip" href="help\reference\IusCLZip.html" />
+    </topic>
+    <topic label="org.iuscl.system" href="help\reference\org.iuscl.system.html">
+      <topic label="IusCLLog" href="help\reference\IusCLLog.html" />
+      <topic label="IusCLObject" href="help\reference\IusCLObject.html" />
+    </topic>
+    <topic label="org.iuscl.sysutils" href="help\reference\org.iuscl.sysutils.html">
+      <topic label="IusCLFileSearchRec" href="help\reference\IusCLFileSearchRec.html" />
+      <topic label="IusCLFileUtils" href="help\reference\IusCLFileUtils.html" />
+      <topic label="IusCLGraphUtils" href="help\reference\IusCLGraphUtils.html" />
+      <topic label="IusCLProgressMonitor" href="help\reference\IusCLProgressMonitor.html" />
+      <topic label="IusCLStrUtils" href="help\reference\IusCLStrUtils.html" />
+    </topic>
+    <topic label="org.iuscl.types" href="help\reference\org.iuscl.types.html">
+      <topic label="IusCLMargins" href="help\reference\IusCLMargins.html" />
+      <topic label="IusCLPoint" href="help\reference\IusCLPoint.html" />
+      <topic label="IusCLRectangle" href="help\reference\IusCLRectangle.html" />
+      <topic label="IusCLSize" href="help\reference\IusCLSize.html" />
+    </topic>
+    <topic label="org.iuscl.windows" href="help\reference\org.iuscl.windows.html">
+      <topic label="IusCLSwtWindowsStatusBar" href="help\reference\IusCLSwtWindowsStatusBar.html" />
+    </topic>
+  </topic>
+</toc>
+
