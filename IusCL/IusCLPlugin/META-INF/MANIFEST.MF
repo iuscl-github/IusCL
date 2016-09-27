@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: IusCLPlugin
+Bundle-Name: IusCL IDE
 Bundle-SymbolicName: org.iuscl.ide;singleton:=true
 Bundle-Version: 1.0.3.qualifier
 Bundle-Activator: org.iuscl.plugin.IusCLPlugin
