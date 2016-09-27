@@ -1,6 +1,6 @@
-<div style="width: 640px, margin: auto;">
+<p style="width: 640px, margin: auto;">
 <img src="https://github.com/iuscl-ide/IusCL/raw/master/docs/images/IusCLHelpHeader.gif">
-</div>
+</p>
 ![IusCL Header](https://github.com/iuscl-ide/IusCL/raw/master/docs/images/IusCLHelpHeader.gif)
 In the process of moving from SourceForge
 =
