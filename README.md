@@ -1,9 +1,10 @@
 <p align="center" style="width: 640px;">
   <img src="https://github.com/iuscl-ide/IusCL/raw/master/docs/images/IusCLHelpHeader.gif">
-<div style="margin:auto;width:640px;"><p>In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge
-</p></div>
-
 </p>
+<div style="margin:auto;width:640px;">
+<p>In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge
+</p>
+</div>
 ![IusCL Header](https://github.com/iuscl-ide/IusCL/raw/master/docs/images/IusCLHelpHeader.gif)
 In the process of moving from SourceForge
 =
