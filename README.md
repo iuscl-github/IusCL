@@ -1,4 +1,4 @@
-![iusclhelpheader](https://cloud.githubusercontent.com/assets/22419675/18888161/dd725ebc-84ff-11e6-99c2-23f8d2e17b41.gif)
+[iusclhelpheader](https://cloud.githubusercontent.com/assets/22419675/18888161/dd725ebc-84ff-11e6-99c2-23f8d2e17b41.gif)
 In the process of moving from SourceForge
 =
 
