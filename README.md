@@ -1,6 +1,6 @@
 <p align="center" style="width: 640px;">
   <img src="https://github.com/iuscl-ide/IusCL/raw/master/docs/images/IusCLHelpHeader.gif">
-In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge
+<p>In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge</p>
 
 </p>
 ![IusCL Header](https://github.com/iuscl-ide/IusCL/raw/master/docs/images/IusCLHelpHeader.gif)
