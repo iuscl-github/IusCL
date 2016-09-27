@@ -1,4 +1,4 @@
-<p style="width: 640px, margin: auto;">
+<p align="center" style="width: 640px;">
 <img src="https://github.com/iuscl-ide/IusCL/raw/master/docs/images/IusCLHelpHeader.gif">
 </p>
 ![IusCL Header](https://github.com/iuscl-ide/IusCL/raw/master/docs/images/IusCLHelpHeader.gif)
