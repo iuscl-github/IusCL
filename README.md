@@ -1,6 +1,6 @@
-In the process of moving from SourceForge
+*In the process of moving from SourceForge*
 ![IusCL Header](https://github.com/iuscl-ide/IusCL/raw/master/docs/gh/IusCLGHHeader.gif)
-#IusCL Repository for [IusCL.org](http://iuscl.org)
+#Repository for [IusCL.org](http://iuscl.org)
 Delphi7 style, Windows **Java SWT based Component Library** and **Eclipse Development Plug-in**
 
 **Installation**
@@ -25,5 +25,5 @@ This software is distributed under the terms of [Eclipse Public License v1.0](ht
 
 =
 <p align="center">
-Copyright 2012 - 2016 IusCL [iuscl.org](http://iuscl.org)
+Copyright 2012 - 2016 IusCL <a href="http://iuscl.org">iuscl.org</a>
 </p>
