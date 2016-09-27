@@ -1,5 +1,5 @@
-<p align="center" style="width: 640px;">
-  <img src="https://github.com/iuscl-ide/IusCL/raw/master/docs/images/IusCLHelpHeader.gif">
+<p align="center">
+  <img src="https://github.com/iuscl-ide/IusCL/raw/master/docs/gh/IusCLGHHeader.gif">
 </p>
 <p align="justify">In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge In the process of moving from SourceForge
 </p>
