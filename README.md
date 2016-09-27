@@ -1,6 +1,7 @@
 <div style="width: 640px, align: 'center';">
-![IusCL Header](https://github.com/iuscl-ide/IusCL/raw/master/docs/images/IusCLHelpHeader.gif)
+<img src="https://github.com/iuscl-ide/IusCL/raw/master/docs/images/IusCLHelpHeader.gif">
 </div>
+![IusCL Header](https://github.com/iuscl-ide/IusCL/raw/master/docs/images/IusCLHelpHeader.gif)
 In the process of moving from SourceForge
 =
 
