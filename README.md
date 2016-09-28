@@ -5,19 +5,21 @@ Delphi7 style, Windows **Java SWT based Component Library** and **Eclipse Develo
 
 **Installation**
 
-Follow the instructions from [Update Site](http://iuscl.org/update/)
+Follow the instructions from [Install and Verify](http://iuscl.org/help/gettingstarted/installverify.html)
 
 This plugin works only on 32 bits! (32 bits Eclipse with 32 bits Java)
 
 **Screenshots**
 
-Follow the instructions from [Update Site](http://iuscl.org/update/)
+Some plug-in images are on the page [screenshots](http://iuscl.org/help/gettingstarted/screenshots.html)
 
 **Introduction**
 
 <p align="justify">
 IusCL is an Eclipse Plug-in that offers an application development style similar to Delphi7. It is built around a library containing a class hierarchy similar to VCL and based on SWT for the UI part. The library can be distributed with the developed applications, in the terms of the Eclipse Public License. The project is fully functional, but the documentation is only started. It should be installed as a normal Eclipse plug-in, and then its usage should hopefully be intuitive, as this is one of the goals of the project.
 </p>
+
+This project is migrated from SourceForge
 
 **License**
 
