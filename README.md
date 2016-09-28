@@ -22,7 +22,7 @@ This project is migrated from SourceForge
 
 **License**
 
-This software is distributed under the terms of [Eclipse Public License v1.0](http://www.eclipse.org/org/documents/epl-v10.html)
+This software is distributed under the terms of [license](http://iuscl.org/help/userguide/license.html)
 
 =
 <p align="center">
