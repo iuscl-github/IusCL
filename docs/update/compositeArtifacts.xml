@@ -7,6 +7,6 @@
         <property name='p2.timestamp' value='201609282205' />
     </properties>
     <children size='1'>
-        <child location='http://github.com/iuscl-ide/IusCL/releases/latest/IusCLrelease.zip' />
+        <child location='jar:http://github.com/iuscl-ide/IusCL/releases/latest/IusCLrelease.zip!/' />
     </children>
 </repository>
