@@ -24,7 +24,7 @@ This project is migrated from SourceForge
 
 This software is distributed under the terms of [license](http://iuscl.org/help/userguide/license.html)
 
-=
+---
 
 <p align="center">
 Copyright 2012 - 2016 IusCL <a href="http://iuscl.org">iuscl.org</a>
